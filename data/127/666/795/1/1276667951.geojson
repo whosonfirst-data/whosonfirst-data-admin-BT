@@ -1,0 +1,67 @@
+{
+  "id": 1276667951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.76667,27.08333,90.76667,27.08333",
+    "geom:latitude":27.08333,
+    "geom:longitude":90.76667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gonphu",
+    "gn:country_code":"BT",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252570,
+    "gn:latitude":27.08333,
+    "gn:longitude":90.76667,
+    "gn:modification_date":"2006-08-31",
+    "gn:name":"G\u00f6nphu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669559,
+        1108747661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252570
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"7526ed63d4787ab1684401a59c660173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747661,
+            "locality_id":1276667951,
+            "region_id":85669559
+        }
+    ],
+    "wof:id":1276667951,
+    "wof:lastmodified":1536826391,
+    "wof:name":"Gonphu",
+    "wof:parent_id":1108747661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.76667,
+    27.08333,
+    90.76667,
+    27.08333
+],
+  "geometry": {"coordinates":[90.76667,27.08333],"type":"Point"}
+}

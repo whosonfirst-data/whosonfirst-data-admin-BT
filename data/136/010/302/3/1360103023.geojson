@@ -1,0 +1,78 @@
+{
+  "id": 1360103023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.70901,27.73228,91.70901,27.73228",
+    "geom:latitude":27.73228,
+    "geom:longitude":91.70901,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Drakhang",
+    "gn:country_code":"BT",
+    "gn:dem":2161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8431133,
+    "gn:latitude":27.73228,
+    "gn:longitude":91.70901,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Drakh\u0101ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672259,
+        85632701,
+        102191569,
+        85632469,
+        890507391,
+        85632695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8431133
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"d56d3e32ca018c5e0787e8bce28da73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890507391,
+            "disputed_id":85632701,
+            "locality_id":1360103023,
+            "region_id":85672259
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890507391,
+            "disputed_id":85632701,
+            "locality_id":1360103023,
+            "region_id":85672259
+        }
+    ],
+    "wof:id":1360103023,
+    "wof:lastmodified":1536920388,
+    "wof:name":"Drakhang",
+    "wof:parent_id":890507391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.70901,
+    27.73228,
+    91.70901,
+    27.73228
+],
+  "geometry": {"coordinates":[91.70901000000001,27.73228],"type":"Point"}
+}

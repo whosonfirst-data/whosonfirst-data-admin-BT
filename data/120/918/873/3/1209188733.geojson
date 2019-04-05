@@ -1,0 +1,61 @@
+{
+  "id": 1209188733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.65024,27.43277,89.65024,27.43277",
+    "geom:latitude":27.43277,
+    "geom:longitude":89.65024,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Babesa",
+    "gn:country_code":"BT",
+    "gn:dem":2275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11072155,
+    "gn:latitude":27.43277,
+    "gn:longitude":89.65024,
+    "gn:modification_date":"2016-02-23",
+    "gn:name":"Babesa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11072155
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"f5eb330af6424f6d2169dea45a73da92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632171,
+            "locality_id":1209188733
+        }
+    ],
+    "wof:id":1209188733,
+    "wof:lastmodified":1536295009,
+    "wof:name":"Babesa",
+    "wof:parent_id":85632171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.65024,
+    27.43277,
+    89.65024,
+    27.43277
+],
+  "geometry": {"coordinates":[89.65024,27.43277],"type":"Point"}
+}

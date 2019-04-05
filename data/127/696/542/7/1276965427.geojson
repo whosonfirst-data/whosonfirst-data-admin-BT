@@ -1,0 +1,67 @@
+{
+  "id": 1276965427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.43135,27.38893,89.43135,27.38893",
+    "geom:latitude":27.38893,
+    "geom:longitude":89.43135,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Paro populated 1",
+    "gn:country_code":"BT",
+    "gn:dem":2220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7910396,
+    "gn:latitude":27.38893,
+    "gn:longitude":89.43135,
+    "gn:modification_date":"2011-07-25",
+    "gn:name":"Paro populated 1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669513,
+        1108747695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7910396
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"322632f2279c5ba20f948b469a969840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747695,
+            "locality_id":1276965427,
+            "region_id":85669513
+        }
+    ],
+    "wof:id":1276965427,
+    "wof:lastmodified":1536927375,
+    "wof:name":"Paro populated 1",
+    "wof:parent_id":1108747695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.43135,
+    27.38893,
+    89.43135,
+    27.38893
+],
+  "geometry": {"coordinates":[89.43134999999999,27.38893],"type":"Point"}
+}

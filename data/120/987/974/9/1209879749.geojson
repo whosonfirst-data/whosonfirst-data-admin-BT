@@ -1,0 +1,68 @@
+{
+  "id": 1209879749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.5,26.89,91.5,26.89",
+    "geom:latitude":26.89,
+    "geom:longitude":91.5,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Deothang",
+    "gn:country_code":"BT",
+    "gn:dem":1323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10173480,
+    "gn:latitude":26.89,
+    "gn:longitude":91.5,
+    "gn:modification_date":"2015-03-24",
+    "gn:name":"Deothang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669579,
+        1108748197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10173480,
+        "wk:page":"Deothang"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"2743c240a9589594e015c81b145e56fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108748197,
+            "locality_id":1209879749,
+            "region_id":85669579
+        }
+    ],
+    "wof:id":1209879749,
+    "wof:lastmodified":1537488413,
+    "wof:name":"Deothang",
+    "wof:parent_id":1108748197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.5,
+    26.89,
+    91.5,
+    26.89
+],
+  "geometry": {"coordinates":[91.5,26.89],"type":"Point"}
+}

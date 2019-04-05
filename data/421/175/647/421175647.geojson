@@ -1,0 +1,91 @@
+{
+  "id": 421175647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.08333,27.25,91.08333,27.25",
+    "geom:latitude":27.25,
+    "geom:longitude":91.08333,
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Shongar Dzong"
+    ],
+    "name:eng_x_preferred":[
+        "Shongar Dzong"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u043d\u0433\u0430\u0440-\u0434\u0437\u043e\u043d\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Shongar Dzong"
+    ],
+    "qs:gn_country":"BT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1252443,
+    "qs:gn_pop":0,
+    "qs:name":"Tongsa Dzong",
+    "qs:name_adm0":"Bhutan",
+    "qs:name_adm1":"Tongsa",
+    "qs:photos":363,
+    "qs:photos_1k":74,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":363,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":493035,
+    "qs:woe_adm0":23424770,
+    "qs:woe_id":1887886,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669571,
+        421184419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252443,
+        "gp:id":1887886,
+        "qs:id":493035,
+        "wd:id":"Q4526091",
+        "wk:page":"Shongar Dzong"
+    },
+    "wof:country":"BT",
+    "wof:created":1459009074,
+    "wof:geomhash":"ed2639353b6860c64a690d3d926221a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":421184419,
+            "locality_id":421175647,
+            "region_id":85669571
+        }
+    ],
+    "wof:id":421175647,
+    "wof:lastmodified":1527716343,
+    "wof:name":"Tongsa Dzong",
+    "wof:parent_id":421184419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.08333,
+    27.25,
+    91.08333,
+    27.25
+],
+  "geometry": {"coordinates":[91.08333,27.25],"type":"Point"}
+}

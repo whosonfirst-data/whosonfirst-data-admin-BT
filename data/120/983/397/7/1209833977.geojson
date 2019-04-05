@@ -1,0 +1,71 @@
+{
+  "id": 1209833977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.63333,27.43333,91.63333,27.43333",
+    "geom:latitude":27.43333,
+    "geom:longitude":91.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yalang",
+    "gn:country_code":"BT",
+    "gn:dem":2521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252393,
+    "gn:latitude":27.43333,
+    "gn:longitude":91.63333,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Y\u0101lang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u0101lang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669555,
+        1108747699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252393,
+        "wk:page":"Yalang"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"c323f90b68ef910f63f663c5bae5a32d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747699,
+            "locality_id":1209833977,
+            "region_id":85669555
+        }
+    ],
+    "wof:id":1209833977,
+    "wof:lastmodified":1537588926,
+    "wof:name":"Yalang",
+    "wof:parent_id":1108747699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.63333,
+    27.43333,
+    91.63333,
+    27.43333
+],
+  "geometry": {"coordinates":[91.63333,27.43333],"type":"Point"}
+}

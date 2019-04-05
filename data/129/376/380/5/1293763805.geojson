@@ -1,0 +1,67 @@
+{
+  "id": 1293763805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.16667,27.18333,91.16667,27.18333",
+    "geom:latitude":27.18333,
+    "geom:longitude":91.16667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gyepozhing",
+    "gn:country_code":"BT",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1337376,
+    "gn:latitude":27.18333,
+    "gn:longitude":91.16667,
+    "gn:modification_date":"1997-02-11",
+    "gn:name":"Gyepozhing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669571,
+        421184419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337376
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"523c62d72ee6e5040413634ef907ff54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":421184419,
+            "locality_id":1293763805,
+            "region_id":85669571
+        }
+    ],
+    "wof:id":1293763805,
+    "wof:lastmodified":1536885312,
+    "wof:name":"Gyepozhing",
+    "wof:parent_id":421184419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.16667,
+    27.18333,
+    91.16667,
+    27.18333
+],
+  "geometry": {"coordinates":[91.16667,27.18333],"type":"Point"}
+}

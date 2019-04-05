@@ -1,0 +1,67 @@
+{
+  "id": 1327310061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.24836,26.81771,91.24836,26.81771",
+    "geom:latitude":26.81771,
+    "geom:longitude":91.24836,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Nganglam New",
+    "gn:country_code":"BT",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8740320,
+    "gn:latitude":26.81771,
+    "gn:longitude":91.24836,
+    "gn:modification_date":"2014-03-26",
+    "gn:name":"Nganglam New",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669575,
+        1108747537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8740320
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"e770da88727dd25abb01762be33d4aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747537,
+            "locality_id":1327310061,
+            "region_id":85669575
+        }
+    ],
+    "wof:id":1327310061,
+    "wof:lastmodified":1536856336,
+    "wof:name":"Nganglam New",
+    "wof:parent_id":1108747537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.24836,
+    26.81771,
+    91.24836,
+    26.81771
+],
+  "geometry": {"coordinates":[91.24836000000001,26.81771],"type":"Point"}
+}

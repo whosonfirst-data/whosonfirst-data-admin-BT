@@ -1,0 +1,81 @@
+{
+  "id": 1125820297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.498,27.6116,91.498,27.6116",
+    "geom:latitude":27.6116,
+    "geom:longitude":91.498,
+    "gn:gn_country":"BT",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":3025,
+    "gn:population":3025,
+    "iso:country":"BT",
+    "lbl:latitude":27.6116,
+    "lbl:longitude":91.498,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Tashigang"
+    ],
+    "qs_pg:aaroncc":"BT",
+    "qs_pg:gn_country":"BT",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":1252422,
+    "qs_pg:gn_pop":3025,
+    "qs_pg:name":"Trashi Yangtse",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":131048,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669555,
+        1108747659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252422,
+        "qs_pg:id":131048
+    },
+    "wof:country":"BT",
+    "wof:created":1497292014,
+    "wof:geomhash":"0a661bde31dbddf3f697e09a9076e79e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747659,
+            "locality_id":1125820297,
+            "region_id":85669555
+        }
+    ],
+    "wof:id":1125820297,
+    "wof:lastmodified":1509394049,
+    "wof:name":"Trashi Yangtse",
+    "wof:parent_id":1108747659,
+    "wof:placetype":"locality",
+    "wof:population":3025,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.498,
+    27.6116,
+    91.498,
+    27.6116
+],
+  "geometry": {"coordinates":[91.498,27.6116],"type":"Point"}
+}

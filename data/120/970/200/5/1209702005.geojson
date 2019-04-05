@@ -1,0 +1,68 @@
+{
+  "id": 1209702005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.52257,27.46883,89.52257,27.46883",
+    "geom:latitude":27.46883,
+    "geom:longitude":89.52257,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tshalunang",
+    "gn:country_code":"BT",
+    "gn:dem":2755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1337384,
+    "gn:latitude":27.46883,
+    "gn:longitude":89.52257,
+    "gn:modification_date":"2016-02-23",
+    "gn:name":"Tshalunang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669527,
+        1108747509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337384,
+        "wk:page":"Tshalunang"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"bc71f3eb7fc429f526256338e21a8ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747509,
+            "locality_id":1209702005,
+            "region_id":85669527
+        }
+    ],
+    "wof:id":1209702005,
+    "wof:lastmodified":1537488413,
+    "wof:name":"Tshalunang",
+    "wof:parent_id":1108747509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.52257,
+    27.46883,
+    89.52257,
+    27.46883
+],
+  "geometry": {"coordinates":[89.52257,27.46883],"type":"Point"}
+}

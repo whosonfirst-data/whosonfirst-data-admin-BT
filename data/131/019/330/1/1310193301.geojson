@@ -1,0 +1,67 @@
+{
+  "id": 1310193301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.17485,27.44309,91.17485,27.44309",
+    "geom:latitude":27.44309,
+    "geom:longitude":91.17485,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Autsho",
+    "gn:country_code":"BT",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7701319,
+    "gn:latitude":27.44309,
+    "gn:longitude":91.17485,
+    "gn:modification_date":"2011-03-08",
+    "gn:name":"Autsho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669549,
+        1108748505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7701319
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"de9d51f782cc3ab08039ec04a9be54cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108748505,
+            "locality_id":1310193301,
+            "region_id":85669549
+        }
+    ],
+    "wof:id":1310193301,
+    "wof:lastmodified":1536868747,
+    "wof:name":"Autsho",
+    "wof:parent_id":1108748505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.17485,
+    27.44309,
+    91.17485,
+    27.44309
+],
+  "geometry": {"coordinates":[91.17485000000001,27.44309],"type":"Point"}
+}

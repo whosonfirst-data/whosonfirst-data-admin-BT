@@ -1,0 +1,68 @@
+{
+  "id": 1242787859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.16667,27.38333,91.16667,27.38333",
+    "geom:latitude":27.38333,
+    "geom:longitude":91.16667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Monka",
+    "gn:country_code":"BT",
+    "gn:dem":2062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252513,
+    "gn:latitude":27.38333,
+    "gn:longitude":91.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Monka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669571,
+        1108747667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252513,
+        "wk:page":"Monka"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"f99363f625ff02a9bcf79f4facfb90ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747667,
+            "locality_id":1242787859,
+            "region_id":85669571
+        }
+    ],
+    "wof:id":1242787859,
+    "wof:lastmodified":1537488410,
+    "wof:name":"Monka",
+    "wof:parent_id":1108747667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.16667,
+    27.38333,
+    91.16667,
+    27.38333
+],
+  "geometry": {"coordinates":[91.16667,27.38333],"type":"Point"}
+}

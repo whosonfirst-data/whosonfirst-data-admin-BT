@@ -1,0 +1,68 @@
+{
+  "id": 1260048779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.06667,27.75,90.06667,27.75",
+    "geom:latitude":27.75,
+    "geom:longitude":90.06667,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tseshinang",
+    "gn:country_code":"BT",
+    "gn:dem":3785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1337380,
+    "gn:latitude":27.75,
+    "gn:longitude":90.06667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tseshinang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669565,
+        1108748297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337380,
+        "wk:page":"Tseshinang"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"d7c17be2c6519f89d7a2a6b0fb616f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108748297,
+            "locality_id":1260048779,
+            "region_id":85669565
+        }
+    ],
+    "wof:id":1260048779,
+    "wof:lastmodified":1537488413,
+    "wof:name":"Tseshinang",
+    "wof:parent_id":1108748297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.06667,
+    27.75,
+    90.06667,
+    27.75
+],
+  "geometry": {"coordinates":[90.06667,27.75],"type":"Point"}
+}

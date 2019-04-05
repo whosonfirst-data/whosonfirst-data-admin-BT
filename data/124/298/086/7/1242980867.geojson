@@ -1,0 +1,68 @@
+{
+  "id": 1242980867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.22442,27.63922,91.22442,27.63922",
+    "geom:latitude":27.63922,
+    "geom:longitude":91.22442,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Donkar",
+    "gn:country_code":"BT",
+    "gn:dem":1346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252589,
+    "gn:latitude":27.63922,
+    "gn:longitude":91.22442,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Donkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669549,
+        1108747511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252589,
+        "wk:page":"Donkar"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"40563ef8fd63c523a8819fa155d17583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747511,
+            "locality_id":1242980867,
+            "region_id":85669549
+        }
+    ],
+    "wof:id":1242980867,
+    "wof:lastmodified":1537488411,
+    "wof:name":"Donkar",
+    "wof:parent_id":1108747511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.22442,
+    27.63922,
+    91.22442,
+    27.63922
+],
+  "geometry": {"coordinates":[91.22441999999999,27.63922],"type":"Point"}
+}

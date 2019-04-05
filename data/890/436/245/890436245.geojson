@@ -1,0 +1,108 @@
+{
+  "id": 890436245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.65794,27.21689,90.65794,27.21689",
+    "geom:latitude":27.21689,
+    "geom:longitude":90.65794,
+    "gn:country":"BT",
+    "gn:fcode":"PPLA",
+    "gn:pop":852,
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8b1d\u59c6\u5ca1"
+    ],
+    "name:dut_x_preferred":[
+        "Zhemgang"
+    ],
+    "name:eng_x_preferred":[
+        "Zhemgang"
+    ],
+    "name:est_x_preferred":[
+        "Zhemgang"
+    ],
+    "name:gre_x_preferred":[
+        "\u0396\u03ad\u03bc\u03b3\u03ba\u03b1\u03bd\u03b3\u03ba"
+    ],
+    "name:ita_x_preferred":[
+        "Zhemgang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a7\u30e0\u30ac\u30f3"
+    ],
+    "name:rum_x_preferred":[
+        "Zhemgang"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043c\u0433\u0430\u043d\u0433"
+    ],
+    "name:slo_x_preferred":[
+        "Zhemgang"
+    ],
+    "name:swe_x_preferred":[
+        "Shemgang"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0435\u043c\u0433\u0430\u043d\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Shangong Dzong"
+    ],
+    "qs:name":"Shemgang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":504,
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669559,
+        1108747661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252451,
+        "gp:id":1887821,
+        "qs:id":84439,
+        "wd:id":"Q2158280",
+        "wk:page":"Zhemgang District"
+    },
+    "wof:country":"BT",
+    "wof:created":1469052104,
+    "wof:geomhash":"2d21ede3bd625e7ac48f286f6fda9d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747661,
+            "locality_id":890436245,
+            "region_id":85669559
+        }
+    ],
+    "wof:id":890436245,
+    "wof:lastmodified":1527735400,
+    "wof:name":"Shemgang",
+    "wof:parent_id":1108747661,
+    "wof:placetype":"locality",
+    "wof:population":852,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.65794,
+    27.21689,
+    90.65794,
+    27.21689
+],
+  "geometry": {"coordinates":[90.65794,27.21689],"type":"Point"}
+}

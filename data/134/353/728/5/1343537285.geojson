@@ -1,0 +1,67 @@
+{
+  "id": 1343537285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.80639,27.04111,90.80639,27.04111",
+    "geom:latitude":27.04111,
+    "geom:longitude":90.80639,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Praling",
+    "gn:country_code":"BT",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11101513,
+    "gn:latitude":27.04111,
+    "gn:longitude":90.80639,
+    "gn:modification_date":"2016-03-14",
+    "gn:name":"Praling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669559,
+        1108747661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11101513
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"a06e6c6bb48e00a030e7f03d0844bbaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747661,
+            "locality_id":1343537285,
+            "region_id":85669559
+        }
+    ],
+    "wof:id":1343537285,
+    "wof:lastmodified":1536634109,
+    "wof:name":"Praling",
+    "wof:parent_id":1108747661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.80639,
+    27.04111,
+    90.80639,
+    27.04111
+],
+  "geometry": {"coordinates":[90.80638999999999,27.04111],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226060827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.0,27.66667,90.0,27.66667",
+    "geom:latitude":27.66667,
+    "geom:longitude":90.0,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Shegaria",
+    "gn:country_code":"BT",
+    "gn:dem":2668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252448,
+    "gn:latitude":27.66667,
+    "gn:longitude":90.0,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Shegaria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669531,
+        421204395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252448
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"17631e4581e8b213949cb7a3e60de2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":421204395,
+            "locality_id":1226060827,
+            "region_id":85669531
+        }
+    ],
+    "wof:id":1226060827,
+    "wof:lastmodified":1536703707,
+    "wof:name":"Shegaria",
+    "wof:parent_id":421204395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.0,
+    27.66667,
+    90.0,
+    27.66667
+],
+  "geometry": {"coordinates":[90.0,27.66667],"type":"Point"}
+}

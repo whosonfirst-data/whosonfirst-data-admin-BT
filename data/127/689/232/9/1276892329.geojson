@@ -1,0 +1,73 @@
+{
+  "id": 1276892329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.42672,27.73671,91.42672,27.73671",
+    "geom:latitude":27.73671,
+    "geom:longitude":91.42672,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Taripe",
+    "gn:country_code":"BT",
+    "gn:dem":2203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252427,
+    "gn:latitude":27.73671,
+    "gn:longitude":91.42672,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Taripe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taripo",
+        "Taripe",
+        "Tarphe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669555,
+        1108747285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252427,
+        "wk:page":"Taripe"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"967742f3a162a91251a890d456aac118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747285,
+            "locality_id":1276892329,
+            "region_id":85669555
+        }
+    ],
+    "wof:id":1276892329,
+    "wof:lastmodified":1537588927,
+    "wof:name":"Taripe",
+    "wof:parent_id":1108747285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.42672,
+    27.73671,
+    91.42672,
+    27.73671
+],
+  "geometry": {"coordinates":[91.42672,27.73671],"type":"Point"}
+}

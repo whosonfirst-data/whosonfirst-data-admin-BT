@@ -1,0 +1,77 @@
+{
+  "id": 890455907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.25,26.78333,91.25,26.78333",
+    "geom:latitude":26.78333,
+    "geom:longitude":91.25,
+    "gn:country":"BT",
+    "gn:fcode":"PPL",
+    "gn:pop":707,
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Nganglam"
+    ],
+    "name:eng_x_preferred":[
+        "Nganglam"
+    ],
+    "name:swe_x_preferred":[
+        "Nganglam"
+    ],
+    "qs:name":"Nganglam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672181,
+        1108696065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337357,
+        "qs:id":555801,
+        "wd:id":"Q7022007",
+        "wk:page":"Nganglam"
+    },
+    "wof:country":"BT",
+    "wof:created":1469052985,
+    "wof:geomhash":"33597660180a3f5ac15cd85ebba3ec3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696065,
+            "locality_id":890455907,
+            "region_id":85672181
+        }
+    ],
+    "wof:id":890455907,
+    "wof:lastmodified":1527734189,
+    "wof:name":"Nganglam",
+    "wof:parent_id":1108696065,
+    "wof:placetype":"locality",
+    "wof:population":707,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.25,
+    26.78333,
+    91.25,
+    26.78333
+],
+  "geometry": {"coordinates":[91.25,26.78333],"type":"Point"}
+}

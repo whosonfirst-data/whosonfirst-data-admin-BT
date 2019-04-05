@@ -1,0 +1,74 @@
+{
+  "id": 1242674459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.12291,27.0219,90.12291,27.0219",
+    "geom:latitude":27.0219,
+    "geom:longitude":90.12291,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tsirang",
+    "gn:country_code":"BT",
+    "gn:dem":1410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":1252608,
+    "gn:latitude":27.0219,
+    "gn:longitude":90.12291,
+    "gn:modification_date":"2013-08-02",
+    "gn:name":"Tsirang",
+    "gn:population":18667,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chirang"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669541,
+        1108748311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252608,
+        "wk:page":"Tsirang_District"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"d1514a275d7fde6ae0c38532be6acddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108748311,
+            "locality_id":1242674459,
+            "region_id":85669541
+        }
+    ],
+    "wof:id":1242674459,
+    "wof:lastmodified":1537588929,
+    "wof:name":"Tsirang",
+    "wof:parent_id":1108748311,
+    "wof:placetype":"locality",
+    "wof:population":18667,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.12291,
+    27.0219,
+    90.12291,
+    27.0219
+],
+  "geometry": {"coordinates":[90.12291,27.0219],"type":"Point"}
+}

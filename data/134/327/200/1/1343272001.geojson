@@ -1,0 +1,67 @@
+{
+  "id": 1343272001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.98333,26.86667,90.98333,26.86667",
+    "geom:latitude":26.86667,
+    "geom:longitude":90.98333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sufali",
+    "gn:country_code":"BT",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252434,
+    "gn:latitude":26.86667,
+    "gn:longitude":90.98333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Sufali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669559,
+        1108747531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252434
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"5cdd5b9a5108f3015ea207cb5306613d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747531,
+            "locality_id":1343272001,
+            "region_id":85669559
+        }
+    ],
+    "wof:id":1343272001,
+    "wof:lastmodified":1537017437,
+    "wof:name":"Sufali",
+    "wof:parent_id":1108747531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.98333,
+    26.86667000000001,
+    90.98333,
+    26.86667000000001
+],
+  "geometry": {"coordinates":[90.98333,26.86667000000001],"type":"Point"}
+}

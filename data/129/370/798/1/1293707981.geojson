@@ -1,0 +1,89 @@
+{
+  "id": 1293707981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.48778,26.86833,90.48778,26.86833",
+    "geom:latitude":26.86833,
+    "geom:longitude":90.48778,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Geylegphug",
+    "gn:cc2":"BT",
+    "gn:country_code":"BT",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252560,
+    "gn:latitude":26.86833,
+    "gn:longitude":90.48778,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Geylegphug",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gelephu"
+    ],
+    "name:dzo_x_preferred":[
+        "\u0f51\u0f42\u0f7a\u0f0b\u0f63\u0f7a\u0f42\u0f66\u0f0b\u0f55\u0f74\u0f0b"
+    ],
+    "name:eng_x_preferred":[
+        "Gelyephug"
+    ],
+    "name:eng_x_variant":[
+        "Gelephu"
+    ],
+    "name:fra_x_preferred":[
+        "Gelephu"
+    ],
+    "name:und_x_variant":[
+        "Hatis\u0101r",
+        "Geylegphug",
+        "Gelaphu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669545,
+        1108748239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252560,
+        "wk:page":"Gelephu"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"3116a5f1527cc2b195954ab155c7d7fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108748239,
+            "locality_id":1293707981,
+            "region_id":85669545
+        }
+    ],
+    "wof:id":1293707981,
+    "wof:lastmodified":1537588929,
+    "wof:name":"Geylegphug",
+    "wof:parent_id":1108748239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.48778,
+    26.86833,
+    90.48778,
+    26.86833
+],
+  "geometry": {"coordinates":[90.48778,26.86833],"type":"Point"}
+}

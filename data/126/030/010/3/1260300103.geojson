@@ -1,0 +1,67 @@
+{
+  "id": 1260300103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.2,27.36667,90.2,27.36667",
+    "geom:latitude":27.36667,
+    "geom:longitude":90.2,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sawaphu",
+    "gn:country_code":"BT",
+    "gn:dem":3004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252456,
+    "gn:latitude":27.36667,
+    "gn:longitude":90.2,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Sawaphu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669565,
+        1108747555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252456
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"f85dc622eafbac9242c7197c439ff86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747555,
+            "locality_id":1260300103,
+            "region_id":85669565
+        }
+    ],
+    "wof:id":1260300103,
+    "wof:lastmodified":1536689636,
+    "wof:name":"Sawaphu",
+    "wof:parent_id":1108747555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.2,
+    27.36667000000001,
+    90.2,
+    27.36667000000001
+],
+  "geometry": {"coordinates":[90.2,27.36667000000001],"type":"Point"}
+}

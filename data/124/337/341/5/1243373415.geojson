@@ -1,0 +1,68 @@
+{
+  "id": 1243373415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.61667,26.9,89.61667,26.9",
+    "geom:latitude":26.9,
+    "geom:longitude":89.61667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Khitokha",
+    "gn:country_code":"BT",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252541,
+    "gn:latitude":26.9,
+    "gn:longitude":89.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khitokha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669501,
+        1108747283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252541,
+        "wk:page":"Khitokha"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"a245970c2c26a61d5bf8ff97830df090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747283,
+            "locality_id":1243373415,
+            "region_id":85669501
+        }
+    ],
+    "wof:id":1243373415,
+    "wof:lastmodified":1537488411,
+    "wof:name":"Khitokha",
+    "wof:parent_id":1108747283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.61667,
+    26.9,
+    89.61667,
+    26.9
+],
+  "geometry": {"coordinates":[89.61667,26.9],"type":"Point"}
+}

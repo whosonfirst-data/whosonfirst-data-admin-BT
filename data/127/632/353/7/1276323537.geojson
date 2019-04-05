@@ -1,0 +1,74 @@
+{
+  "id": 1276323537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.26745,26.86395,90.26745,26.86395",
+    "geom:latitude":26.86395,
+    "geom:longitude":90.26745,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sarpang",
+    "gn:country_code":"BT",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":1252460,
+    "gn:latitude":26.86395,
+    "gn:longitude":90.26745,
+    "gn:modification_date":"2013-08-02",
+    "gn:name":"Sarpang",
+    "gn:population":10416,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarbh\u0101ng"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669545,
+        1108748451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252460,
+        "wk:page":"Sarpang"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"4f7caf143a21c8e2092a08e4cc6baea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108748451,
+            "locality_id":1276323537,
+            "region_id":85669545
+        }
+    ],
+    "wof:id":1276323537,
+    "wof:lastmodified":1537588927,
+    "wof:name":"Sarpang",
+    "wof:parent_id":1108748451,
+    "wof:placetype":"locality",
+    "wof:population":10416,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.26745,
+    26.86395,
+    90.26745,
+    26.86395
+],
+  "geometry": {"coordinates":[90.26745,26.86395],"type":"Point"}
+}

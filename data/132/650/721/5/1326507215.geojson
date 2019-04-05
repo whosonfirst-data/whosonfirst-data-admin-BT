@@ -1,0 +1,75 @@
+{
+  "id": 1326507215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.45,27.3,91.45,27.3",
+    "geom:latitude":27.3,
+    "geom:longitude":91.45,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dametsi",
+    "gn:cc2":"BT",
+    "gn:country_code":"BT",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252600,
+    "gn:latitude":27.3,
+    "gn:longitude":91.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dametsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damoitsi",
+        "Damecha",
+        "Damotse",
+        "Demtsi",
+        "Dametsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669571,
+        1108748375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252600
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"57c63001fb8aa2c2245bf3b501f07914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108748375,
+            "locality_id":1326507215,
+            "region_id":85669571
+        }
+    ],
+    "wof:id":1326507215,
+    "wof:lastmodified":1537588929,
+    "wof:name":"Dametsi",
+    "wof:parent_id":1108748375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.45,
+    27.3,
+    91.45,
+    27.3
+],
+  "geometry": {"coordinates":[91.45,27.3],"type":"Point"}
+}

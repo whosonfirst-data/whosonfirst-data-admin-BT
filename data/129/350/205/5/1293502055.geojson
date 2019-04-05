@@ -1,0 +1,68 @@
+{
+  "id": 1293502055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.53333,27.0,90.53333,27.0",
+    "geom:latitude":27.0,
+    "geom:longitude":90.53333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Galechugaon",
+    "gn:country_code":"BT",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252581,
+    "gn:latitude":27.0,
+    "gn:longitude":90.53333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Galechugaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669545,
+        1108748283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252581,
+        "wk:page":"Galechugaon"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"5e4bafb08c5bbf58c65532c4b3149b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108748283,
+            "locality_id":1293502055,
+            "region_id":85669545
+        }
+    ],
+    "wof:id":1293502055,
+    "wof:lastmodified":1537488411,
+    "wof:name":"Galechugaon",
+    "wof:parent_id":1108748283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.53333,
+    27.0,
+    90.53333,
+    27.0
+],
+  "geometry": {"coordinates":[90.53333000000001,27.0],"type":"Point"}
+}

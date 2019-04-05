@@ -1,0 +1,68 @@
+{
+  "id": 1292921751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.75,27.5,90.75,27.5",
+    "geom:latitude":27.5,
+    "geom:longitude":90.75,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Shuri",
+    "gn:country_code":"BT",
+    "gn:dem":2737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252442,
+    "gn:latitude":27.5,
+    "gn:longitude":90.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669537,
+        1108747309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252442,
+        "wk:page":"Shuri%2C_Bhutan"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"23aec97574a7ed77bc088179c6e9a86b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747309,
+            "locality_id":1292921751,
+            "region_id":85669537
+        }
+    ],
+    "wof:id":1292921751,
+    "wof:lastmodified":1537488409,
+    "wof:name":"Shuri",
+    "wof:parent_id":1108747309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.75,
+    27.5,
+    90.75,
+    27.5
+],
+  "geometry": {"coordinates":[90.75,27.5],"type":"Point"}
+}

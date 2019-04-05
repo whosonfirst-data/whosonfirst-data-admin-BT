@@ -1,0 +1,67 @@
+{
+  "id": 1260347755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.53195,27.40226,90.53195,27.40226",
+    "geom:latitude":27.40226,
+    "geom:longitude":90.53195,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bubja",
+    "gn:country_code":"BT",
+    "gn:dem":1867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9258352,
+    "gn:latitude":27.40226,
+    "gn:longitude":90.53195,
+    "gn:modification_date":"2014-08-04",
+    "gn:name":"Bubja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669563,
+        1108747351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9258352
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"a70e1ba93533ff148724792baf3d696d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747351,
+            "locality_id":1260347755,
+            "region_id":85669563
+        }
+    ],
+    "wof:id":1260347755,
+    "wof:lastmodified":1536624069,
+    "wof:name":"Bubja",
+    "wof:parent_id":1108747351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.53195,
+    27.40226,
+    90.53195,
+    27.40226
+],
+  "geometry": {"coordinates":[90.53194999999999,27.40226],"type":"Point"}
+}

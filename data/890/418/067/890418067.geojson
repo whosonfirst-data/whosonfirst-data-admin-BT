@@ -1,0 +1,81 @@
+{
+  "id": 890418067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.56667,27.06667,91.56667,27.06667",
+    "geom:latitude":27.06667,
+    "geom:longitude":91.56667,
+    "gn:country":"BT",
+    "gn:fcode":"PPL",
+    "gn:pop":416,
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Wamrong"
+    ],
+    "name:eng_x_preferred":[
+        "Wamrong"
+    ],
+    "name:por_x_preferred":[
+        "Wamrong"
+    ],
+    "name:swe_x_preferred":[
+        "Wamrong"
+    ],
+    "qs:name":"Wamrong",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669583,
+        1108747645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337378,
+        "gp:id":1887786,
+        "qs:id":555803,
+        "wd:id":"Q7966961",
+        "wk:page":"Wamrong"
+    },
+    "wof:country":"BT",
+    "wof:created":1469051233,
+    "wof:geomhash":"3cb4a796d25a870f99ca1a35469aed55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747645,
+            "locality_id":890418067,
+            "region_id":85669583
+        }
+    ],
+    "wof:id":890418067,
+    "wof:lastmodified":1527792817,
+    "wof:name":"Wamrong",
+    "wof:parent_id":1108747645,
+    "wof:placetype":"locality",
+    "wof:population":416,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.56667,
+    27.06667,
+    91.56667,
+    27.06667
+],
+  "geometry": {"coordinates":[91.56667,27.06667],"type":"Point"}
+}

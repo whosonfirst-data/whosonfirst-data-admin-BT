@@ -1,0 +1,76 @@
+{
+  "id": 421192425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.16009,27.47903,90.16009,27.47903",
+    "geom:latitude":27.47903,
+    "geom:longitude":90.16009,
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8430191,
+    "qs:gn_pop":0,
+    "qs:name":"Yekho",
+    "qs:name_adm0":"Bhutan",
+    "qs:name_adm1":"Wangdue Phodrang",
+    "qs:photos":289,
+    "qs:photos_1k":59,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":289,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168158,
+    "qs:woe_adm0":23424770,
+    "qs:woe_id":1887875,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669565,
+        421171403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8430191,
+        "gp:id":1887875,
+        "qs:id":1168158
+    },
+    "wof:country":"BT",
+    "wof:created":1459009736,
+    "wof:geomhash":"89df8e9de583ce73fe521b1ff37e392a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":421171403,
+            "locality_id":421192425,
+            "region_id":85669565
+        }
+    ],
+    "wof:id":421192425,
+    "wof:lastmodified":1499926740,
+    "wof:name":"Yekho",
+    "wof:parent_id":421171403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.16009,
+    27.47903,
+    90.16009,
+    27.47903
+],
+  "geometry": {"coordinates":[90.16009,27.47903],"type":"Point"}
+}

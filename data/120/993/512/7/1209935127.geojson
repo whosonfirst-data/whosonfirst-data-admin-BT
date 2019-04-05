@@ -1,0 +1,72 @@
+{
+  "id": 1209935127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.8,26.75694,89.8,26.75694",
+    "geom:latitude":26.75694,
+    "geom:longitude":89.8,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Lhamoy Zingkha Gewog",
+    "gn:country_code":"BT",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":11101596,
+    "gn:latitude":26.75694,
+    "gn:longitude":89.8,
+    "gn:modification_date":"2016-03-15",
+    "gn:name":"Lhamoy Zingkha Gewog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lhamoy Zingkha",
+        "Lhamoi Dzinghkha Gewog",
+        "Lhamoi Dzinghkha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669505,
+        1108747479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11101596
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"0ba84fe48899bb1c655d01f2d5cf4706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747479,
+            "locality_id":1209935127,
+            "region_id":85669505
+        }
+    ],
+    "wof:id":1209935127,
+    "wof:lastmodified":1537588930,
+    "wof:name":"Lhamoy Zingkha Gewog",
+    "wof:parent_id":1108747479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.8,
+    26.75694,
+    89.8,
+    26.75694
+],
+  "geometry": {"coordinates":[89.8,26.75694],"type":"Point"}
+}

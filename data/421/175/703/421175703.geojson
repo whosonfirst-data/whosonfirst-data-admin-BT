@@ -1,0 +1,85 @@
+{
+  "id": 421175703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.16667,27.55,90.16667,27.55",
+    "geom:latitude":27.55,
+    "geom:longitude":90.16667,
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Ritang"
+    ],
+    "name:eng_x_preferred":[
+        "Ritang"
+    ],
+    "qs:gn_country":"BT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1252473,
+    "qs:gn_pop":0,
+    "qs:name":"Ritang",
+    "qs:name_adm0":"Bhutan",
+    "qs:name_adm1":"Wangdue Phodrang",
+    "qs:photos":50,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":50,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1028704,
+    "qs:woe_adm0":23424770,
+    "qs:woe_id":1887800,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669565,
+        421183063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252473,
+        "gp:id":1887800,
+        "qs:id":1028704,
+        "wd:id":"Q7336633",
+        "wk:page":"Ritang, Bhutan"
+    },
+    "wof:country":"BT",
+    "wof:created":1459009076,
+    "wof:geomhash":"83890923fe6c5152011f9c862b9d964f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":421183063,
+            "locality_id":421175703,
+            "region_id":85669565
+        }
+    ],
+    "wof:id":421175703,
+    "wof:lastmodified":1527716342,
+    "wof:name":"Ritang",
+    "wof:parent_id":421183063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.16667,
+    27.55,
+    90.16667,
+    27.55
+],
+  "geometry": {"coordinates":[90.16667,27.55],"type":"Point"}
+}

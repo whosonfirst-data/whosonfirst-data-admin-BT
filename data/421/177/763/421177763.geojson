@@ -1,0 +1,77 @@
+{
+  "id": 421177763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.27384,27.51555,90.27384,27.51555",
+    "geom:latitude":27.51555,
+    "geom:longitude":90.27384,
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8430192,
+    "qs:gn_pop":0,
+    "qs:name":"Rukubji",
+    "qs:name_adm0":"Bhutan",
+    "qs:name_adm1":"Wangdue Phodrang",
+    "qs:photos":42,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":42,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1353271,
+    "qs:woe_adm0":23424770,
+    "qs:woe_id":1887879,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":282,
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669565,
+        421183967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8430192,
+        "gp:id":1887879,
+        "qs:id":1353271
+    },
+    "wof:country":"BT",
+    "wof:created":1459009160,
+    "wof:geomhash":"60892f2d8c7d6808c85910c5b22397fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":421183967,
+            "locality_id":421177763,
+            "region_id":85669565
+        }
+    ],
+    "wof:id":421177763,
+    "wof:lastmodified":1527716476,
+    "wof:name":"Rukubji",
+    "wof:parent_id":421183967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.27384,
+    27.51555,
+    90.27384,
+    27.51555
+],
+  "geometry": {"coordinates":[90.27384000000001,27.51555],"type":"Point"}
+}

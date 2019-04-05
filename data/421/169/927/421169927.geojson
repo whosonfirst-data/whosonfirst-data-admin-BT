@@ -1,0 +1,97 @@
+{
+  "id": 421169927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.71667,26.81667,91.71667,26.81667",
+    "geom:latitude":26.81667,
+    "geom:longitude":91.71667,
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bhangtar"
+    ],
+    "name:dut_x_preferred":[
+        "Bhangtar"
+    ],
+    "name:eng_x_preferred":[
+        "Bhangtar"
+    ],
+    "name:swe_x_preferred":[
+        "Bhangtar"
+    ],
+    "name:unk_x_variant":[
+        "Bhangtar"
+    ],
+    "qs:gn_country":"BT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1337387,
+    "qs:gn_pop":656,
+    "qs:name":"Bhangamur",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Assam",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":521917,
+    "qs:woe_adm0":23424848,
+    "qs:woe_id":29151215,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669579,
+        1108748411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337387,
+        "gp:id":29151215,
+        "qs:id":521917,
+        "wd:id":"Q4901017",
+        "wk:page":"Bhangtar"
+    },
+    "wof:country":"BT",
+    "wof:created":1459008830,
+    "wof:geomhash":"ea5574f18a0d828a38598f5050d52422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108748411,
+            "locality_id":421169927,
+            "region_id":85669579
+        }
+    ],
+    "wof:id":421169927,
+    "wof:lastmodified":1527716175,
+    "wof:name":"Bhangamur",
+    "wof:parent_id":1108748411,
+    "wof:placetype":"locality",
+    "wof:population":656,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.71667,
+    26.81667,
+    91.71667,
+    26.81667
+],
+  "geometry": {"coordinates":[91.71666999999999,26.81667],"type":"Point"}
+}

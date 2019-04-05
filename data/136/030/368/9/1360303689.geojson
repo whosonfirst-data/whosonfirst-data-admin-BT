@@ -1,0 +1,71 @@
+{
+  "id": 1360303689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.56238,27.36664,90.56238,27.36664",
+    "geom:latitude":27.36664,
+    "geom:longitude":90.56238,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bali",
+    "gn:country_code":"BT",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252639,
+    "gn:latitude":27.36664,
+    "gn:longitude":90.56238,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Bali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669563,
+        1108747473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252639,
+        "wk:page":"Bali%2C_Bhutan"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"9ad68400cfeef69113b9c1da0b757554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747473,
+            "locality_id":1360303689,
+            "region_id":85669563
+        }
+    ],
+    "wof:id":1360303689,
+    "wof:lastmodified":1537588930,
+    "wof:name":"Bali",
+    "wof:parent_id":1108747473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.56238,
+    27.36664,
+    90.56238,
+    27.36664
+],
+  "geometry": {"coordinates":[90.56238,27.36664],"type":"Point"}
+}

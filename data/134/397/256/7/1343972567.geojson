@@ -1,0 +1,68 @@
+{
+  "id": 1343972567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.45,27.23333,89.45,27.23333",
+    "geom:latitude":27.23333,
+    "geom:longitude":89.45,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Suchha",
+    "gn:country_code":"BT",
+    "gn:dem":3007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252435,
+    "gn:latitude":27.23333,
+    "gn:longitude":89.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Suchha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669513,
+        421170333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252435,
+        "wk:page":"Suchha"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"5a567e04000bc69c4e6a152b769eef93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":421170333,
+            "locality_id":1343972567,
+            "region_id":85669513
+        }
+    ],
+    "wof:id":1343972567,
+    "wof:lastmodified":1537488408,
+    "wof:name":"Suchha",
+    "wof:parent_id":421170333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.45,
+    27.23333,
+    89.45,
+    27.23333
+],
+  "geometry": {"coordinates":[89.45,27.23333],"type":"Point"}
+}

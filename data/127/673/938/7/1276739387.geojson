@@ -1,0 +1,68 @@
+{
+  "id": 1276739387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.33333,27.5,89.33333,27.5",
+    "geom:latitude":27.5,
+    "geom:longitude":89.33333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Drugyel Dzong",
+    "gn:country_code":"BT",
+    "gn:dem":2523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1337382,
+    "gn:latitude":27.5,
+    "gn:longitude":89.33333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Drugyel Dzong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669513,
+        1108748507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337382,
+        "wk:page":"Drugyel_Dzong"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"1d40716270c34cdf9bdf5421eab14d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108748507,
+            "locality_id":1276739387,
+            "region_id":85669513
+        }
+    ],
+    "wof:id":1276739387,
+    "wof:lastmodified":1537488413,
+    "wof:name":"Drugyel Dzong",
+    "wof:parent_id":1108748507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.33333,
+    27.5,
+    89.33333,
+    27.5
+],
+  "geometry": {"coordinates":[89.33333,27.5],"type":"Point"}
+}

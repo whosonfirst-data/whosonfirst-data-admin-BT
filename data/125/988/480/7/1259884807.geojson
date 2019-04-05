@@ -1,0 +1,72 @@
+{
+  "id": 1259884807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.69214,27.95001,90.69214,27.95001",
+    "geom:latitude":27.95001,
+    "geom:longitude":90.69214,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lhedang",
+    "gn:country_code":"BT",
+    "gn:dem":4239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252528,
+    "gn:latitude":27.95001,
+    "gn:longitude":90.69214,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Lhedang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weitsang",
+        "Lhedang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669537,
+        421204105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252528,
+        "wk:page":"Lhedang"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"cef2adf488f77a6b7d7ec88df87ea7f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":421204105,
+            "locality_id":1259884807,
+            "region_id":85669537
+        }
+    ],
+    "wof:id":1259884807,
+    "wof:lastmodified":1537588928,
+    "wof:name":"Lhedang",
+    "wof:parent_id":421204105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.69214,
+    27.95001,
+    90.69214,
+    27.95001
+],
+  "geometry": {"coordinates":[90.69213999999999,27.95001],"type":"Point"}
+}

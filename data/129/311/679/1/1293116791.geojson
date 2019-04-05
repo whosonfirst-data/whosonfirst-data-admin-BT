@@ -1,0 +1,68 @@
+{
+  "id": 1293116791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.11667,27.73333,91.11667,27.73333",
+    "geom:latitude":27.73333,
+    "geom:longitude":91.11667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Shabling",
+    "gn:country_code":"BT",
+    "gn:dem":2056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252453,
+    "gn:latitude":27.73333,
+    "gn:longitude":91.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shabling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669549,
+        421177849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252453,
+        "wk:page":"Shabling"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"3af313014932171e4f97c1daef832bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":421177849,
+            "locality_id":1293116791,
+            "region_id":85669549
+        }
+    ],
+    "wof:id":1293116791,
+    "wof:lastmodified":1537488409,
+    "wof:name":"Shabling",
+    "wof:parent_id":421177849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.11667,
+    27.73333,
+    91.11667,
+    27.73333
+],
+  "geometry": {"coordinates":[91.11667,27.73333],"type":"Point"}
+}

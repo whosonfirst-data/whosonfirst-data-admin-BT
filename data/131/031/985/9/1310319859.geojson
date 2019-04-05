@@ -1,0 +1,68 @@
+{
+  "id": 1310319859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.3,27.05,90.3,27.05",
+    "geom:latitude":27.05,
+    "geom:longitude":90.3,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bitana",
+    "gn:country_code":"BT",
+    "gn:dem":1552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252631,
+    "gn:latitude":27.05,
+    "gn:longitude":90.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bitana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669545,
+        1108748199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252631,
+        "wk:page":"Bitana"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"32e0dd6742414c612753787e86b8f215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108748199,
+            "locality_id":1310319859,
+            "region_id":85669545
+        }
+    ],
+    "wof:id":1310319859,
+    "wof:lastmodified":1537488412,
+    "wof:name":"Bitana",
+    "wof:parent_id":1108748199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.3,
+    27.05,
+    90.3,
+    27.05
+],
+  "geometry": {"coordinates":[90.3,27.05],"type":"Point"}
+}

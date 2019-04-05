@@ -1,0 +1,61 @@
+{
+  "id": 1209436411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.1,26.96667,90.1,26.96667",
+    "geom:latitude":26.96667,
+    "geom:longitude":90.1,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lamidangra",
+    "gn:country_code":"BT",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1337373,
+    "gn:latitude":26.96667,
+    "gn:longitude":90.1,
+    "gn:modification_date":"1997-02-11",
+    "gn:name":"Lamidangra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337373
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"2bcfed3e971a087bc7b93d9e96fe4aa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632171,
+            "locality_id":1209436411
+        }
+    ],
+    "wof:id":1209436411,
+    "wof:lastmodified":1536287091,
+    "wof:name":"Lamidangra",
+    "wof:parent_id":85632171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.1,
+    26.96667,
+    90.1,
+    26.96667
+],
+  "geometry": {"coordinates":[90.09999999999999,26.96667],"type":"Point"}
+}

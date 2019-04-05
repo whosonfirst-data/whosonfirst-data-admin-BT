@@ -1,0 +1,67 @@
+{
+  "id": 1209932391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.43333,27.03333,90.43333,27.03333",
+    "geom:latitude":27.03333,
+    "geom:longitude":90.43333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gongchuandgaon",
+    "gn:country_code":"BT",
+    "gn:dem":1564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252572,
+    "gn:latitude":27.03333,
+    "gn:longitude":90.43333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Gongchu\u0101ndgaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669545,
+        1108748283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252572
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"3bc34a001524e853137aea0c2fad7ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108748283,
+            "locality_id":1209932391,
+            "region_id":85669545
+        }
+    ],
+    "wof:id":1209932391,
+    "wof:lastmodified":1536392159,
+    "wof:name":"Gongchuandgaon",
+    "wof:parent_id":1108748283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.43333,
+    27.03333,
+    90.43333,
+    27.03333
+],
+  "geometry": {"coordinates":[90.43333,27.03333],"type":"Point"}
+}

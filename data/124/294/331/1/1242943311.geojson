@@ -1,0 +1,64 @@
+{
+  "id": 1242943311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.23229,28.29989,90.23229,28.29989",
+    "geom:latitude":28.29989,
+    "geom:longitude":90.23229,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lunana",
+    "gn:country_code":"BT",
+    "gn:dem":5279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1337390,
+    "gn:latitude":28.29989,
+    "gn:longitude":90.23229,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Lunana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337390,
+        "wk:page":"Lunana"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"816cd8e678f0c571b6d8a5f342fef910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1242943311,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242943311,
+    "wof:lastmodified":1537488413,
+    "wof:name":"Lunana",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.23229,
+    28.29989,
+    90.23229,
+    28.29989
+],
+  "geometry": {"coordinates":[90.23229000000001,28.29989],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310263303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.89915,27.48615,89.89915,27.48615",
+    "geom:latitude":27.48615,
+    "geom:longitude":89.89915,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Wangdue Phodrang",
+    "gn:country_code":"BT",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":1252395,
+    "gn:latitude":27.48615,
+    "gn:longitude":89.89915,
+    "gn:modification_date":"2013-08-02",
+    "gn:name":"Wangdue Phodrang",
+    "gn:population":7507,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wangd\u00fc Phodrang",
+        "Du Phodrang",
+        "Wangdiphodrang",
+        "Wangdue Phodrang",
+        "Wangdu Phodrang"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669565,
+        421166613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252395,
+        "wk:page":"Wangdue_Phodrang"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"5de7d145f837750040e9f897db98c474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":421166613,
+            "locality_id":1310263303,
+            "region_id":85669565
+        }
+    ],
+    "wof:id":1310263303,
+    "wof:lastmodified":1537588926,
+    "wof:name":"Wangdue Phodrang",
+    "wof:parent_id":421166613,
+    "wof:placetype":"locality",
+    "wof:population":7507,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.89915,
+    27.48615,
+    89.89915,
+    27.48615
+],
+  "geometry": {"coordinates":[89.89915000000001,27.48615],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226123633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.18393,27.66787,91.18393,27.66787",
+    "geom:latitude":27.66787,
+    "geom:longitude":91.18393,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Lhuentse",
+    "gn:country_code":"BT",
+    "gn:dem":1403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":1252526,
+    "gn:latitude":27.66787,
+    "gn:longitude":91.18393,
+    "gn:modification_date":"2013-08-02",
+    "gn:name":"Lhuentse",
+    "gn:population":100,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lingshi Dzong",
+        "Lhuntsi Dzong",
+        "Lenlung",
+        "Lhuntshi",
+        "Lhuentse"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669549,
+        421177849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252526,
+        "wk:page":"Lhuentse_Dzong"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"92f7635a8106188ddcb5146a3f75ec2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":421177849,
+            "locality_id":1226123633,
+            "region_id":85669549
+        }
+    ],
+    "wof:id":1226123633,
+    "wof:lastmodified":1537588928,
+    "wof:name":"Lhuentse",
+    "wof:parent_id":421177849,
+    "wof:placetype":"locality",
+    "wof:population":100,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.18393,
+    27.66787,
+    91.18393,
+    27.66787
+],
+  "geometry": {"coordinates":[91.18393,27.66787],"type":"Point"}
+}

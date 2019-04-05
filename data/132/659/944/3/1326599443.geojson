@@ -1,0 +1,72 @@
+{
+  "id": 1326599443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.88333,27.1,88.88333,27.1",
+    "geom:latitude":27.1,
+    "geom:longitude":88.88333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dzongsa Dzong",
+    "gn:cc2":"BT",
+    "gn:country_code":"BT",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252582,
+    "gn:latitude":27.1,
+    "gn:longitude":88.88333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dzongsa Dzong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jumsa",
+        "Dzongsa Dzong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669523,
+        1108747639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252582
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"f21e001f2fbc9a0a5c58f452c56ea58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747639,
+            "locality_id":1326599443,
+            "region_id":85669523
+        }
+    ],
+    "wof:id":1326599443,
+    "wof:lastmodified":1537588929,
+    "wof:name":"Dzongsa Dzong",
+    "wof:parent_id":1108747639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.88333,
+    27.1,
+    88.88333,
+    27.1
+],
+  "geometry": {"coordinates":[88.88333,27.1],"type":"Point"}
+}

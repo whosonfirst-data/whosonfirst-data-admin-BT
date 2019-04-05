@@ -1,0 +1,68 @@
+{
+  "id": 1277089103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.43333,27.13333,91.43333,27.13333",
+    "geom:latitude":27.13333,
+    "geom:longitude":91.43333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sassi",
+    "gn:country_code":"BT",
+    "gn:dem":1295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252458,
+    "gn:latitude":27.13333,
+    "gn:longitude":91.43333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sassi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669575,
+        1108748373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252458,
+        "wk:page":"Sassi%2C_Bhutan"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"eb685e03ce7e32b7ba73313344e89562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108748373,
+            "locality_id":1277089103,
+            "region_id":85669575
+        }
+    ],
+    "wof:id":1277089103,
+    "wof:lastmodified":1537488409,
+    "wof:name":"Sassi",
+    "wof:parent_id":1108748373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.43333,
+    27.13333,
+    91.43333,
+    27.13333
+],
+  "geometry": {"coordinates":[91.43333,27.13333],"type":"Point"}
+}

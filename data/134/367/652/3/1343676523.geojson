@@ -1,0 +1,68 @@
+{
+  "id": 1343676523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.63333,27.51667,90.63333,27.51667",
+    "geom:latitude":27.51667,
+    "geom:longitude":90.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gyetsa",
+    "gn:country_code":"BT",
+    "gn:dem":3342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1252566,
+    "gn:latitude":27.51667,
+    "gn:longitude":90.63333,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Gyetsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Thimphu",
+    "iso:country":"BT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632171,
+        85669537,
+        1108747309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1252566,
+        "wk:page":"Gyetsa"
+    },
+    "wof:country":"BT",
+    "wof:geomhash":"c7a53d1701667b9cfea6116296671030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632171,
+            "county_id":1108747309,
+            "locality_id":1343676523,
+            "region_id":85669537
+        }
+    ],
+    "wof:id":1343676523,
+    "wof:lastmodified":1537488411,
+    "wof:name":"Gyetsa",
+    "wof:parent_id":1108747309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.63333,
+    27.51667,
+    90.63333,
+    27.51667
+],
+  "geometry": {"coordinates":[90.63333,27.51667],"type":"Point"}
+}
