@@ -10,6 +10,12 @@
     "geom:latitude":27.343509,
     "geom:longitude":89.320992,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Uesu Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.3432,
     "lbl:longitude":89.327388,
     "meso:adm1_en":"Haa",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747687,
-    "wof:lastmodified":1536615701,
+    "wof:lastmodified":1553718671,
     "wof:name":"Uesu",
     "wof:parent_id":85669509,
     "wof:placetype":"county",

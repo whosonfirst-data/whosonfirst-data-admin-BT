@@ -10,6 +10,12 @@
     "geom:latitude":26.869833,
     "geom:longitude":89.837027,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Dorona Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.865529,
     "lbl:longitude":89.847546,
     "meso:adm1_en":"Dagana",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747347,
-    "wof:lastmodified":1536615697,
+    "wof:lastmodified":1553718667,
     "wof:name":"Dorona",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

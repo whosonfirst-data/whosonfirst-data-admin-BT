@@ -10,6 +10,12 @@
     "geom:latitude":27.103472,
     "geom:longitude":91.474042,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Nanong Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.096633,
     "lbl:longitude":91.47507,
     "meso:adm1_en":"Pemagatshel",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748373,
-    "wof:lastmodified":1536615703,
+    "wof:lastmodified":1553718675,
     "wof:name":"Nanong",
     "wof:parent_id":85669575,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":27.254663,
     "geom:longitude":91.897277,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Merak Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.24611,
     "lbl:longitude":91.866491,
     "meso:adm1_en":"Trashigang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747501,
-    "wof:lastmodified":1536615699,
+    "wof:lastmodified":1553718669,
     "wof:name":"Merak",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

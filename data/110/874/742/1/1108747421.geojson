@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014831,
-    "geom:area_square_m":163495275.620419,
+    "geom:area_square_m":163495275.620403,
     "geom:bbox":"91.3928828487,26.8422707415,91.5792679295,27.0285847211",
     "geom:latitude":26.937997,
     "geom:longitude":91.484122,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Jangchhubling Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.946749,
     "lbl:longitude":91.49189,
     "meso:adm1_en":"Samdrupjongkhar",
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1108747421,
-    "wof:lastmodified":1512517029,
+    "wof:lastmodified":1555091991,
     "wof:name":"Jangchhubling",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

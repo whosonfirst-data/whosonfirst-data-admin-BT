@@ -10,6 +10,12 @@
     "geom:latitude":27.431356,
     "geom:longitude":89.878113,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Gasetsho Gom Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.432512,
     "lbl:longitude":89.882212,
     "meso:adm1_en":"Wangduephodrang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748235,
-    "wof:lastmodified":1536615702,
+    "wof:lastmodified":1553718673,
     "wof:name":"Gasetsho Gom",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

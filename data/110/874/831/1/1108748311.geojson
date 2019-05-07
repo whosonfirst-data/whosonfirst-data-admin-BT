@@ -10,6 +10,12 @@
     "geom:latitude":27.002466,
     "geom:longitude":90.137955,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Kikorthang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.00297,
     "lbl:longitude":90.135954,
     "meso:adm1_en":"Tsirang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748311,
-    "wof:lastmodified":1536615703,
+    "wof:lastmodified":1553718674,
     "wof:name":"Kikorthang",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

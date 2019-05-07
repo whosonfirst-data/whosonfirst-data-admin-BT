@@ -10,6 +10,12 @@
     "geom:latitude":27.604412,
     "geom:longitude":90.467799,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Nubi Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.59365,
     "lbl:longitude":90.458365,
     "meso:adm1_en":"Trongsa",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421171015,
-    "wof:lastmodified":1536615923,
+    "wof:lastmodified":1553717321,
     "wof:name":"Nubi",
     "wof:parent_id":85669563,
     "wof:placetype":"county",

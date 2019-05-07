@@ -10,6 +10,12 @@
     "geom:latitude":27.097723,
     "geom:longitude":90.004431,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Lajab Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.094542,
     "lbl:longitude":90.003079,
     "meso:adm1_en":"Dagana",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748319,
-    "wof:lastmodified":1536615703,
+    "wof:lastmodified":1553718675,
     "wof:name":"Lajab",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

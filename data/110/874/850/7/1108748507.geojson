@@ -10,6 +10,12 @@
     "geom:latitude":27.614896,
     "geom:longitude":89.288587,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Tsento Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.635089,
     "lbl:longitude":89.286357,
     "meso:adm1_en":"Paro",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748507,
-    "wof:lastmodified":1536615705,
+    "wof:lastmodified":1553718677,
     "wof:name":"Tsento",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

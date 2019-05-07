@@ -10,6 +10,12 @@
     "geom:latitude":27.547467,
     "geom:longitude":89.916433,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Lingmukha Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.547119,
     "lbl:longitude":89.915765,
     "meso:adm1_en":"Punakha",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748333,
-    "wof:lastmodified":1536615703,
+    "wof:lastmodified":1553718675,
     "wof:name":"Lingmukha",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

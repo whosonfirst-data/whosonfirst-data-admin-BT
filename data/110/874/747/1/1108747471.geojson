@@ -10,6 +10,12 @@
     "geom:latitude":26.916709,
     "geom:longitude":92.023839,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Langchhenphu Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.898453,
     "lbl:longitude":92.025669,
     "meso:adm1_en":"Samdrupjongkhar",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747471,
-    "wof:lastmodified":1536615698,
+    "wof:lastmodified":1553718669,
     "wof:name":"Langchhenphu",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

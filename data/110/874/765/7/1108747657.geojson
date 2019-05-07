@@ -10,6 +10,12 @@
     "geom:latitude":26.913585,
     "geom:longitude":89.999464,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Trashiding Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.924837,
     "lbl:longitude":90.002075,
     "meso:adm1_en":"Dagana",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747657,
-    "wof:lastmodified":1536615700,
+    "wof:lastmodified":1553718671,
     "wof:name":"Trashiding",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

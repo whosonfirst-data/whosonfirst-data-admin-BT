@@ -10,6 +10,12 @@
     "geom:latitude":27.376677,
     "geom:longitude":91.144666,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Tsamang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.390006,
     "lbl:longitude":91.150159,
     "meso:adm1_en":"Monggar",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747667,
-    "wof:lastmodified":1536615700,
+    "wof:lastmodified":1553718671,
     "wof:name":"Tsamang",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

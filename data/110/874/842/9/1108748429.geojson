@@ -10,6 +10,12 @@
     "geom:latitude":26.91611,
     "geom:longitude":91.829091,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Samrang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.917449,
     "lbl:longitude":91.828385,
     "meso:adm1_en":"Samdrupjongkhar",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748429,
-    "wof:lastmodified":1536615704,
+    "wof:lastmodified":1553718676,
     "wof:name":"Samrang",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

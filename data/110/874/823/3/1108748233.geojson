@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030862,
-    "geom:area_square_m":339609624.016287,
+    "geom:area_square_m":339609624.016203,
     "geom:bbox":"89.0669012219,27.0278312963,89.3666973829,27.248129538",
     "geom:latitude":27.13733,
     "geom:longitude":89.233689,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Gakiling Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.146523,
     "lbl:longitude":89.243907,
     "meso:adm1_en":"Haa",
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1108748233,
-    "wof:lastmodified":1512517033,
+    "wof:lastmodified":1555091991,
     "wof:name":"Gakiling",
     "wof:parent_id":85669509,
     "wof:placetype":"county",

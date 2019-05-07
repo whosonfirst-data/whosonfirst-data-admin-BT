@@ -10,6 +10,12 @@
     "geom:latitude":27.450208,
     "geom:longitude":89.442275,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Dopshari Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.445998,
     "lbl:longitude":89.441448,
     "meso:adm1_en":"Paro",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747343,
-    "wof:lastmodified":1536615697,
+    "wof:lastmodified":1553718667,
     "wof:name":"Dopshari",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

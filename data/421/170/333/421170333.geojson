@@ -10,6 +10,12 @@
     "geom:latitude":27.248444,
     "geom:longitude":89.411623,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Naja Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.262809,
     "lbl:longitude":89.389339,
     "meso:adm1_en":"Paro",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421170333,
-    "wof:lastmodified":1536615909,
+    "wof:lastmodified":1553717313,
     "wof:name":"Naja",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

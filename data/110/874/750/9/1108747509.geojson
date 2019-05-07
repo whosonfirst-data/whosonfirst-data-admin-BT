@@ -10,6 +10,12 @@
     "geom:latitude":27.424371,
     "geom:longitude":89.554673,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Mewang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.393826,
     "lbl:longitude":89.570474,
     "meso:adm1_en":"Thimphu",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747509,
-    "wof:lastmodified":1536615699,
+    "wof:lastmodified":1553718670,
     "wof:name":"Mewang",
     "wof:parent_id":85669527,
     "wof:placetype":"county",

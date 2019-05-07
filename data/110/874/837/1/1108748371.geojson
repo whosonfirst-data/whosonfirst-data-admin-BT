@@ -10,6 +10,12 @@
     "geom:latitude":27.203596,
     "geom:longitude":90.802911,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Nangkor Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.202121,
     "lbl:longitude":90.794731,
     "meso:adm1_en":"Zhemgang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748371,
-    "wof:lastmodified":1536615703,
+    "wof:lastmodified":1553718675,
     "wof:name":"Nangkor",
     "wof:parent_id":85669559,
     "wof:placetype":"county",

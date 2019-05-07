@@ -10,6 +10,12 @@
     "geom:latitude":27.090278,
     "geom:longitude":91.595501,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Thrimshing Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.07291,
     "lbl:longitude":91.583061,
     "meso:adm1_en":"Trashigang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747645,
-    "wof:lastmodified":1536615700,
+    "wof:lastmodified":1553718671,
     "wof:name":"Thrimshing",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

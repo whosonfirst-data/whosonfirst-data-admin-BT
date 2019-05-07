@@ -10,6 +10,12 @@
     "geom:latitude":26.918596,
     "geom:longitude":89.394778,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Phuentsholing Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.900805,
     "lbl:longitude":89.409945,
     "meso:adm1_en":"Chhukha",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748409,
-    "wof:lastmodified":1536615704,
+    "wof:lastmodified":1553718675,
     "wof:name":"Phuentsholing",
     "wof:parent_id":85669501,
     "wof:placetype":"county",

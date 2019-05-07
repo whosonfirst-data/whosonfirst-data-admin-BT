@@ -10,6 +10,12 @@
     "geom:latitude":26.925249,
     "geom:longitude":89.629389,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Bongo Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.943224,
     "lbl:longitude":89.608145,
     "meso:adm1_en":"Chhukha",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747283,
-    "wof:lastmodified":1536615696,
+    "wof:lastmodified":1553718666,
     "wof:name":"Bongo",
     "wof:parent_id":85669501,
     "wof:placetype":"county",

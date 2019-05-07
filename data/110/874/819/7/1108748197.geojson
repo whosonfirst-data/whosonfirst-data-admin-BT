@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017216,
-    "geom:area_square_m":189926527.903163,
+    "geom:area_square_m":189926527.903126,
     "geom:bbox":"91.4084064648,26.793372,91.6193814656,26.9221206726",
     "geom:latitude":26.852348,
     "geom:longitude":91.525484,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Dewathang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.847806,
     "lbl:longitude":91.527498,
     "meso:adm1_en":"Samdrupjongkhar",
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1108748197,
-    "wof:lastmodified":1512517033,
+    "wof:lastmodified":1555091991,
     "wof:name":"Dewathang",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

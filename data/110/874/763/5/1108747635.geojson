@@ -10,6 +10,12 @@
     "geom:latitude":27.662188,
     "geom:longitude":90.88084,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Tang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.64374,
     "lbl:longitude":90.894486,
     "meso:adm1_en":"Bumthang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747635,
-    "wof:lastmodified":1536615700,
+    "wof:lastmodified":1553718671,
     "wof:name":"Tang",
     "wof:parent_id":85669537,
     "wof:placetype":"county",

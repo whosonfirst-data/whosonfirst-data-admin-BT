@@ -10,6 +10,12 @@
     "geom:latitude":27.447551,
     "geom:longitude":89.810844,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Nahi Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.44687,
     "lbl:longitude":89.809573,
     "meso:adm1_en":"Wangduephodrang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747515,
-    "wof:lastmodified":1536615699,
+    "wof:lastmodified":1553718670,
     "wof:name":"Nahi",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

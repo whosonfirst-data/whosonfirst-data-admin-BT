@@ -10,6 +10,12 @@
     "geom:latitude":27.553805,
     "geom:longitude":89.429088,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Doteng Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.555264,
     "lbl:longitude":89.430458,
     "meso:adm1_en":"Paro",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748211,
-    "wof:lastmodified":1536615702,
+    "wof:lastmodified":1553718673,
     "wof:name":"Doteng",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

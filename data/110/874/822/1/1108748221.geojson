@@ -10,6 +10,12 @@
     "geom:latitude":27.009533,
     "geom:longitude":90.203119,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Dunglegang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.010002,
     "lbl:longitude":90.212544,
     "meso:adm1_en":"Tsirang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748221,
-    "wof:lastmodified":1536615702,
+    "wof:lastmodified":1553718673,
     "wof:name":"Dunglegang",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

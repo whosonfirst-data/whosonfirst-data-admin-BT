@@ -10,6 +10,12 @@
     "geom:latitude":27.035535,
     "geom:longitude":89.16356,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Dungtoe Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.034459,
     "lbl:longitude":89.168679,
     "meso:adm1_en":"Samtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748229,
-    "wof:lastmodified":1536615702,
+    "wof:lastmodified":1553718673,
     "wof:name":"Dungtoe",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

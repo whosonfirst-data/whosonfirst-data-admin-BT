@@ -10,6 +10,12 @@
     "geom:latitude":27.873183,
     "geom:longitude":89.608519,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Goenkhatoe Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.869067,
     "lbl:longitude":89.626357,
     "meso:adm1_en":"Gasa",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747397,
-    "wof:lastmodified":1536615697,
+    "wof:lastmodified":1553718668,
     "wof:name":"Goenkhatoe",
     "wof:parent_id":85669521,
     "wof:placetype":"county",

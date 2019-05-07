@@ -10,6 +10,12 @@
     "geom:latitude":27.201583,
     "geom:longitude":91.336788,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Thangrong Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.1957,
     "lbl:longitude":91.3332,
     "meso:adm1_en":"Monggar",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747641,
-    "wof:lastmodified":1536615700,
+    "wof:lastmodified":1553718671,
     "wof:name":"Thangrong",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

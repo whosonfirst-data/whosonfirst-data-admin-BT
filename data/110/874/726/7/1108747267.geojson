@@ -10,6 +10,12 @@
     "geom:latitude":26.928638,
     "geom:longitude":90.432653,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Bhur Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.925897,
     "lbl:longitude":90.433271,
     "meso:adm1_en":"Sarpang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747267,
-    "wof:lastmodified":1536615696,
+    "wof:lastmodified":1553718666,
     "wof:name":"Bhur",
     "wof:parent_id":85669545,
     "wof:placetype":"county",

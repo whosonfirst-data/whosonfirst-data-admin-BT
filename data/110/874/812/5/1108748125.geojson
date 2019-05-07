@@ -10,6 +10,12 @@
     "geom:latitude":27.201718,
     "geom:longitude":88.852663,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Bara Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.216234,
     "lbl:longitude":88.851053,
     "meso:adm1_en":"Samtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748125,
-    "wof:lastmodified":1536615701,
+    "wof:lastmodified":1553718673,
     "wof:name":"Bara",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

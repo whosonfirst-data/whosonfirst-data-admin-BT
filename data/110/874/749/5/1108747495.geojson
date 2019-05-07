@@ -10,6 +10,12 @@
     "geom:latitude":26.99542,
     "geom:longitude":91.735641,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Martshala Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.006911,
     "lbl:longitude":91.733743,
     "meso:adm1_en":"Samdrupjongkhar",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747495,
-    "wof:lastmodified":1536615699,
+    "wof:lastmodified":1553718669,
     "wof:name":"Martshala",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

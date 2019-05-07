@@ -10,6 +10,12 @@
     "geom:latitude":27.47018,
     "geom:longitude":90.033521,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Bjena Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.462706,
     "lbl:longitude":90.027292,
     "meso:adm1_en":"Wangduephodrang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747277,
-    "wof:lastmodified":1536615696,
+    "wof:lastmodified":1553718666,
     "wof:name":"Bjena",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

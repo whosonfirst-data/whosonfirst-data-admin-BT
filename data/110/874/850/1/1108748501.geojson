@@ -10,6 +10,12 @@
     "geom:latitude":27.033778,
     "geom:longitude":90.046394,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Tsangkha Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.033116,
     "lbl:longitude":90.04703,
     "meso:adm1_en":"Dagana",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748501,
-    "wof:lastmodified":1536615705,
+    "wof:lastmodified":1553718677,
     "wof:name":"Tsangkha",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

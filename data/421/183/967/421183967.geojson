@@ -10,6 +10,12 @@
     "geom:latitude":27.782563,
     "geom:longitude":90.355339,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Sephu Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.802188,
     "lbl:longitude":90.366844,
     "meso:adm1_en":"Wangduephodrang",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421183967,
-    "wof:lastmodified":1536616015,
+    "wof:lastmodified":1553717422,
     "wof:name":"Sephu",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

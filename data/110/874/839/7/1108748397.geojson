@@ -10,6 +10,12 @@
     "geom:latitude":26.888413,
     "geom:longitude":91.767039,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Pemathang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.886683,
     "lbl:longitude":91.76704,
     "meso:adm1_en":"Samdrupjongkhar",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748397,
-    "wof:lastmodified":1536615703,
+    "wof:lastmodified":1553718675,
     "wof:name":"Pemathang",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

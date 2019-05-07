@@ -10,6 +10,12 @@
     "geom:latitude":26.934121,
     "geom:longitude":89.738113,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Getana Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.926985,
     "lbl:longitude":89.736937,
     "meso:adm1_en":"Chhukha",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747391,
-    "wof:lastmodified":1536615697,
+    "wof:lastmodified":1553718668,
     "wof:name":"Getana",
     "wof:parent_id":85669501,
     "wof:placetype":"county",

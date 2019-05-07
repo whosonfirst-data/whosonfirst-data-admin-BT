@@ -10,6 +10,12 @@
     "geom:latitude":27.004466,
     "geom:longitude":91.358164,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Chongshing Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.018079,
     "lbl:longitude":91.374396,
     "meso:adm1_en":"Pemagatshel",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747315,
-    "wof:lastmodified":1536615697,
+    "wof:lastmodified":1553718667,
     "wof:name":"Chongshing",
     "wof:parent_id":85669575,
     "wof:placetype":"county",

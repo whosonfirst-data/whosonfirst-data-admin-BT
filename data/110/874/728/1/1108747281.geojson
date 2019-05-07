@@ -10,6 +10,12 @@
     "geom:latitude":26.959036,
     "geom:longitude":91.084175,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Bjoka Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.938565,
     "lbl:longitude":91.093833,
     "meso:adm1_en":"Zhemgang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747281,
-    "wof:lastmodified":1536615696,
+    "wof:lastmodified":1553718666,
     "wof:name":"Bjoka",
     "wof:parent_id":85669559,
     "wof:placetype":"county",

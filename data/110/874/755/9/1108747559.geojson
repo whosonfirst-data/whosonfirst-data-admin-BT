@@ -10,6 +10,12 @@
     "geom:latitude":27.410456,
     "geom:longitude":91.747958,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Phongme Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.411496,
     "lbl:longitude":91.746906,
     "meso:adm1_en":"Trashigang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747559,
-    "wof:lastmodified":1536615700,
+    "wof:lastmodified":1553718670,
     "wof:name":"Phongme",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

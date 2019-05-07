@@ -10,6 +10,12 @@
     "geom:latitude":27.526033,
     "geom:longitude":89.949777,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Phangyuel Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.528257,
     "lbl:longitude":89.950366,
     "meso:adm1_en":"Wangduephodrang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748399,
-    "wof:lastmodified":1536615703,
+    "wof:lastmodified":1553718675,
     "wof:name":"Phangyuel",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

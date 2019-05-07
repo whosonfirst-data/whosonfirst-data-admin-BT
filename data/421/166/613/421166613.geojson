@@ -10,6 +10,12 @@
     "geom:latitude":27.491544,
     "geom:longitude":89.892642,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Thedtsho Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.4805,
     "lbl:longitude":89.887128,
     "meso:adm1_en":"Wangduephodrang",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421166613,
-    "wof:lastmodified":1536615892,
+    "wof:lastmodified":1553717297,
     "wof:name":"Thedtsho",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

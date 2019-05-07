@@ -10,6 +10,12 @@
     "geom:latitude":27.303504,
     "geom:longitude":91.59273,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Samkhar Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.308527,
     "lbl:longitude":91.593866,
     "meso:adm1_en":"Trashigang",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421183963,
-    "wof:lastmodified":1536616015,
+    "wof:lastmodified":1553717419,
     "wof:name":"Samkhar",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

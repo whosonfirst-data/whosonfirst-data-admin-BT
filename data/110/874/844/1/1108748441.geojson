@@ -10,6 +10,12 @@
     "geom:latitude":27.037235,
     "geom:longitude":90.166281,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Shemjong Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.038023,
     "lbl:longitude":90.159376,
     "meso:adm1_en":"Tsirang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748441,
-    "wof:lastmodified":1536615704,
+    "wof:lastmodified":1553718676,
     "wof:name":"Shemjong",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

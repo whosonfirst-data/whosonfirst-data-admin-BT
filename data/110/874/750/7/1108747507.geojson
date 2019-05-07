@@ -10,6 +10,12 @@
     "geom:latitude":27.542962,
     "geom:longitude":91.064483,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Metsho Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.538243,
     "lbl:longitude":91.066456,
     "meso:adm1_en":"Lhuentse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747507,
-    "wof:lastmodified":1536615699,
+    "wof:lastmodified":1553718669,
     "wof:name":"Metsho",
     "wof:parent_id":85669549,
     "wof:placetype":"county",

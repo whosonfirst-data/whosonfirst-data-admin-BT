@@ -10,6 +10,12 @@
     "geom:latitude":26.920551,
     "geom:longitude":90.484571,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Gelephu Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.922095,
     "lbl:longitude":90.488211,
     "meso:adm1_en":"Sarpang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748239,
-    "wof:lastmodified":1536615702,
+    "wof:lastmodified":1553718674,
     "wof:name":"Gelephu",
     "wof:parent_id":85669545,
     "wof:placetype":"county",

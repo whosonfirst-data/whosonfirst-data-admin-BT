@@ -10,6 +10,12 @@
     "geom:latitude":27.287136,
     "geom:longitude":90.178662,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Athang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.261597,
     "lbl:longitude":90.16202,
     "meso:adm1_en":"Wangduephodrang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747249,
-    "wof:lastmodified":1536615695,
+    "wof:lastmodified":1553718666,
     "wof:name":"Athang",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

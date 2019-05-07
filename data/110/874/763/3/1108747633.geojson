@@ -10,6 +10,12 @@
     "geom:latitude":27.559149,
     "geom:longitude":89.830516,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Talo Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.561922,
     "lbl:longitude":89.833071,
     "meso:adm1_en":"Punakha",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747633,
-    "wof:lastmodified":1536615700,
+    "wof:lastmodified":1553718671,
     "wof:name":"Talo",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

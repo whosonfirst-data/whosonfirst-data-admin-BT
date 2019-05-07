@@ -10,6 +10,12 @@
     "geom:latitude":26.897657,
     "geom:longitude":90.102908,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Beteni Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.884349,
     "lbl:longitude":90.095794,
     "meso:adm1_en":"Tsirang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747265,
-    "wof:lastmodified":1536615695,
+    "wof:lastmodified":1553718666,
     "wof:name":"Beteni",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

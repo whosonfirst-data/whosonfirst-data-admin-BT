@@ -10,6 +10,12 @@
     "geom:latitude":26.869584,
     "geom:longitude":89.941752,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Tsendagang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.864859,
     "lbl:longitude":89.941739,
     "meso:adm1_en":"Dagana",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748503,
-    "wof:lastmodified":1536615705,
+    "wof:lastmodified":1553718677,
     "wof:name":"Tsendagang",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

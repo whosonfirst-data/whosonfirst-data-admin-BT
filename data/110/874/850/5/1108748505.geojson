@@ -10,6 +10,12 @@
     "geom:latitude":27.471192,
     "geom:longitude":91.226834,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Tsenkhar Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.470978,
     "lbl:longitude":91.22803,
     "meso:adm1_en":"Lhuentse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748505,
-    "wof:lastmodified":1536615705,
+    "wof:lastmodified":1553718677,
     "wof:name":"Tsenkhar",
     "wof:parent_id":85669549,
     "wof:placetype":"county",

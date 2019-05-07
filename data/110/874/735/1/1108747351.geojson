@@ -10,6 +10,12 @@
     "geom:latitude":27.433598,
     "geom:longitude":90.525838,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Dragteng Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.434721,
     "lbl:longitude":90.519491,
     "meso:adm1_en":"Trongsa",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747351,
-    "wof:lastmodified":1536615697,
+    "wof:lastmodified":1553718667,
     "wof:name":"Dragteng",
     "wof:parent_id":85669563,
     "wof:placetype":"county",

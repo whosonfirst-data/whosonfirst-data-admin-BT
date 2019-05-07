@@ -10,6 +10,12 @@
     "geom:latitude":27.034381,
     "geom:longitude":89.952182,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Khipisa Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.027222,
     "lbl:longitude":89.957557,
     "meso:adm1_en":"Dagana",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747455,
-    "wof:lastmodified":1536615698,
+    "wof:lastmodified":1553718669,
     "wof:name":"Khipisa",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

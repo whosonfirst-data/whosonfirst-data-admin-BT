@@ -10,6 +10,12 @@
     "geom:latitude":27.122262,
     "geom:longitude":91.074656,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Silambi Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.122605,
     "lbl:longitude":91.07325,
     "meso:adm1_en":"Monggar",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748459,
-    "wof:lastmodified":1536615705,
+    "wof:lastmodified":1553718676,
     "wof:name":"Silambi",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

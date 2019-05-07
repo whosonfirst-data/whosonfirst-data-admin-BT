@@ -10,6 +10,12 @@
     "geom:latitude":27.814998,
     "geom:longitude":90.669805,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Chhoekhor Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.832693,
     "lbl:longitude":90.669813,
     "meso:adm1_en":"Bumthang",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421204105,
-    "wof:lastmodified":1536616163,
+    "wof:lastmodified":1553717581,
     "wof:name":"Chhoekhor",
     "wof:parent_id":85669537,
     "wof:placetype":"county",

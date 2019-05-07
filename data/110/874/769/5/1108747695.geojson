@@ -10,6 +10,12 @@
     "geom:latitude":27.410247,
     "geom:longitude":89.424383,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Wangchang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.404045,
     "lbl:longitude":89.434878,
     "meso:adm1_en":"Paro",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747695,
-    "wof:lastmodified":1536615701,
+    "wof:lastmodified":1553718672,
     "wof:name":"Wangchang",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

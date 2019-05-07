@@ -10,6 +10,12 @@
     "geom:latitude":27.094062,
     "geom:longitude":91.393502,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Shumer Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.138484,
     "lbl:longitude":91.38746,
     "meso:adm1_en":"Pemagatshel",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748455,
-    "wof:lastmodified":1536615705,
+    "wof:lastmodified":1553718677,
     "wof:name":"Shumer",
     "wof:parent_id":85669575,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":27.068028,
     "geom:longitude":88.984334,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Namgyel Chhoeling Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.074378,
     "lbl:longitude":88.991375,
     "meso:adm1_en":"Samtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747519,
-    "wof:lastmodified":1536615699,
+    "wof:lastmodified":1553718670,
     "wof:name":"Namgyel Chhoeling",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":27.755364,
     "geom:longitude":90.120643,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Kazhi Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.770382,
     "lbl:longitude":90.132531,
     "meso:adm1_en":"Wangduephodrang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748297,
-    "wof:lastmodified":1536615703,
+    "wof:lastmodified":1553718675,
     "wof:name":"Kazhi",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

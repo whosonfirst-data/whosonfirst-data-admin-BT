@@ -10,6 +10,12 @@
     "geom:latitude":27.457254,
     "geom:longitude":91.668337,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Yalang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.46413,
     "lbl:longitude":91.682203,
     "meso:adm1_en":"Yangtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747699,
-    "wof:lastmodified":1536615701,
+    "wof:lastmodified":1553718672,
     "wof:name":"Yalang",
     "wof:parent_id":85669555,
     "wof:placetype":"county",

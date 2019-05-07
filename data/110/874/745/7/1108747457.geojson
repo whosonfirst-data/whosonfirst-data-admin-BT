@@ -10,6 +10,12 @@
     "geom:latitude":27.843195,
     "geom:longitude":91.308574,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Khoma Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.836086,
     "lbl:longitude":91.310797,
     "meso:adm1_en":"Lhuentse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747457,
-    "wof:lastmodified":1536615698,
+    "wof:lastmodified":1553718669,
     "wof:name":"Khoma",
     "wof:parent_id":85669549,
     "wof:placetype":"county",

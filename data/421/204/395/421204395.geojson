@@ -10,6 +10,12 @@
     "geom:latitude":27.740735,
     "geom:longitude":89.933042,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Toewang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.769684,
     "lbl:longitude":89.919954,
     "meso:adm1_en":"Punakha",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421204395,
-    "wof:lastmodified":1536616165,
+    "wof:lastmodified":1553717582,
     "wof:name":"Toewang",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

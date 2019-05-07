@@ -10,6 +10,12 @@
     "geom:latitude":26.992877,
     "geom:longitude":89.062348,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Chengmari Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.992958,
     "lbl:longitude":89.066515,
     "meso:adm1_en":"Samtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747297,
-    "wof:lastmodified":1536615696,
+    "wof:lastmodified":1553718666,
     "wof:name":"Chengmari",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

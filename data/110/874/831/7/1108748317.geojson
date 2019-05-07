@@ -10,6 +10,12 @@
     "geom:latitude":27.922843,
     "geom:longitude":91.033812,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Kurtoe Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.916497,
     "lbl:longitude":91.028961,
     "meso:adm1_en":"Lhuentse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748317,
-    "wof:lastmodified":1536615703,
+    "wof:lastmodified":1553718675,
     "wof:name":"Kurtoe",
     "wof:parent_id":85669549,
     "wof:placetype":"county",

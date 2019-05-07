@@ -10,6 +10,12 @@
     "geom:latitude":27.398544,
     "geom:longitude":89.288608,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Katsho Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.400546,
     "lbl:longitude":89.296881,
     "meso:adm1_en":"Haa",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421169587,
-    "wof:lastmodified":1536615899,
+    "wof:lastmodified":1553717304,
     "wof:name":"Katsho",
     "wof:parent_id":85669509,
     "wof:placetype":"county",

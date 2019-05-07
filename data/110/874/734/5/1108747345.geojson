@@ -10,6 +10,12 @@
     "geom:latitude":26.969999,
     "geom:longitude":89.197003,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Dorokha Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.970644,
     "lbl:longitude":89.19826,
     "meso:adm1_en":"Samtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747345,
-    "wof:lastmodified":1536615697,
+    "wof:lastmodified":1553718668,
     "wof:name":"Dorokha",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

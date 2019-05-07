@@ -10,6 +10,12 @@
     "geom:latitude":26.955195,
     "geom:longitude":88.979189,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Yoeseltse Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.939585,
     "lbl:longitude":88.969739,
     "meso:adm1_en":"Samtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747705,
-    "wof:lastmodified":1536615701,
+    "wof:lastmodified":1553718672,
     "wof:name":"Yoeseltse",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

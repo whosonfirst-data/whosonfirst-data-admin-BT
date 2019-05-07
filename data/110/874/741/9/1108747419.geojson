@@ -10,6 +10,12 @@
     "geom:latitude":27.412876,
     "geom:longitude":91.500643,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Jamkhar Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.415493,
     "lbl:longitude":91.499655,
     "meso:adm1_en":"Yangtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747419,
-    "wof:lastmodified":1536615698,
+    "wof:lastmodified":1553718668,
     "wof:name":"Jamkhar",
     "wof:parent_id":85669555,
     "wof:placetype":"county",

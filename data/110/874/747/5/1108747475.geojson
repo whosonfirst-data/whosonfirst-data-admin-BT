@@ -10,6 +10,12 @@
     "geom:latitude":27.125053,
     "geom:longitude":91.930386,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Lauri Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.107937,
     "lbl:longitude":91.942588,
     "meso:adm1_en":"Samdrupjongkhar",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747475,
-    "wof:lastmodified":1536615698,
+    "wof:lastmodified":1553718669,
     "wof:name":"Lauri",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

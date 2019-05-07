@@ -10,6 +10,12 @@
     "geom:latitude":27.381043,
     "geom:longitude":91.246713,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Tsakaling Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.386543,
     "lbl:longitude":91.240206,
     "meso:adm1_en":"Monggar",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747663,
-    "wof:lastmodified":1536615700,
+    "wof:lastmodified":1553718671,
     "wof:name":"Tsakaling",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

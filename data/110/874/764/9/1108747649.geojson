@@ -10,6 +10,12 @@
     "geom:latitude":27.522649,
     "geom:longitude":89.776591,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Toepisa Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.521905,
     "lbl:longitude":89.775512,
     "meso:adm1_en":"Punakha",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747649,
-    "wof:lastmodified":1536615700,
+    "wof:lastmodified":1553718671,
     "wof:name":"Toepisa",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":27.292142,
     "geom:longitude":89.495992,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Doga Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.289116,
     "lbl:longitude":89.494987,
     "meso:adm1_en":"Paro",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747339,
-    "wof:lastmodified":1536615697,
+    "wof:lastmodified":1553718667,
     "wof:name":"Doga",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

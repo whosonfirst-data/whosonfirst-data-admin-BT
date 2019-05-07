@@ -10,6 +10,12 @@
     "geom:latitude":26.893392,
     "geom:longitude":90.987391,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Ngangla Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.897858,
     "lbl:longitude":90.987389,
     "meso:adm1_en":"Zhemgang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747531,
-    "wof:lastmodified":1536615699,
+    "wof:lastmodified":1553718670,
     "wof:name":"Ngangla",
     "wof:parent_id":85669559,
     "wof:placetype":"county",

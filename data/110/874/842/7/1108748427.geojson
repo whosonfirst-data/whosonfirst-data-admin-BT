@@ -10,6 +10,12 @@
     "geom:latitude":26.84215,
     "geom:longitude":89.485112,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Samphelling Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.831399,
     "lbl:longitude":89.48964,
     "meso:adm1_en":"Chhukha",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748427,
-    "wof:lastmodified":1536615704,
+    "wof:lastmodified":1553718676,
     "wof:name":"Samphelling",
     "wof:parent_id":85669501,
     "wof:placetype":"county",

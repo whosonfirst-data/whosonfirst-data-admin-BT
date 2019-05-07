@@ -10,6 +10,12 @@
     "geom:latitude":27.224074,
     "geom:longitude":91.439309,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Udzorong Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.227351,
     "lbl:longitude":91.440393,
     "meso:adm1_en":"Trashigang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747685,
-    "wof:lastmodified":1536615701,
+    "wof:lastmodified":1553718671,
     "wof:name":"Udzorong",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

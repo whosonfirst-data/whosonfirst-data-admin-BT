@@ -10,6 +10,12 @@
     "geom:latitude":26.885112,
     "geom:longitude":90.791846,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Pangkhar Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.902827,
     "lbl:longitude":90.788915,
     "meso:adm1_en":"Zhemgang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747547,
-    "wof:lastmodified":1536615700,
+    "wof:lastmodified":1553718670,
     "wof:name":"Pangkhar",
     "wof:parent_id":85669559,
     "wof:placetype":"county",

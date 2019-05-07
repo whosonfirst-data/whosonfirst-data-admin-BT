@@ -10,6 +10,12 @@
     "geom:latitude":27.665916,
     "geom:longitude":89.836626,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Chhubu Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.664075,
     "lbl:longitude":89.835686,
     "meso:adm1_en":"Punakha",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421204397,
-    "wof:lastmodified":1536616165,
+    "wof:lastmodified":1553717583,
     "wof:name":"Chhubu",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

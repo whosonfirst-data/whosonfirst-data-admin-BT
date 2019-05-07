@@ -10,6 +10,12 @@
     "geom:latitude":26.996832,
     "geom:longitude":88.971808,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Chargharay Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.994956,
     "lbl:longitude":88.971075,
     "meso:adm1_en":"Samtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747293,
-    "wof:lastmodified":1536615696,
+    "wof:lastmodified":1553718666,
     "wof:name":"Chargharay",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

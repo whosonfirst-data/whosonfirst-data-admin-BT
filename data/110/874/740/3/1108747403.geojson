@@ -10,6 +10,12 @@
     "geom:latitude":27.04056,
     "geom:longitude":91.160251,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Gongdue Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.033618,
     "lbl:longitude":91.166224,
     "meso:adm1_en":"Monggar",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747403,
-    "wof:lastmodified":1536615698,
+    "wof:lastmodified":1553718668,
     "wof:name":"Gongdue",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

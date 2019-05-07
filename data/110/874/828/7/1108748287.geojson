@@ -10,6 +10,12 @@
     "geom:latitude":27.641972,
     "geom:longitude":89.716646,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Kabjisa Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.641662,
     "lbl:longitude":89.710149,
     "meso:adm1_en":"Punakha",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748287,
-    "wof:lastmodified":1536615702,
+    "wof:lastmodified":1553718674,
     "wof:name":"Kabjisa",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":26.87356,
     "geom:longitude":90.521461,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Chhuzagang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.869103,
     "lbl:longitude":90.521835,
     "meso:adm1_en":"Sarpang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747311,
-    "wof:lastmodified":1536615696,
+    "wof:lastmodified":1553718667,
     "wof:name":"Chhuzagang",
     "wof:parent_id":85669545,
     "wof:placetype":"county",

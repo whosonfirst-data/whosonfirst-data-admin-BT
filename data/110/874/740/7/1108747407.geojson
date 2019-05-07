@@ -10,6 +10,12 @@
     "geom:latitude":26.939067,
     "geom:longitude":89.935438,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Gozhi Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.94611,
     "lbl:longitude":89.940212,
     "meso:adm1_en":"Dagana",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747407,
-    "wof:lastmodified":1536615698,
+    "wof:lastmodified":1553718668,
     "wof:name":"Gozhi",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

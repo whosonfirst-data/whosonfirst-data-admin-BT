@@ -10,6 +10,12 @@
     "geom:latitude":27.401413,
     "geom:longitude":89.95493,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Ruepisa Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.403513,
     "lbl:longitude":89.955959,
     "meso:adm1_en":"Wangduephodrang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748419,
-    "wof:lastmodified":1536615704,
+    "wof:lastmodified":1553718676,
     "wof:name":"Ruepisa",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

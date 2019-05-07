@@ -10,6 +10,12 @@
     "geom:latitude":27.566361,
     "geom:longitude":91.470164,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Trashiyangtse Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.547864,
     "lbl:longitude":91.461424,
     "meso:adm1_en":"Yangtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747659,
-    "wof:lastmodified":1536615700,
+    "wof:lastmodified":1553718671,
     "wof:name":"Trashiyangtse",
     "wof:parent_id":85669555,
     "wof:placetype":"county",

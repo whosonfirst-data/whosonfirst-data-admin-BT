@@ -10,6 +10,12 @@
     "geom:latitude":27.25598,
     "geom:longitude":91.361536,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Chaskhar Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.256021,
     "lbl:longitude":91.360598,
     "meso:adm1_en":"Monggar",
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1108747295,
-    "wof:lastmodified":1536615696,
+    "wof:lastmodified":1555091990,
     "wof:name":"Chaskhar",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

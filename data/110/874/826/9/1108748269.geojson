@@ -10,6 +10,12 @@
     "geom:latitude":27.582912,
     "geom:longitude":89.833309,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Guma Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.60143,
     "lbl:longitude":89.83,
     "meso:adm1_en":"Punakha",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748269,
-    "wof:lastmodified":1536615702,
+    "wof:lastmodified":1553718674,
     "wof:name":"Guma",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

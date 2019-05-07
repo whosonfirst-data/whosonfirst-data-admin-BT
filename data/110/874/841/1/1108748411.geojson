@@ -10,6 +10,12 @@
     "geom:latitude":26.859326,
     "geom:longitude":91.677987,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Phuntsthothang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.857402,
     "lbl:longitude":91.68453,
     "meso:adm1_en":"Samdrupjongkhar",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748411,
-    "wof:lastmodified":1536615704,
+    "wof:lastmodified":1553718675,
     "wof:name":"Phuntsthothang",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

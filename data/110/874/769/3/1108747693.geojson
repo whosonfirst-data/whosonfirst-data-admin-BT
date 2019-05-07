@@ -10,6 +10,12 @@
     "geom:latitude":27.465531,
     "geom:longitude":90.915889,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Ura Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.468721,
     "lbl:longitude":90.917857,
     "meso:adm1_en":"Bumthang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747693,
-    "wof:lastmodified":1536615701,
+    "wof:lastmodified":1553718672,
     "wof:name":"Ura",
     "wof:parent_id":85669537,
     "wof:placetype":"county",

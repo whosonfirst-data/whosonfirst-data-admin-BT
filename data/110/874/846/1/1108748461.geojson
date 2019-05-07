@@ -10,6 +10,12 @@
     "geom:latitude":26.99939,
     "geom:longitude":88.886968,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Sipsu Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.990872,
     "lbl:longitude":88.888454,
     "meso:adm1_en":"Samtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748461,
-    "wof:lastmodified":1536615705,
+    "wof:lastmodified":1553718677,
     "wof:name":"Sipsu",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

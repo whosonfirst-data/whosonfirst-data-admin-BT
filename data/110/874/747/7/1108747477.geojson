@@ -10,6 +10,12 @@
     "geom:latitude":28.064004,
     "geom:longitude":89.708189,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Laya Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":28.053008,
     "lbl:longitude":89.711581,
     "meso:adm1_en":"Gasa",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747477,
-    "wof:lastmodified":1536615698,
+    "wof:lastmodified":1553718669,
     "wof:name":"Laya",
     "wof:parent_id":85669521,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":27.581557,
     "geom:longitude":89.885511,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Dzoma Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.581861,
     "lbl:longitude":89.885109,
     "meso:adm1_en":"Punakha",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747369,
-    "wof:lastmodified":1536615697,
+    "wof:lastmodified":1553718668,
     "wof:name":"Dzoma",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

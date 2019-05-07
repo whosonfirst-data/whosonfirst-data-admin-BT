@@ -10,6 +10,12 @@
     "geom:latitude":26.953975,
     "geom:longitude":90.114413,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Mendrelgang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.9504,
     "lbl:longitude":90.106744,
     "meso:adm1_en":"Tsirang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747499,
-    "wof:lastmodified":1536615699,
+    "wof:lastmodified":1553718669,
     "wof:name":"Mendrelgang",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

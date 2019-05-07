@@ -10,6 +10,12 @@
     "geom:latitude":26.915734,
     "geom:longitude":89.126824,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Samtse Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.917206,
     "lbl:longitude":89.125663,
     "meso:adm1_en":"Samtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748431,
-    "wof:lastmodified":1536615704,
+    "wof:lastmodified":1553718676,
     "wof:name":"Samtse",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":26.956705,
     "geom:longitude":89.00524,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Ugentse Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.955388,
     "lbl:longitude":89.005551,
     "meso:adm1_en":"Samtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747689,
-    "wof:lastmodified":1536615701,
+    "wof:lastmodified":1553718671,
     "wof:name":"Ugentse",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

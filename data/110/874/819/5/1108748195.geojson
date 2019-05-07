@@ -10,6 +10,12 @@
     "geom:latitude":26.788843,
     "geom:longitude":89.874254,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Deorali Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.778978,
     "lbl:longitude":89.875269,
     "meso:adm1_en":"Dagana",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108748195,
-    "wof:lastmodified":1536615702,
+    "wof:lastmodified":1553718673,
     "wof:name":"Deorali",
     "wof:parent_id":-1,
     "wof:placetype":"county",

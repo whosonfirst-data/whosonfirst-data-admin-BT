@@ -10,6 +10,12 @@
     "geom:latitude":26.837873,
     "geom:longitude":91.131332,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Norbugang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.846092,
     "lbl:longitude":91.147318,
     "meso:adm1_en":"Pemagatshel",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747537,
-    "wof:lastmodified":1536615699,
+    "wof:lastmodified":1553718670,
     "wof:name":"Norbugang",
     "wof:parent_id":85669575,
     "wof:placetype":"county",

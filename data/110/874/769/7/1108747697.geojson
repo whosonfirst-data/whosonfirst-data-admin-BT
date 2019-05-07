@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007233,
-    "geom:area_square_m":79710188.360279,
+    "geom:area_square_m":79710188.36027,
     "geom:bbox":"91.5704976593,26.905297342,91.6667122167,27.0420731135",
     "geom:latitude":26.967645,
     "geom:longitude":91.621064,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Wangphu Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.967844,
     "lbl:longitude":91.62179,
     "meso:adm1_en":"Samdrupjongkhar",
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1108747697,
-    "wof:lastmodified":1512517029,
+    "wof:lastmodified":1555091991,
     "wof:name":"Wangphu",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

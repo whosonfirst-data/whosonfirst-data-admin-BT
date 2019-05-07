@@ -10,6 +10,12 @@
     "geom:latitude":27.386027,
     "geom:longitude":91.931089,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Sakteng Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.378907,
     "lbl:longitude":91.957377,
     "meso:adm1_en":"Trashigang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748423,
-    "wof:lastmodified":1536615704,
+    "wof:lastmodified":1553718676,
     "wof:name":"Sakteng",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

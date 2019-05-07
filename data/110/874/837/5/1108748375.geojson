@@ -10,6 +10,12 @@
     "geom:latitude":27.301218,
     "geom:longitude":91.42764,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Narang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.298794,
     "lbl:longitude":91.428446,
     "meso:adm1_en":"Monggar",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748375,
-    "wof:lastmodified":1536615703,
+    "wof:lastmodified":1553718675,
     "wof:name":"Narang",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

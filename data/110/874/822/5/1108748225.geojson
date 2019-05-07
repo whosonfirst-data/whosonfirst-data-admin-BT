@@ -10,6 +10,12 @@
     "geom:latitude":26.974461,
     "geom:longitude":91.275981,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Dungmin Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.982711,
     "lbl:longitude":91.268407,
     "meso:adm1_en":"Pemagatshel",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748225,
-    "wof:lastmodified":1536615702,
+    "wof:lastmodified":1553718673,
     "wof:name":"Dungmin",
     "wof:parent_id":85669575,
     "wof:placetype":"county",

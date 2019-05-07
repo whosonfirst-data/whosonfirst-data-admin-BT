@@ -10,6 +10,12 @@
     "geom:latitude":26.847032,
     "geom:longitude":89.191752,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Pagli Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.852144,
     "lbl:longitude":89.193416,
     "meso:adm1_en":"Samtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747545,
-    "wof:lastmodified":1536615700,
+    "wof:lastmodified":1553718670,
     "wof:name":"Pagli",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

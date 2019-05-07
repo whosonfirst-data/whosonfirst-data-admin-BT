@@ -10,6 +10,12 @@
     "geom:latitude":27.687175,
     "geom:longitude":89.52695,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Naro Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.698455,
     "lbl:longitude":89.528915,
     "meso:adm1_en":"Thimphu",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748377,
-    "wof:lastmodified":1536615703,
+    "wof:lastmodified":1553718675,
     "wof:name":"Naro",
     "wof:parent_id":85669527,
     "wof:placetype":"county",

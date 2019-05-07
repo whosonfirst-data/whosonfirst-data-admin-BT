@@ -10,6 +10,12 @@
     "geom:latitude":27.106124,
     "geom:longitude":89.433036,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Metap Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.106674,
     "lbl:longitude":89.426313,
     "meso:adm1_en":"Chhukha",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747505,
-    "wof:lastmodified":1536615699,
+    "wof:lastmodified":1553718669,
     "wof:name":"Metap",
     "wof:parent_id":85669501,
     "wof:placetype":"county",

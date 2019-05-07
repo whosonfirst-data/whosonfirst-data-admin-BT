@@ -10,6 +10,12 @@
     "geom:latitude":27.323014,
     "geom:longitude":91.318336,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Ngatshang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.317153,
     "lbl:longitude":91.31403,
     "meso:adm1_en":"Monggar",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747533,
-    "wof:lastmodified":1536615699,
+    "wof:lastmodified":1553718670,
     "wof:name":"Ngatshang",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":26.980903,
     "geom:longitude":90.100123,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Rangthangling Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.980462,
     "lbl:longitude":90.100134,
     "meso:adm1_en":"Tsirang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748417,
-    "wof:lastmodified":1536615704,
+    "wof:lastmodified":1553718675,
     "wof:name":"Rangthangling",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

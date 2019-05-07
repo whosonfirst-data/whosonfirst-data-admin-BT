@@ -10,6 +10,12 @@
     "geom:latitude":27.136021,
     "geom:longitude":90.137756,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Patakla Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.131841,
     "lbl:longitude":90.117747,
     "meso:adm1_en":"Tsirang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747549,
-    "wof:lastmodified":1536615700,
+    "wof:lastmodified":1553718670,
     "wof:name":"Patakla",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

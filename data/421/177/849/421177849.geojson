@@ -10,6 +10,12 @@
     "geom:latitude":27.728362,
     "geom:longitude":91.068153,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Gangzur Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.70698,
     "lbl:longitude":91.068162,
     "meso:adm1_en":"Lhuentse",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421177849,
-    "wof:lastmodified":1536615961,
+    "wof:lastmodified":1553717368,
     "wof:name":"Gangzur",
     "wof:parent_id":85669549,
     "wof:placetype":"county",

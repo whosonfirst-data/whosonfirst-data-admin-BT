@@ -10,6 +10,12 @@
     "geom:latitude":26.901974,
     "geom:longitude":90.613574,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Umling Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.922263,
     "lbl:longitude":90.629851,
     "meso:adm1_en":"Sarpang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747691,
-    "wof:lastmodified":1536615701,
+    "wof:lastmodified":1553718672,
     "wof:name":"Umling",
     "wof:parent_id":85669545,
     "wof:placetype":"county",

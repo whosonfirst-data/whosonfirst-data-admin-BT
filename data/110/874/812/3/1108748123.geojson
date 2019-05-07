@@ -10,6 +10,12 @@
     "geom:latitude":27.501833,
     "geom:longitude":89.857776,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Bapisa Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.503247,
     "lbl:longitude":89.861399,
     "meso:adm1_en":"Punakha",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748123,
-    "wof:lastmodified":1536615701,
+    "wof:lastmodified":1553718673,
     "wof:name":"Bapisa",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

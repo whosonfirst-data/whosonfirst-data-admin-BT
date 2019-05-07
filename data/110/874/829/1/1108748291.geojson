@@ -10,6 +10,12 @@
     "geom:latitude":27.272903,
     "geom:longitude":91.529907,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Kanglung Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.280849,
     "lbl:longitude":91.512006,
     "meso:adm1_en":"Trashigang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748291,
-    "wof:lastmodified":1536615702,
+    "wof:lastmodified":1553718674,
     "wof:name":"Kanglung",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

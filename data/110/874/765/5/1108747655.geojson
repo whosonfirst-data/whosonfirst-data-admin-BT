@@ -10,6 +10,12 @@
     "geom:latitude":27.456734,
     "geom:longitude":91.502308,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Tomzhangtshen Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.460161,
     "lbl:longitude":91.50126,
     "meso:adm1_en":"Yangtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747655,
-    "wof:lastmodified":1536615700,
+    "wof:lastmodified":1553718671,
     "wof:name":"Tomzhangtshen",
     "wof:parent_id":85669555,
     "wof:placetype":"county",

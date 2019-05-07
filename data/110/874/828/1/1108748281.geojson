@@ -10,6 +10,12 @@
     "geom:latitude":27.451264,
     "geom:longitude":91.078554,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Jaray Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.435879,
     "lbl:longitude":91.034432,
     "meso:adm1_en":"Lhuentse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748281,
-    "wof:lastmodified":1536615702,
+    "wof:lastmodified":1553718674,
     "wof:name":"Jaray",
     "wof:parent_id":85669549,
     "wof:placetype":"county",

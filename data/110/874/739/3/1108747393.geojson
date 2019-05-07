@@ -10,6 +10,12 @@
     "geom:latitude":27.784269,
     "geom:longitude":89.672285,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Goenkhame Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.781565,
     "lbl:longitude":89.680353,
     "meso:adm1_en":"Gasa",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747393,
-    "wof:lastmodified":1536615697,
+    "wof:lastmodified":1553718668,
     "wof:name":"Goenkhame",
     "wof:parent_id":85669521,
     "wof:placetype":"county",

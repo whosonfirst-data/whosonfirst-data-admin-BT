@@ -10,6 +10,12 @@
     "geom:latitude":27.222812,
     "geom:longitude":90.923023,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Shingkhar Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.255393,
     "lbl:longitude":90.9367,
     "meso:adm1_en":"Zhemgang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748449,
-    "wof:lastmodified":1536615704,
+    "wof:lastmodified":1553718676,
     "wof:name":"Shingkhar",
     "wof:parent_id":85669559,
     "wof:placetype":"county",

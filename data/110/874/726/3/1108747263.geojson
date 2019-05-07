@@ -10,6 +10,12 @@
     "geom:latitude":26.934404,
     "geom:longitude":90.070397,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Barzhong Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.935539,
     "lbl:longitude":90.073527,
     "meso:adm1_en":"Tsirang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747263,
-    "wof:lastmodified":1536615695,
+    "wof:lastmodified":1553718666,
     "wof:name":"Barzhong",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

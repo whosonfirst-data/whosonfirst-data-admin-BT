@@ -10,6 +10,12 @@
     "geom:latitude":27.409561,
     "geom:longitude":91.578756,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Ramjar Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.409617,
     "lbl:longitude":91.57923,
     "meso:adm1_en":"Yangtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748415,
-    "wof:lastmodified":1536615704,
+    "wof:lastmodified":1553718675,
     "wof:name":"Ramjar",
     "wof:parent_id":85669555,
     "wof:placetype":"county",

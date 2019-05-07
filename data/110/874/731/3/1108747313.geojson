@@ -10,6 +10,12 @@
     "geom:latitude":26.839026,
     "geom:longitude":91.338184,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Chokhorling Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.831413,
     "lbl:longitude":91.339276,
     "meso:adm1_en":"Pemagatshel",
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1108747313,
-    "wof:lastmodified":1536615696,
+    "wof:lastmodified":1555091990,
     "wof:name":"Chokhorling",
     "wof:parent_id":85669575,
     "wof:placetype":"county",

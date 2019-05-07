@@ -10,6 +10,12 @@
     "geom:latitude":27.564888,
     "geom:longitude":89.608291,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Kawang Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.558597,
     "lbl:longitude":89.608292,
     "meso:adm1_en":"Thimphu",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421205147,
-    "wof:lastmodified":1536616171,
+    "wof:lastmodified":1553717586,
     "wof:name":"Kawang",
     "wof:parent_id":85669527,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":27.357115,
     "geom:longitude":91.710579,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Radi Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.357806,
     "lbl:longitude":91.709881,
     "meso:adm1_en":"Trashigang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748413,
-    "wof:lastmodified":1536615704,
+    "wof:lastmodified":1553718675,
     "wof:name":"Radi",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

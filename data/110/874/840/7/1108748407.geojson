@@ -10,6 +10,12 @@
     "geom:latitude":27.099012,
     "geom:longitude":90.231127,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Phuentenchhu Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.080373,
     "lbl:longitude":90.223728,
     "meso:adm1_en":"Tsirang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748407,
-    "wof:lastmodified":1536615703,
+    "wof:lastmodified":1553718676,
     "wof:name":"Phuentenchhu",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

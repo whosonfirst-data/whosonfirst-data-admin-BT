@@ -10,6 +10,12 @@
     "geom:latitude":26.939988,
     "geom:longitude":90.258474,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Hiley Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.942996,
     "lbl:longitude":90.257262,
     "meso:adm1_en":"Sarpang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747415,
-    "wof:lastmodified":1536615698,
+    "wof:lastmodified":1553718668,
     "wof:name":"Hiley",
     "wof:parent_id":85669545,
     "wof:placetype":"county",

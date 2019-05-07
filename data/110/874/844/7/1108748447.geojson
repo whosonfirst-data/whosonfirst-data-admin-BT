@@ -10,6 +10,12 @@
     "geom:latitude":26.929214,
     "geom:longitude":90.562303,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Sherzhong Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.925765,
     "lbl:longitude":90.56136,
     "meso:adm1_en":"Sarpang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748447,
-    "wof:lastmodified":1536615704,
+    "wof:lastmodified":1553718676,
     "wof:name":"Sherzhong",
     "wof:parent_id":85669545,
     "wof:placetype":"county",

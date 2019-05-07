@@ -10,6 +10,12 @@
     "geom:latitude":27.206542,
     "geom:longitude":89.561785,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Chapchha Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.219718,
     "lbl:longitude":89.551399,
     "meso:adm1_en":"Chhukha",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747291,
-    "wof:lastmodified":1536615696,
+    "wof:lastmodified":1553718666,
     "wof:name":"Chapchha",
     "wof:parent_id":85669501,
     "wof:placetype":"county",

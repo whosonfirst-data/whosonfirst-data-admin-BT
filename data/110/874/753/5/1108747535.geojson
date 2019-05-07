@@ -10,6 +10,12 @@
     "geom:latitude":26.779186,
     "geom:longitude":89.978481,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Nichula Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.772628,
     "lbl:longitude":89.97994,
     "meso:adm1_en":"Dagana",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747535,
-    "wof:lastmodified":1536615699,
+    "wof:lastmodified":1553718670,
     "wof:name":"Nichula",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":27.028678,
     "geom:longitude":89.273914,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Denchhukha Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.029504,
     "lbl:longitude":89.274991,
     "meso:adm1_en":"Samtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748193,
-    "wof:lastmodified":1536615701,
+    "wof:lastmodified":1553718673,
     "wof:name":"Denchhukha",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

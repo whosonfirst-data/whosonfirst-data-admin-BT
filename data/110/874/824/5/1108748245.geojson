@@ -10,6 +10,12 @@
     "geom:latitude":27.308014,
     "geom:longitude":89.611348,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Genye Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.298798,
     "lbl:longitude":89.595658,
     "meso:adm1_en":"Thimphu",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748245,
-    "wof:lastmodified":1536615702,
+    "wof:lastmodified":1553718674,
     "wof:name":"Genye",
     "wof:parent_id":85669527,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":27.262994,
     "geom:longitude":91.09787,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Saleng Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.261014,
     "lbl:longitude":91.095724,
     "meso:adm1_en":"Monggar",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421184419,
-    "wof:lastmodified":1536616020,
+    "wof:lastmodified":1553717427,
     "wof:name":"Saleng",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":26.887129,
     "geom:longitude":89.280653,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Tading Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.887809,
     "lbl:longitude":89.286872,
     "meso:adm1_en":"Samtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748467,
-    "wof:lastmodified":1536615705,
+    "wof:lastmodified":1553718677,
     "wof:name":"Tading",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

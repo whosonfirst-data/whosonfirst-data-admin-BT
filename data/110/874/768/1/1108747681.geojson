@@ -10,6 +10,12 @@
     "geom:latitude":27.060223,
     "geom:longitude":90.102191,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Tsirangtoe Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.063002,
     "lbl:longitude":90.101489,
     "meso:adm1_en":"Tsirang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747681,
-    "wof:lastmodified":1536615701,
+    "wof:lastmodified":1553718671,
     "wof:name":"Tsirangtoe",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

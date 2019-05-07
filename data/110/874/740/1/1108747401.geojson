@@ -10,6 +10,12 @@
     "geom:latitude":27.007237,
     "geom:longitude":91.574631,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Gomdar Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.009419,
     "lbl:longitude":91.574632,
     "meso:adm1_en":"Samdrupjongkhar",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747401,
-    "wof:lastmodified":1536615697,
+    "wof:lastmodified":1553718668,
     "wof:name":"Gomdar",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

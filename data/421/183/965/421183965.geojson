@@ -10,6 +10,12 @@
     "geom:latitude":27.414317,
     "geom:longitude":90.389586,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Tangsibji Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.409111,
     "lbl:longitude":90.387623,
     "meso:adm1_en":"Trongsa",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421183965,
-    "wof:lastmodified":1536616015,
+    "wof:lastmodified":1553717419,
     "wof:name":"Tangsibji",
     "wof:parent_id":85669563,
     "wof:placetype":"county",

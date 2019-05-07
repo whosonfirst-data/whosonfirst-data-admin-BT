@@ -10,6 +10,12 @@
     "geom:latitude":27.065375,
     "geom:longitude":88.912754,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Biru Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.068052,
     "lbl:longitude":88.908955,
     "meso:adm1_en":"Samtse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747273,
-    "wof:lastmodified":1536615696,
+    "wof:lastmodified":1553718666,
     "wof:name":"Biru",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

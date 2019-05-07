@@ -10,6 +10,12 @@
     "geom:latitude":27.372483,
     "geom:longitude":89.390308,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Lungnyi Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.371312,
     "lbl:longitude":89.389383,
     "meso:adm1_en":"Paro",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747493,
-    "wof:lastmodified":1536615699,
+    "wof:lastmodified":1553718669,
     "wof:name":"Lungnyi",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

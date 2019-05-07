@@ -10,6 +10,12 @@
     "geom:latitude":27.040466,
     "geom:longitude":91.344227,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Yurung Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.038951,
     "lbl:longitude":91.337673,
     "meso:adm1_en":"Pemagatshel",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747707,
-    "wof:lastmodified":1536615701,
+    "wof:lastmodified":1553718672,
     "wof:name":"Yurung",
     "wof:parent_id":85669575,
     "wof:placetype":"county",

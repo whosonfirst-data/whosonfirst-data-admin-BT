@@ -10,6 +10,12 @@
     "geom:latitude":27.088721,
     "geom:longitude":91.248524,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Jurmey Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.087418,
     "lbl:longitude":91.249416,
     "meso:adm1_en":"Monggar",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748285,
-    "wof:lastmodified":1536615702,
+    "wof:lastmodified":1553718674,
     "wof:name":"Jurmey",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

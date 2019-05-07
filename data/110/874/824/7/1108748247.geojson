@@ -10,6 +10,12 @@
     "geom:latitude":26.919128,
     "geom:longitude":89.892077,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Gesarling Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":26.914481,
     "lbl:longitude":89.895191,
     "meso:adm1_en":"Dagana",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108748247,
-    "wof:lastmodified":1536615702,
+    "wof:lastmodified":1553718674,
     "wof:name":"Gesarling",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

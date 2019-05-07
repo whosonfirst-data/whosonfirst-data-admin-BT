@@ -10,6 +10,12 @@
     "geom:latitude":27.580166,
     "geom:longitude":91.261037,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Minjay Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.577268,
     "lbl:longitude":91.26243,
     "meso:adm1_en":"Lhuentse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747511,
-    "wof:lastmodified":1536615699,
+    "wof:lastmodified":1553718670,
     "wof:name":"Minjay",
     "wof:parent_id":85669549,
     "wof:placetype":"county",

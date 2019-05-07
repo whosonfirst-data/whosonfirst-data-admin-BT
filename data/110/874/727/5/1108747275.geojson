@@ -10,6 +10,12 @@
     "geom:latitude":27.074206,
     "geom:longitude":89.582137,
     "iso:country":"BT",
+    "label:eng_x_preferred_longname":[
+        "Bjachho Gewog"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "gewog"
+    ],
     "lbl:latitude":27.072878,
     "lbl:longitude":89.574339,
     "meso:adm1_en":"Chhukha",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108747275,
-    "wof:lastmodified":1536615696,
+    "wof:lastmodified":1553718666,
     "wof:name":"Bjachho",
     "wof:parent_id":85669501,
     "wof:placetype":"county",
