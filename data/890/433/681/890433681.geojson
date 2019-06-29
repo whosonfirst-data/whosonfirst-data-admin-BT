@@ -24,16 +24,10 @@
     "name:ceb_x_preferred":[
         "Phuentsholing"
     ],
-    "name:chi_x_preferred":[
-        "\u5f6d\u63aa\u6797"
-    ],
     "name:dan_x_preferred":[
         "Phuntsholing"
     ],
     "name:deu_x_preferred":[
-        "Phuentsholing"
-    ],
-    "name:dut_x_preferred":[
         "Phuentsholing"
     ],
     "name:dzo_x_preferred":[
@@ -51,11 +45,8 @@
     "name:fin_x_preferred":[
         "Phuntsholing"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Phuntsholing"
-    ],
-    "name:ger_x_preferred":[
-        "Phuentsholing"
     ],
     "name:ind_x_preferred":[
         "Phuntsholing"
@@ -78,6 +69,9 @@
     "name:nep_x_preferred":[
         "\u092b\u0941\u0928\u094d\u091b\u094b\u0932\u093f\u0919\u094d\u0917"
     ],
+    "name:nld_x_preferred":[
+        "Phuentsholing"
+    ],
     "name:nob_x_preferred":[
         "Phuntsholing"
     ],
@@ -87,7 +81,7 @@
     "name:por_x_preferred":[
         "Phuntsholing"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Phuntsholing"
     ],
     "name:rus_x_preferred":[
@@ -159,7 +153,7 @@
         }
     ],
     "wof:id":890433681,
-    "wof:lastmodified":1527792951,
+    "wof:lastmodified":1561843611,
     "wof:name":"Phuntsholing",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

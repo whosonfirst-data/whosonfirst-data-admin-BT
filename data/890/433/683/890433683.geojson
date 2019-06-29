@@ -27,16 +27,13 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u7f85"
+    "name:cym_x_preferred":[
+        "Paro"
     ],
     "name:dan_x_preferred":[
         "Paro"
     ],
     "name:deu_x_preferred":[
-        "Paro"
-    ],
-    "name:dut_x_preferred":[
         "Paro"
     ],
     "name:dzo_x_preferred":[
@@ -56,18 +53,6 @@
     ],
     "name:fra_x_preferred":[
         "Paro"
-    ],
-    "name:fre_x_preferred":[
-        "Paro"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Paro"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03ac\u03c1\u03bf"
     ],
     "name:hin_x_preferred":[
         "\u092a\u093e\u0930\u094b-\u092d\u0942\u091f\u093e\u0928"
@@ -126,9 +111,6 @@
     "name:urd_x_preferred":[
         "\u067e\u0627\u0631\u0648\u060c \u0628\u06be\u0648\u0679\u0627\u0646"
     ],
-    "name:wel_x_preferred":[
-        "Paro"
-    ],
     "name:zho_x_preferred":[
         "\u5e15\u7f85"
     ],
@@ -168,7 +150,7 @@
         }
     ],
     "wof:id":890433683,
-    "wof:lastmodified":1534379244,
+    "wof:lastmodified":1561843611,
     "wof:name":"Paro",
     "wof:parent_id":1108747343,
     "wof:placetype":"locality",

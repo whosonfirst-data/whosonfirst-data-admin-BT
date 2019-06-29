@@ -16,13 +16,7 @@
     "name:ceb_x_preferred":[
         "Trashigang"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u5e0c\u5188"
-    ],
     "name:dan_x_preferred":[
-        "Trashigang"
-    ],
-    "name:dut_x_preferred":[
         "Trashigang"
     ],
     "name:dzo_x_preferred":[
@@ -38,9 +32,6 @@
         "Trashigang"
     ],
     "name:fra_x_preferred":[
-        "Trashigang"
-    ],
-    "name:fre_x_preferred":[
         "Trashigang"
     ],
     "name:heb_x_preferred":[
@@ -71,9 +62,6 @@
         "Trashigang"
     ],
     "name:ron_x_preferred":[
-        "Tashigang"
-    ],
-    "name:rum_x_preferred":[
         "Tashigang"
     ],
     "name:rus_x_preferred":[
@@ -139,7 +127,7 @@
         }
     ],
     "wof:id":421190231,
-    "wof:lastmodified":1527716396,
+    "wof:lastmodified":1561843610,
     "wof:name":"Tashigang",
     "wof:parent_id":421183963,
     "wof:placetype":"locality",
