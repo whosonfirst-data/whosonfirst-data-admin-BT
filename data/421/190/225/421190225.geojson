@@ -27,8 +27,8 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u7f85"
+    "name:cym_x_preferred":[
+        "Paro"
     ],
     "name:dan_x_preferred":[
         "Paro"
@@ -36,11 +36,11 @@
     "name:deu_x_preferred":[
         "Paro"
     ],
-    "name:dut_x_preferred":[
-        "Paro"
-    ],
     "name:dzo_x_preferred":[
         "\u0f66\u0fa4\u0f0b\u0f62\u0f7c\u0f0b"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Paro"
@@ -51,17 +51,8 @@
     "name:est_x_preferred":[
         "Paro"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Paro"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Paro"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03ac\u03c1\u03bf"
     ],
     "name:hin_x_preferred":[
         "\u092a\u093e\u0930\u094b-\u092d\u0942\u091f\u093e\u0928"
@@ -71,6 +62,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30ed"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e0\u10dd"
     ],
     "name:kor_x_preferred":[
         "\ud30c\ub85c"
@@ -114,8 +108,8 @@
     "name:urd_x_preferred":[
         "\u067e\u0627\u0631\u0648\u060c \u0628\u06be\u0648\u0679\u0627\u0646"
     ],
-    "name:wel_x_preferred":[
-        "Paro"
+    "name:zho_x_preferred":[
+        "\u5e15\u7f85"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -162,7 +156,7 @@
         }
     ],
     "wof:id":421190225,
-    "wof:lastmodified":1553816379,
+    "wof:lastmodified":1561843610,
     "wof:name":"Paro",
     "wof:parent_id":1108747695,
     "wof:placetype":"locality",

@@ -38,9 +38,6 @@
     "name:aka_x_preferred":[
         "Butan"
     ],
-    "name:alb_x_preferred":[
-        "Butani"
-    ],
     "name:als_x_preferred":[
         "Bhutan"
     ],
@@ -58,9 +55,6 @@
     ],
     "name:arg_x_preferred":[
         "But\u00e1n"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0582\u0569\u0561\u0576"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0648\u062a\u0627\u0646"
@@ -82,9 +76,6 @@
     ],
     "name:bam_x_preferred":[
         "Buta\u014b"
-    ],
-    "name:baq_x_preferred":[
-        "Bhutan"
     ],
     "name:bar_x_preferred":[
         "Bhutan"
@@ -135,9 +126,6 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0442\u0430\u043d"
     ],
-    "name:bur_x_preferred":[
-        "\u1018\u1030\u1010\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
-    ],
     "name:bxr_x_preferred":[
         "\u0411\u0443\u0442\u0430\u043d"
     ],
@@ -158,9 +146,6 @@
     ],
     "name:che_x_preferred":[
         "\u0411\u0443\u0442\u0430\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u4e0d\u4e39"
     ],
     "name:chr_x_preferred":[
         "\u13ca\u13d4\u13c2"
@@ -187,9 +172,6 @@
     "name:cym_x_variant":[
         "Bhutan"
     ],
-    "name:cze_x_preferred":[
-        "Bh\u00fat\u00e1n"
-    ],
     "name:dan_x_preferred":[
         "Bhutan"
     ],
@@ -207,9 +189,6 @@
     ],
     "name:dty_x_preferred":[
         "\u092d\u0942\u091f\u093e\u0928"
-    ],
-    "name:dut_x_preferred":[
-        "Bhutan"
     ],
     "name:dut_x_variant":[
         "Bhoetan"
@@ -260,7 +239,8 @@
         "\u0628\u0648\u062a\u0627\u0646"
     ],
     "name:fas_x_variant":[
-        "\u0628\u0627\u062a\u0627\u0646"
+        "\u0628\u0627\u062a\u0627\u0646",
+        "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0628\u0648\u062a\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Bhutan"
@@ -270,9 +250,6 @@
     ],
     "name:fra_x_variant":[
         "Bhutan"
-    ],
-    "name:fre_x_preferred":[
-        "Bhoutan"
     ],
     "name:frp_x_preferred":[
         "Botan"
@@ -289,15 +266,9 @@
     "name:gag_x_preferred":[
         "Butan"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10f0\u10e3\u10e2\u10d0\u10dc\u10d8"
-    ],
     "name:ger_x_colloquial":[
         "Koenigreich Bhutan",
         "Konigreich Bhutan"
-    ],
-    "name:ger_x_preferred":[
-        "Bhutan"
     ],
     "name:ger_x_variant":[
         "K\u00f6nigreich Bhutan"
@@ -322,9 +293,6 @@
     ],
     "name:gom_x_preferred":[
         "\u092d\u0942\u0924\u093e\u0928"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03c4\u03ac\u03bd"
     ],
     "name:grn_x_preferred":[
         "Vut\u00e3"
@@ -386,9 +354,6 @@
     ],
     "name:hye_x_variant":[
         "\u0532\u0578\u0582\u057f\u0561\u0576"
-    ],
-    "name:ice_x_preferred":[
-        "B\u00fatan"
     ],
     "name:ido_x_preferred":[
         "Bhutan"
@@ -526,9 +491,6 @@
     "name:lzh_x_preferred":[
         "\u4e0d\u4e39"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0443\u0442\u0430\u043d"
-    ],
     "name:mai_x_preferred":[
         "\u092d\u0941\u091f\u093e\u0928"
     ],
@@ -540,9 +502,6 @@
     ],
     "name:mar_x_preferred":[
         "\u092d\u0942\u0924\u093e\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Bhutan"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0443\u0442\u0430\u043d"
@@ -653,9 +612,6 @@
     "name:pcd_x_preferred":[
         "Bhoutan"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0628\u0648\u062a\u0627\u0646"
-    ],
     "name:pih_x_preferred":[
         "Buuten"
     ],
@@ -692,9 +648,6 @@
     "name:rue_x_preferred":[
         "\u0411\u0433\u0443\u0442\u0430\u043d"
     ],
-    "name:rum_x_preferred":[
-        "Bhutan"
-    ],
     "name:run_x_preferred":[
         "Butani"
     ],
@@ -730,9 +683,6 @@
     ],
     "name:slk_x_variant":[
         "But\u00e1n"
-    ],
-    "name:slo_x_preferred":[
-        "Bhut\u00e1n"
     ],
     "name:slv_x_preferred":[
         "Butan (dr\u017eava)",
@@ -829,9 +779,6 @@
         "\u0e20\u0e39\u0e10\u0e32\u0e19",
         "\u0e20\u0e39\u0e0f\u0e32\u0e19"
     ],
-    "name:tib_x_preferred":[
-        "\u0f60\u0f56\u0fb2\u0f74\u0f42\u0f0b\u0f61\u0f74\u0f63\u0f0d"
-    ],
     "name:tir_x_preferred":[
         "\u1261\u1205\u1273\u1295"
     ],
@@ -903,9 +850,6 @@
     "name:war_x_preferred":[
         "Butan"
     ],
-    "name:wel_x_preferred":[
-        "Bhutan"
-    ],
     "name:wol_x_preferred":[
         "Butaan"
     ],
@@ -940,9 +884,6 @@
         "Bhutan"
     ],
     "name:zho_x_preferred":[
-        "\u4e0d\u4e39"
-    ],
-    "name:zho_x_variant":[
         "\u4e0d\u4e39"
     ],
     "name:zho_yue_x_preferred":[
@@ -1097,7 +1038,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1544059131,
+    "wof:lastmodified":1561843607,
     "wof:name":"Bhutan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

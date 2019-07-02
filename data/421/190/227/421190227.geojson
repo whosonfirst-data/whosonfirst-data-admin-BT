@@ -16,14 +16,8 @@
     "name:ceb_x_preferred":[
         "Trongsa"
     ],
-    "name:chi_x_preferred":[
-        "\u901a\u8428"
-    ],
     "name:deu_x_preferred":[
         "Tongsa"
-    ],
-    "name:dut_x_preferred":[
-        "Trongsa"
     ],
     "name:dzo_x_preferred":[
         "\u0f40\u0fb2\u0f7c\u0f44\u0f0b\u0f42\u0f66\u0f62\u0f0b"
@@ -38,15 +32,6 @@
         "Trongsa"
     ],
     "name:fra_x_preferred":[
-        "Tongsa"
-    ],
-    "name:fre_x_preferred":[
-        "Tongsa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e0\u10dd\u10dc\u10d2\u10e1\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Tongsa"
     ],
     "name:heb_x_preferred":[
@@ -74,9 +59,6 @@
         "Trongsa"
     ],
     "name:ron_x_preferred":[
-        "Tongsa"
-    ],
-    "name:rum_x_preferred":[
         "Tongsa"
     ],
     "name:rus_x_preferred":[
@@ -148,7 +130,7 @@
         }
     ],
     "wof:id":421190227,
-    "wof:lastmodified":1527716390,
+    "wof:lastmodified":1561843610,
     "wof:name":"Tongsa",
     "wof:parent_id":421171015,
     "wof:placetype":"locality",
