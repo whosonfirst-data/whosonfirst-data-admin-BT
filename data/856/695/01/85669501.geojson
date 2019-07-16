@@ -25,8 +25,38 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0634\u0648\u062e\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09c1\u0996\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bod_x_preferred":[
+        "Chukha District"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0443\u043a\u0445\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Chhukha Dzongkhag"
+    ],
+    "name:ces_x_preferred":[
+        "Chhukha"
+    ],
+    "name:dan_x_preferred":[
+        "Chukha"
+    ],
+    "name:deu_x_preferred":[
+        "Chukha"
+    ],
     "name:dzo_x_preferred":[
         "\u0f46\u0f74\u0f0b\u0f41\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42\u0f0b"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f46\u0f74\u0f0b\u0f41\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03cd\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Chhukha"
@@ -35,14 +65,128 @@
         "Chukha District",
         "Chukha"
     ],
+    "name:epo_x_preferred":[
+        "Distrikto \u0108u\u0125a"
+    ],
+    "name:est_x_preferred":[
+        "Chhukha ringkond"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0686\u0648\u062e\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Chukha"
+    ],
+    "name:fra_x_preferred":[
+        "Chukha"
+    ],
+    "name:frr_x_preferred":[
+        "Chukha"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9a\u0ac1\u0a96\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u0941\u0916\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Chukha k\u00f6rzet"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Chukha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e5\u30ab\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9a\u0cc1\u0c96\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ucd94\uce74 \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "\u010chukhas distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cukos apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u091a\u0941\u0916\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Chukha District"
+    ],
+    "name:nan_x_preferred":[
+        "Chukha Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Chukha"
+    ],
+    "name:nob_x_preferred":[
+        "Chukha"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u06c1\u0622"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Chukha"
+    ],
+    "name:por_x_preferred":[
+        "Chukha"
+    ],
+    "name:pus_x_preferred":[
+        "\u0686\u0648\u06a9\u0647\u0627 \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
+    ],
     "name:ron_x_preferred":[
         "Districtul Chukha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043a\u0445\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da0\u0dd4\u0db1\u0dca\u0d9b\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:slk_x_preferred":[
+        "\u010chukha"
     ],
     "name:spa_x_preferred":[
         "Distrito de Chukha"
     ],
+    "name:srp_x_preferred":[
+        "\u0427\u0443\u043a\u0445\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Chukha"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1a\u0c41\u0c16\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e08\u0e04\u0e0a\u0e39\u0e04\u0e32\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Chuka District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u043a\u0445\u0430"
+    ],
     "name:unk_x_variant":[
         "Chhukha Dzongkhag"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0648\u06a9\u06c1\u0627 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Chukha"
+    ],
+    "name:war_x_preferred":[
+        "Chukha"
+    ],
+    "name:zho_x_preferred":[
+        "\u695a\u5361\u5b97"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BTN",
@@ -168,7 +312,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1553550319,
+    "wof:lastmodified":1563260409,
     "wof:name":"Chhukha",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

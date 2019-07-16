@@ -25,8 +25,35 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0627\u0631\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09b0\u09cb \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f66\u0fa4\u0f0b\u0f62\u0f7c\u0f0b\u0f42\u0f72\u0f0b\u0f66\u0f0b\u0f41\u0f7c\u0f44\u0f66\u0f0d"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0440\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Paro Dzongkhag"
+    ],
+    "name:dan_x_preferred":[
+        "Paro District"
+    ],
+    "name:deu_x_preferred":[
+        "Paro"
+    ],
     "name:dzo_x_preferred":[
         "\u0f66\u0fa4\u0f0b\u0f62\u0f7c\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42\u0f0b"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f66\u0fa4\u0f0b\u0f62\u0f7c\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Paro"
@@ -34,29 +61,134 @@
     "name:eng_x_variant":[
         "Paro District"
     ],
+    "name:epo_x_preferred":[
+        "Distrikto Paro"
+    ],
+    "name:est_x_preferred":[
+        "Paro ringkond"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0627\u0631\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Paro"
+    ],
     "name:fra_x_preferred":[
         "Paro"
+    ],
+    "name:frr_x_preferred":[
+        "Paro"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0abe\u0ab0\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
     "name:hin_x_preferred":[
         "\u092a\u093e\u0930\u094b-\u092d\u0942\u091f\u093e\u0928"
     ],
+    "name:hin_x_variant":[
+        "\u092a\u093e\u0930\u094b \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Paro k\u00f6rzet"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Paro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30ed\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cca \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\ub85c \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Paro distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Paro apskritis"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d3e\u0d31\u0d4b \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u093e\u0930\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Paro District"
+    ],
+    "name:nan_x_preferred":[
+        "Paro Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Paro"
     ],
+    "name:nob_x_preferred":[
+        "Paro"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2a\u0a3e\u0a30\u0a4b \u0a1c\u0a3c\u0a3f\u0a32\u0a4d\u0a39\u0a3e"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u067e\u0627\u0631\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Paro"
+    ],
     "name:por_x_preferred":[
+        "Paro"
+    ],
+    "name:pus_x_preferred":[
+        "\u067e\u0627\u0631\u0648 \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
+    ],
+    "name:ron_x_preferred":[
         "Paro"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u043e"
     ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dcf\u0dbb\u0ddd \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:slv_x_preferred":[
+        "Okraj Paro"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Paro"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0440\u043e"
     ],
     "name:swe_x_preferred":[
         "Paro"
     ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c3e\u0c30\u0c4b \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e13\u0e11\u0e25\u0e1e\u0e32\u0e42\u0e23"
+    ],
+    "name:tur_x_preferred":[
+        "Paro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u043e"
+    ],
     "name:unk_x_variant":[
         "Paro Dzongkhag"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0631\u0648 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Paro"
+    ],
+    "name:war_x_preferred":[
+        "Paro"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u7f57\u5b97"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BTN",
@@ -182,7 +314,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1553550319,
+    "wof:lastmodified":1563260417,
     "wof:name":"Paro",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

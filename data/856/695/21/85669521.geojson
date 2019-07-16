@@ -31,11 +31,17 @@
     "name:ben_x_preferred":[
         "\u0997\u09be\u09b8\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bod_x_preferred":[
+        "Gasa District"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0430\u0441\u0430"
     ],
     "name:cat_x_preferred":[
         "Districte de Gasa"
+    ],
+    "name:ceb_x_preferred":[
+        "Gasa"
     ],
     "name:dan_x_preferred":[
         "Gasa"
@@ -45,6 +51,9 @@
     ],
     "name:dzo_x_preferred":[
         "\u0f58\u0f42\u0f62\u0f0b\u0f66\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42\u0f0b"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f58\u0f42\u0f62\u0f0b\u0f66\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42"
     ],
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03ac\u03c3\u03b1"
@@ -68,6 +77,9 @@
         "Gasa"
     ],
     "name:fra_x_preferred":[
+        "Gasa"
+    ],
+    "name:frr_x_preferred":[
         "Gasa"
     ],
     "name:guj_x_preferred":[
@@ -296,7 +308,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1561843606,
+    "wof:lastmodified":1563260404,
     "wof:name":"Gasa",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

@@ -25,11 +25,98 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:bod_x_preferred":[
+        "\u0f62\u0fa9\u0f72\u0f0b\u0f62\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f66\u0f0b\u0f41\u0f7c\u0f44\u0f66\u0f0d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0426\u0438\u0440\u0430\u043d\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Tsirang"
+    ],
+    "name:deu_x_preferred":[
+        "Tsirang"
+    ],
+    "name:dzo_x_preferred":[
+        "\u0f62\u0fa9\u0f72\u0f0b\u0f62\u0f44\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42"
+    ],
     "name:eng_x_preferred":[
         "Chirang"
     ],
+    "name:eng_x_variant":[
+        "Tsirang District"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Cirang"
+    ],
+    "name:est_x_preferred":[
+        "Tsirangi ringkond"
+    ],
+    "name:fin_x_preferred":[
+        "Tsirang"
+    ],
+    "name:fra_x_preferred":[
+        "Tsirang"
+    ],
+    "name:frr_x_preferred":[
+        "Tsirang"
+    ],
+    "name:hun_x_preferred":[
+        "Tsirang k\u00f6rzet"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Tsirang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e9\u30f3\u770c"
+    ],
+    "name:kor_x_preferred":[
+        "\uce58\ub791 \ud604"
+    ],
+    "name:nan_x_preferred":[
+        "Tsirang Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Tsirang"
+    ],
+    "name:nob_x_preferred":[
+        "Tsirang"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0632\u06cc\u0631\u0627\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Tsirang"
+    ],
+    "name:por_x_preferred":[
+        "Tsirang"
+    ],
+    "name:pus_x_preferred":[
+        "\u062a\u0633\u064a\u0631\u0627\u0646\u06af \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
+    ],
+    "name:ron_x_preferred":[
+        "Tsirang"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0438\u0440\u0430\u043d\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Tsirang"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0456\u0440\u0430\u043d\u0433"
+    ],
     "name:unk_x_variant":[
         "Chirang Dzongkhag"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0633\u06cc\u0631\u0627\u0646\u06af \u0636\u0644\u0639"
+    ],
+    "name:war_x_preferred":[
+        "Tsirang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u6717\u5b97"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BTN",
@@ -153,7 +240,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1553550319,
+    "wof:lastmodified":1563260412,
     "wof:name":"Chirang",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

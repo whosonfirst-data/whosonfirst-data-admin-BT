@@ -31,8 +31,14 @@
     "name:eng_x_preferred":[
         "Tashi Yangtse"
     ],
+    "name:eng_x_variant":[
+        "Trashiyangtse"
+    ],
     "name:est_x_preferred":[
         "Trashi Yangtse"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30b7\u30fb\u30e4\u30f3\u30c4\u30a7"
     ],
     "name:nld_x_preferred":[
         "Trashiyangste"
@@ -48,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Trashiyangtse District"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5e0c\u592e\u5947"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BTN",
@@ -171,7 +180,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1553550320,
+    "wof:lastmodified":1563260410,
     "wof:name":"Tashi Yangtse",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

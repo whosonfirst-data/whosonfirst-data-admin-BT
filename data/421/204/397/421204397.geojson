@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Chuba"
     ],
+    "name:mal_x_preferred":[
+        "\u0d1a\u0d41\u0d2c"
+    ],
     "name:nld_x_preferred":[
         "Chuba"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421204397,
-    "wof:lastmodified":1553717583,
+    "wof:lastmodified":1563260474,
     "wof:name":"Chhubu",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

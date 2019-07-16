@@ -25,11 +25,164 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u062b\u064a\u0645\u0641\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a5\u09bf\u09ae\u09cd\u09aa\u09cb \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f50\u0f72\u0f58\u0f0b\u0f55\u0f74\u0f0b\u0f42\u0f72\u0f0b\u0f66\u0f0b\u0f41\u0f7c\u0f44\u0f66\u0f0d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0445\u0438\u043c\u043f\u0445\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Thimphu Dzongkhag"
+    ],
+    "name:dan_x_preferred":[
+        "Thimphu District"
+    ],
+    "name:deu_x_preferred":[
+        "Thimphu"
+    ],
+    "name:dzo_x_preferred":[
+        "\u0f50\u0f72\u0f58\u0f0b\u0f55\u0f74\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03af\u03bc\u03c6\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Thimphu"
     ],
+    "name:eng_x_variant":[
+        "Thimphu District"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Timbuo"
+    ],
+    "name:est_x_preferred":[
+        "Thimphu ringkond"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u06cc\u0645\u0641\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Thimphu"
+    ],
+    "name:fra_x_preferred":[
+        "Thimphou"
+    ],
+    "name:frr_x_preferred":[
+        "Thimphu"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa5\u0abf\u0aae\u0acd\u0aab\u0ac1 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0925\u093f\u092e\u094d\u092b\u0942 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Thimphu k\u00f6rzet"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Thimphu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30f3\u30d7\u30fc\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca4\u0cbf\u0cae\u0ccd\u0cae\u0cc1 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ud300\ubd80 \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Thimphu distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Timfu regionas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0925\u093f\u0902\u092a\u0942 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:mon_x_preferred":[
+        "\u0422\u0445\u0438\u043c\u043f\u0445\u0443 \u0437\u043e\u043d\u043a\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Thimphu District"
+    ],
+    "name:nan_x_preferred":[
+        "Thimphu Ko\u0101n"
+    ],
+    "name:nep_x_preferred":[
+        "\u0925\u093f\u092e\u094d\u092b\u0942 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Thimphu"
+    ],
+    "name:nob_x_preferred":[
+        "Thimphu distrikt"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u062a\u06be\u0645\u067e\u06be\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Thimphu"
+    ],
+    "name:por_x_preferred":[
+        "Thimphu"
+    ],
+    "name:pus_x_preferred":[
+        "\u062a\u06be\u0645\u067e\u06be\u0648 \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Thimphu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0445\u0438\u043c\u043f\u0445\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dad\u0dd2\u0db8\u0dca\u0db4\u0dd4 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:slv_x_preferred":[
+        "Okraj Thimphu"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u043c\u0431\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Thimphu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bc0\u0bae\u0bcd\u0baa\u0bcd\u0bb9\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c25\u0c3f\u0c02\u0c2a\u0c41 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e34\u0e21\u0e1e\u0e39"
+    ],
+    "name:tur_x_preferred":[
+        "Thimpu District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0445\u0456\u043c\u043f\u0445\u0443"
+    ],
     "name:unk_x_variant":[
         "Thimphu Dzongkhag"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u0645\u067e\u06be\u0648 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Thimphu"
+    ],
+    "name:war_x_preferred":[
+        "Thimphu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ef7\u5e03\u5b97"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BTN",
@@ -155,7 +308,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1553550321,
+    "wof:lastmodified":1563260402,
     "wof:name":"Thimphu",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

@@ -43,6 +43,9 @@
     "name:pol_x_preferred":[
         "Dzakar"
     ],
+    "name:pol_x_variant":[
+        "Jakar"
+    ],
     "name:por_x_preferred":[
         "Jakar"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421193239,
-    "wof:lastmodified":1561843610,
+    "wof:lastmodified":1563260472,
     "wof:name":"Jakar",
     "wof:parent_id":421204105,
     "wof:placetype":"locality",

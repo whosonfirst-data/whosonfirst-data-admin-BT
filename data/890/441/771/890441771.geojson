@@ -15,6 +15,9 @@
     "iso:country":"BT",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Daga"
+    ],
     "name:eng_x_preferred":[
         "Daga"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:unk_x_variant":[
         "Ta-Ga-Na"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u0627\u06af\u0627"
     ],
     "name:zho_x_preferred":[
         "\u9054\u52a0"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890441771,
-    "wof:lastmodified":1561843611,
+    "wof:lastmodified":1563260483,
     "wof:name":"Daga",
     "wof:parent_id":1108748509,
     "wof:placetype":"locality",
