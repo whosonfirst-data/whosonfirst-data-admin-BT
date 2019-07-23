@@ -25,14 +25,170 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0627\u0645\u062b\u0627\u0646\u063a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u043c\u0442\u0430\u043d\u0433"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cb\u09ae\u09a4\u09be\u0982 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f56\u0f74\u0f58\u0f0b\u0f50\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f66\u0f0b\u0f41\u0f7c\u0f44\u0f66\u0f0d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u043c\u0442\u0430\u043d\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Bumthang Dzongkhag"
+    ],
+    "name:ces_x_preferred":[
+        "Bumthang"
+    ],
+    "name:dan_x_preferred":[
+        "Bumthang District"
+    ],
+    "name:deu_x_preferred":[
+        "Bumthang"
+    ],
     "name:dzo_x_preferred":[
         "\u0f56\u0f74\u0f58\u0f0b\u0f50\u0f44\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42\u0f0b"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f56\u0f74\u0f58\u0f0b\u0f50\u0f44\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03bc\u03b8\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Bumthang"
     ],
+    "name:eng_x_variant":[
+        "Bumthang District"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Bumthang"
+    ],
+    "name:est_x_preferred":[
+        "Bumthangi ringkond"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u0645\u062a\u0647\u0646\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Bumthang"
+    ],
+    "name:fra_x_preferred":[
+        "Bumthang"
+    ],
+    "name:frr_x_preferred":[
+        "Bumthang"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0a82\u0aa5\u0abe\u0a82\u0a97 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0941\u092e\u0925\u093e\u0902\u0917 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Bumthang k\u00f6rzet"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Bumthang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e0\u30bf\u30f3\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc1\u0cae\u0ccd\u0ca4\u0c82\u0c97\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd90\ud0d5 \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Bumtangas distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Bumtango rajonas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u092e\u0925\u093e\u0902\u0917 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Bumthang District"
+    ],
+    "name:nan_x_preferred":[
+        "Bumthang Ko\u0101n"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u0941\u092e\u0925\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Bumthang"
+    ],
+    "name:nob_x_preferred":[
+        "Bumthang"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0628\u0648\u0645\u062a\u06be\u0627\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Bumthang"
+    ],
+    "name:por_x_preferred":[
+        "Bumthang"
+    ],
+    "name:pus_x_preferred":[
+        "\u0628\u0648\u0645\u062a\u06be\u0627\u0646\u06af \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
+    ],
+    "name:ron_x_preferred":[
+        "Bhumthang"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043c\u0442\u0430\u043d\u0433"
+    ],
+    "name:slk_x_preferred":[
+        "Bumthang"
+    ],
+    "name:slv_x_preferred":[
+        "Okraj Bumtang"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u043c\u0442\u0430\u043d\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Bumthang"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc1\u0bae\u0bcd\u0ba4\u0bbe\u0b99\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c41\u0c2e\u0c4d\u0c24\u0c3e\u0c02\u0c17\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e13\u0e11\u0e25\u0e1a\u0e38\u0e21\u0e17\u0e31\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Bumthang District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043c\u0442\u0430\u043d\u0433"
+    ],
     "name:unk_x_variant":[
         "Bumthang Dzongkhag"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0645\u062a\u06be\u0627\u0646\u06af \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Bumthang"
+    ],
+    "name:war_x_preferred":[
+        "Bumthang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u59c6\u5510\u5b97"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BTN",
@@ -158,7 +314,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1553550319,
+    "wof:lastmodified":1563260408,
     "wof:name":"Bumthang",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

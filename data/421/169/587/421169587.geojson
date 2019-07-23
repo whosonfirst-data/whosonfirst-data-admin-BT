@@ -37,6 +37,12 @@
     "name:eng_x_preferred":[
         "Katsho"
     ],
+    "name:eng_x_variant":[
+        "Katsho Gewog"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0446\u043e"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421169587,
-    "wof:lastmodified":1553717304,
+    "wof:lastmodified":1563260473,
     "wof:name":"Katsho",
     "wof:parent_id":85669509,
     "wof:placetype":"county",

@@ -28,17 +28,26 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0645\u0641\u0648"
     ],
+    "name:arg_x_preferred":[
+        "Thimphu"
+    ],
     "name:asm_x_preferred":[
         "\u09a5\u09bf\u09ae\u09cd\u09ab\u09c1"
     ],
     "name:ast_x_preferred":[
         "Timbu"
     ],
+    "name:ast_x_variant":[
+        "Thimphu"
+    ],
     "name:aze_x_preferred":[
         "Thimphu"
     ],
     "name:bak_x_preferred":[
         "\u0422\u0445\u0438\u043c\u043f\u0445\u0443"
+    ],
+    "name:bcl_x_preferred":[
+        "Thimphu"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0445\u0456\u043c\u043f\u0445\u0443"
@@ -48,6 +57,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09a5\u09bf\u09ae\u09cd\u09ab\u09c1"
+    ],
+    "name:ben_x_variant":[
+        "\u09a5\u09bf\u09ae\u09cd\u09aa\u09c1"
     ],
     "name:bod_x_preferred":[
         "\u0f50\u0f72\u0f58\u0f0b\u0f55\u0f74\u0f0d"
@@ -112,6 +124,9 @@
     "name:eus_x_preferred":[
         "Thimphu"
     ],
+    "name:fao_x_preferred":[
+        "Thimphu"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u06cc\u0645\u0641\u0648"
     ],
@@ -124,8 +139,14 @@
     "name:frp_x_preferred":[
         "Thimphu"
     ],
+    "name:frr_x_preferred":[
+        "Thimphu"
+    ],
     "name:fry_x_preferred":[
         "Thimphu"
+    ],
+    "name:fry_x_variant":[
+        "Timp\u00fb"
     ],
     "name:gla_x_preferred":[
         "Thimphu"
@@ -178,6 +199,9 @@
     "name:ilo_x_preferred":[
         "Thimphu"
     ],
+    "name:ina_x_preferred":[
+        "Thimphu"
+    ],
     "name:ind_x_preferred":[
         "Thimphu"
     ],
@@ -213,6 +237,9 @@
     ],
     "name:lav_x_preferred":[
         "Thimphu"
+    ],
+    "name:lez_x_preferred":[
+        "\u0422\u0445\u0438\u043c\u043f\u0445\u0443"
     ],
     "name:lij_x_preferred":[
         "Thimphu"
@@ -298,17 +325,26 @@
     "name:pnb_x_preferred":[
         "\u062a\u06be\u0645\u067e\u06be\u0648"
     ],
+    "name:pnb_x_variant":[
+        "\u0679\u06be\u0645\u067e\u06be\u0648"
+    ],
     "name:pol_x_preferred":[
         "Thimphu"
     ],
     "name:por_x_preferred":[
         "Thimbu"
     ],
+    "name:pus_x_preferred":[
+        "\u062a\u06cc\u0645\u0641\u0648"
+    ],
     "name:ron_x_preferred":[
         "Thimphu"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0445\u0438\u043c\u043f\u0445\u0443"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5b\u1c77\u1c64\u1c62\u1c6f\u1c69"
     ],
     "name:scn_x_preferred":[
         "Thimphu"
@@ -358,11 +394,17 @@
     "name:tgl_x_preferred":[
         "Timbu"
     ],
+    "name:tgl_x_variant":[
+        "Thimphu"
+    ],
     "name:tha_x_preferred":[
         "\u0e17\u0e34\u0e21\u0e1e\u0e39"
     ],
     "name:tur_x_preferred":[
         "Thimphu"
+    ],
+    "name:twi_x_preferred":[
+        "Timfuu"
     ],
     "name:uig_x_preferred":[
         "\u062a\u0649\u0645\u067e\u06c7"
@@ -461,7 +503,7 @@
         }
     ],
     "wof:id":421190233,
-    "wof:lastmodified":1561843610,
+    "wof:lastmodified":1563260479,
     "wof:name":"Thimphu",
     "wof:parent_id":1108747289,
     "wof:placetype":"locality",

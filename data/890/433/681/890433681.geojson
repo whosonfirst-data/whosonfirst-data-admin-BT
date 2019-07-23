@@ -87,6 +87,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0445\u0443\u043d\u0447\u043e\u043b\u0438\u043d\u0433"
     ],
+    "name:rus_x_variant":[
+        "\u041f\u0445\u0443\u043d\u0447\u0445\u043e\u043b\u0438\u043d\u0433"
+    ],
     "name:spa_x_preferred":[
         "Phuntsholing"
     ],
@@ -95,6 +98,9 @@
     ],
     "name:swe_x_preferred":[
         "Phuentsholing"
+    ],
+    "name:tur_x_preferred":[
+        "Phuntsholing"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0445\u0443\u043d\u0447\u043e\u043b\u0456\u043d\u0433"
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":890433681,
-    "wof:lastmodified":1561843611,
+    "wof:lastmodified":1563260485,
     "wof:name":"Phuntsholing",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

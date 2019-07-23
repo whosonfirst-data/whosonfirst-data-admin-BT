@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Wangdue Phodrang"
     ],
+    "name:ceb_x_preferred":[
+        "Wangdue Phodrang"
+    ],
     "name:deu_x_preferred":[
         "Wangdue Phodrang"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u043d\u0433\u0434\u0438-\u041f\u0445\u043e\u0434\u0440\u0430\u043d\u0433"
+    ],
+    "name:slv_x_preferred":[
+        "Vangdue Phodrang"
     ],
     "name:spa_x_preferred":[
         "Wangdue Phodrang"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421190229,
-    "wof:lastmodified":1561843610,
+    "wof:lastmodified":1563260476,
     "wof:name":"Wangdu Phodrang",
     "wof:parent_id":421166613,
     "wof:placetype":"locality",

@@ -15,6 +15,12 @@
     "iso:country":"BT",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u099f\u09cd\u09b0\u09be\u09b6\u09bf\u0997\u09be\u0982"
+    ],
+    "name:ceb_x_preferred":[
+        "Trashigang"
+    ],
     "name:dan_x_preferred":[
         "Trashigang"
     ],
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":890450159,
-    "wof:lastmodified":1561843611,
+    "wof:lastmodified":1563260487,
     "wof:name":"Trashigang",
     "wof:parent_id":421183963,
     "wof:placetype":"locality",

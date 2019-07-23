@@ -25,8 +25,23 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:bod_x_preferred":[
+        "Dagana District"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0430\u0433\u0430\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Dagana Dzongkhag"
+    ],
+    "name:deu_x_preferred":[
+        "Dagana"
+    ],
     "name:dzo_x_preferred":[
         "\u0f51\u0f62\u0f0b\u0f51\u0f40\u0f62\u0f0b\u0f53\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42\u0f0b"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f51\u0f62\u0f0b\u0f51\u0f40\u0f62\u0f0b\u0f53\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42"
     ],
     "name:eng_x_preferred":[
         "Daga"
@@ -35,11 +50,83 @@
         "Dagana District",
         "Dagana"
     ],
+    "name:epo_x_preferred":[
+        "Distrikto Dagana"
+    ],
+    "name:est_x_preferred":[
+        "Dagana ringkond"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062f\u0627\u06af\u0627\u0646\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Dagana"
+    ],
+    "name:fra_x_preferred":[
+        "Dagana"
+    ],
+    "name:frr_x_preferred":[
+        "Dagana"
+    ],
+    "name:hun_x_preferred":[
+        "Dagana k\u00f6rzet"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Dagana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30ac\u30ca\u770c"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2e4\uac00\ub098 \ud604"
+    ],
+    "name:nan_x_preferred":[
+        "Dagana Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Dagana"
+    ],
+    "name:nob_x_preferred":[
+        "Dagana"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0688\u0627\u06af\u0627\u0646\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Dagana"
+    ],
+    "name:por_x_preferred":[
+        "Dagana"
+    ],
+    "name:pus_x_preferred":[
+        "\u062f\u0627\u06af\u0627\u0646\u0627 \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
+    ],
+    "name:ron_x_preferred":[
+        "Dagana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0433\u0430\u043d\u0430"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Dagana"
     ],
+    "name:swe_x_preferred":[
+        "Dagana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0433\u0430\u043d\u0430"
+    ],
     "name:unk_x_variant":[
         "Daga Dzongkhag"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0627\u06af\u0627\u0646\u0627 \u0636\u0644\u0639"
+    ],
+    "name:war_x_preferred":[
+        "Dagana"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fbe\u52a0\u7eb3\u5b97"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BTN",
@@ -163,7 +250,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1553550319,
+    "wof:lastmodified":1563260401,
     "wof:name":"Daga",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

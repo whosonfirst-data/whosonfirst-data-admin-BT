@@ -25,11 +25,149 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0631\u0648\u0646\u063a\u0632\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u099f\u09cd\u09b0\u09cb\u09a8\u09b8\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f40\u0fb2\u0f7c\u0f44\u0f0b\u0f42\u0f66\u0f62\u0f0b\u0f42\u0f72\u0f0b\u0f66\u0f0b\u0f41\u0f7c\u0f44\u0f66\u0f0d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u043e\u043d\u0433\u0441\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Trongsa Dzongkhag"
+    ],
+    "name:dan_x_preferred":[
+        "Trongsa District"
+    ],
+    "name:deu_x_preferred":[
+        "Trongsa"
+    ],
+    "name:dzo_x_preferred":[
+        "\u0f40\u0fb2\u0f7c\u0f44\u0f0b\u0f42\u0f66\u0f62\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03cc\u03bd\u03b3\u03ba\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Tongsa"
     ],
+    "name:eng_x_variant":[
+        "Trongsa District"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Trongsa"
+    ],
+    "name:est_x_preferred":[
+        "Trongsa ringkond"
+    ],
+    "name:fin_x_preferred":[
+        "Trongsa"
+    ],
+    "name:fra_x_preferred":[
+        "Trongsa"
+    ],
+    "name:frr_x_preferred":[
+        "Trongsa"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0acd\u0ab0\u0acb\u0aa8\u0acd\u0a97\u0acd\u0ab8\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u094d\u0930\u094b\u0902\u0917\u0938\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Trongsa k\u00f6rzet"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Trongsa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30f3\u30b5\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0ccd\u0cb0\u0cbe\u0c82\u0c97\u0ccd\u0cb8\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub871\uc0ac \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Tongs\u0101 distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Trongsos apskritis"
+    ],
+    "name:ltz_x_preferred":[
+        "Trongsa"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u094d\u0930\u0949\u0928\u094d\u091c \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Trongsa District"
+    ],
+    "name:nan_x_preferred":[
+        "Trongsa Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Trongsa"
+    ],
+    "name:nob_x_preferred":[
+        "Trongsa"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0679\u0631\u0648\u0646\u06af\u0632\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Trongsa"
+    ],
+    "name:por_x_preferred":[
+        "Trongsa"
+    ],
+    "name:pus_x_preferred":[
+        "\u062a\u0631\u0648\u0646\u06af\u0633\u0627 \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
+    ],
+    "name:ron_x_preferred":[
+        "Trongsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u043e\u043d\u0433\u0441\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dca\u200d\u0dbb\u0ddc\u0db1\u0dca\u0d9c\u0dca\u0dc3\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:swe_x_preferred":[
+        "Trongsa"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c4d\u0c30\u0c3e\u0c02\u0c17\u0c4d\u0c38\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e13\u0e11\u0e25\u0e15\u0e07\u0e0b\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Trongsa District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u043e\u043d\u0433\u0441\u0430"
+    ],
     "name:unk_x_variant":[
         "Tongsa Dzong"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0631\u0648\u0646\u06af\u0633\u0627 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Trongsa"
+    ],
+    "name:war_x_preferred":[
+        "Trongsa"
+    ],
+    "name:zho_x_preferred":[
+        "\u901a\u8428\u5b97"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BTN",
@@ -153,7 +291,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1553550319,
+    "wof:lastmodified":1563260411,
     "wof:name":"Tongsa",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

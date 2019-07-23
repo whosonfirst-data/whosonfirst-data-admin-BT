@@ -24,8 +24,35 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u0627\u0646\u062a\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09cb\u09a8\u09cd\u09b8\u09c7 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f63\u0fb7\u0f74\u0f53\u0f0b\u0f62\u0fa9\u0f7a\u0f0b\u0f42\u0f72\u0f0b\u0f66\u0f0b\u0f41\u0f7c\u0f44\u0f66\u0f0d"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0443\u043d\u0442\u0441\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Lhuentse Dzongkhag"
+    ],
+    "name:dan_x_preferred":[
+        "Lhuntse District"
+    ],
+    "name:deu_x_preferred":[
+        "Lhuntse"
+    ],
     "name:dzo_x_preferred":[
         "\u0f63\u0fb7\u0f74\u0f53\u0f0b\u0f62\u0fa9\u0f7a\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42\u0f0b"
+    ],
+    "name:dzo_x_variant":[
+        "\u0f63\u0fb7\u0f74\u0f53\u0f0b\u0f62\u0fa9\u0f7a\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03c7\u03ac\u03bd\u03c4\u03c3\u03b5"
     ],
     "name:eng_x_preferred":[
         "Lhuntshi"
@@ -34,8 +61,113 @@
         "Lhuntse District",
         "Lhuntse"
     ],
+    "name:epo_x_preferred":[
+        "Distrikto Lhunce"
+    ],
+    "name:est_x_preferred":[
+        "Lhuentse ringkond"
+    ],
+    "name:fin_x_preferred":[
+        "Lhuntse"
+    ],
+    "name:fra_x_preferred":[
+        "Lhuntse"
+    ],
+    "name:frr_x_preferred":[
+        "Lhuntse"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0ac1\u0aa8\u0acd\u0aa4\u0ab8\u0ac7 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0941\u0928\u094d\u0924\u094d\u0938\u0947 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Lhuntse k\u00f6rzet"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Lhuntse"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30f3\u30c4\u30a7\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cc1\u0c82\u0ca1\u0ccd\u0cb8\u0cc6 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8ec\uccb4 \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Lhunci distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Lunc\u0117s apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u0941\u0928\u0941\u091a\u0947 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Lhuntse District"
+    ],
+    "name:nan_x_preferred":[
+        "Lhuntse Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Lhuntse"
+    ],
+    "name:nob_x_preferred":[
+        "Lhuntse"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0644\u06c1\u0646\u0679\u0633\u06d2"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Lhuntse"
+    ],
+    "name:por_x_preferred":[
+        "Lhuntse"
+    ],
+    "name:pus_x_preferred":[
+        "\u0644\u0647\u0646\u062a\u0633\u06cc \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
+    ],
+    "name:ron_x_preferred":[
+        "Lhuntse"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0445\u0443\u043d\u0446\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dd4\u0db1\u0dca\u0da7\u0dca\u0dc3\u0dda \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:swe_x_preferred":[
+        "Lhuntse"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c42\u0c02\u0c1f\u0c4d\u0c38\u0c46 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e25\u0e2e\u0e38\u0e19\u0e0b\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Lhuntse District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0445\u0443\u043d\u0446\u0435"
+    ],
     "name:unk_x_variant":[
         "Lhuntshi Dzongkhag"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06c1\u0646\u062a\u0633\u06d2 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Lhuntse"
+    ],
+    "name:war_x_preferred":[
+        "Lhuntse"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f26\u5947\u5b97"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BTN",
@@ -159,7 +291,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1553550320,
+    "wof:lastmodified":1563260416,
     "wof:name":"Lhuntshi",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

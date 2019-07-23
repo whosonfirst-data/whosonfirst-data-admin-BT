@@ -15,6 +15,9 @@
     "iso:country":"BT",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Trongsa"
+    ],
     "name:deu_x_preferred":[
         "Tongsa"
     ],
@@ -62,6 +65,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0441\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0440\u043e\u043d\u0433\u0441\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Trongsa"
     ],
     "name:spa_x_preferred":[
         "Trongsa"
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":890450153,
-    "wof:lastmodified":1561843611,
+    "wof:lastmodified":1563260488,
     "wof:name":"Trongsa",
     "wof:parent_id":421171015,
     "wof:placetype":"locality",

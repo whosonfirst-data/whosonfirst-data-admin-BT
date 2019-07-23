@@ -25,11 +25,36 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0647\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f67\u0f71\u0f0b\u0f42\u0f72\u0f0b\u0f66\u0f0b\u0f41\u0f7c\u0f44\u0f66\u0f0d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Haa Dzongkhag"
+    ],
+    "name:dan_x_preferred":[
+        "Haa District"
+    ],
+    "name:deu_x_preferred":[
+        "Haa"
+    ],
     "name:dzo_x_preferred":[
         "\u0f67\u0f71\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42\u0f0b"
     ],
     "name:dzo_x_variant":[
-        "\u0f67\u0f71\u0f0b"
+        "\u0f67\u0f71\u0f0b",
+        "\u0f67\u0f71\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03ac"
     ],
     "name:eng_x_preferred":[
         "Ha"
@@ -38,8 +63,116 @@
         "Haa",
         "Haa District"
     ],
+    "name:epo_x_preferred":[
+        "Distrikto Haa"
+    ],
+    "name:est_x_preferred":[
+        "Ha ringkond"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0647\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Haa"
+    ],
+    "name:fra_x_preferred":[
+        "Haa"
+    ],
+    "name:frr_x_preferred":[
+        "Haa"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab9\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Haa k\u00f6rzet"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Haa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb9\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Ha distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Haa apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0939\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Haa District"
+    ],
+    "name:nan_x_preferred":[
+        "Haa Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Haa"
+    ],
+    "name:nob_x_preferred":[
+        "Haa"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Haa"
+    ],
+    "name:por_x_preferred":[
+        "Haa"
+    ],
+    "name:pus_x_preferred":[
+        "\u0647\u0627 \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
+    ],
+    "name:ron_x_preferred":[
+        "Haa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc4\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Haa"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c39\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e2e\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Haa District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0430"
+    ],
     "name:unk_x_variant":[
         "Ha Dzongkhag"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0627 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Haa"
+    ],
+    "name:war_x_preferred":[
+        "Haa"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u963f\u5b97"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BTN",
@@ -165,7 +298,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1553550319,
+    "wof:lastmodified":1563260406,
     "wof:name":"Ha",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

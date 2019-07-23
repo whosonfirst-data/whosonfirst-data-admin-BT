@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Bhangtar"
     ],
+    "name:ita_x_preferred":[
+        "Katsho"
+    ],
     "name:nld_x_preferred":[
         "Bhangtar"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421169927,
-    "wof:lastmodified":1561843610,
+    "wof:lastmodified":1563260473,
     "wof:name":"Bhangamur",
     "wof:parent_id":1108748411,
     "wof:placetype":"locality",
