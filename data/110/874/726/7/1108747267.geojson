@@ -33,8 +33,23 @@
     "mps:longitude":90.433271,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bhoor"
+    ],
     "name:eng_x_preferred":[
         "Bhur"
+    ],
+    "name:msa_x_preferred":[
+        "Bhoor"
+    ],
+    "name:nep_x_preferred":[
+        "\u092d\u0941\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u092d\u0941\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Bhoor"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +86,7 @@
         }
     ],
     "wof:id":1108747267,
-    "wof:lastmodified":1553718666,
+    "wof:lastmodified":1564153232,
     "wof:name":"Bhur",
     "wof:parent_id":85669545,
     "wof:placetype":"county",

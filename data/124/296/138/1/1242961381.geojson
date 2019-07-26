@@ -26,6 +26,9 @@
     "iso:country":"BT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u0433\u044c\u0435-\u0434\u0437\u043e\u043d\u0433"
+    ],
     "name:und_x_variant":[
         "Senghe Dzong",
         "Singhi Dzong",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242961381,
-    "wof:lastmodified":1537588927,
+    "wof:lastmodified":1564153252,
     "wof:name":"Singye Dzong",
     "wof:parent_id":1108747457,
     "wof:placetype":"locality",

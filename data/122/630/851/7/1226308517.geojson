@@ -26,6 +26,12 @@
     "iso:country":"BT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Thrimshing"
+    ],
+    "name:swe_x_preferred":[
+        "Thrimshing"
+    ],
     "name:und_x_variant":[
         "Thimsing",
         "Thrimshing"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226308517,
-    "wof:lastmodified":1537588930,
+    "wof:lastmodified":1564153257,
     "wof:name":"Thrimshing",
     "wof:parent_id":1108747447,
     "wof:placetype":"locality",

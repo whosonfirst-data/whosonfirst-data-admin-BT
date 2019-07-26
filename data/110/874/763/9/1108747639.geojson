@@ -36,6 +36,15 @@
     "name:eng_x_preferred":[
         "Tendu"
     ],
+    "name:ita_x_preferred":[
+        "Tendu"
+    ],
+    "name:nld_x_preferred":[
+        "Tendu"
+    ],
+    "name:swe_x_preferred":[
+        "Tendu"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108747639,
-    "wof:lastmodified":1553718671,
+    "wof:lastmodified":1564153195,
     "wof:name":"Tendu",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

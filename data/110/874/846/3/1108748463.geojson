@@ -33,7 +33,34 @@
     "mps:longitude":89.316483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Soe"
+    ],
+    "name:deu_x_preferred":[
+        "Soe"
+    ],
     "name:eng_x_preferred":[
+        "Soe"
+    ],
+    "name:est_x_preferred":[
+        "Soe"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0565"
+    ],
+    "name:mlg_x_preferred":[
+        "Soe"
+    ],
+    "name:pol_x_preferred":[
+        "Soe"
+    ],
+    "name:swe_x_preferred":[
+        "Soe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0435"
+    ],
+    "name:vol_x_preferred":[
         "Soe"
     ],
     "src:geom":"meso",
@@ -71,7 +98,7 @@
         }
     ],
     "wof:id":1108748463,
-    "wof:lastmodified":1553718677,
+    "wof:lastmodified":1564153223,
     "wof:name":"Soe",
     "wof:parent_id":85669527,
     "wof:placetype":"county",

@@ -25,12 +25,54 @@
     "iso:country":"BT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wangdue Phodrang"
+    ],
+    "name:deu_x_preferred":[
+        "Wangdue Phodrang"
+    ],
+    "name:fra_x_preferred":[
+        "Wangdiphodrang"
+    ],
+    "name:ita_x_preferred":[
+        "Wangdue Phodrang"
+    ],
+    "name:lit_x_preferred":[
+        "Vangdi Phodrangas"
+    ],
+    "name:nld_x_preferred":[
+        "Wangdue Phodrang"
+    ],
+    "name:pol_x_preferred":[
+        "Wangd\u00fc P\u02bdodrang"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043d\u0433\u0434\u0438-\u041f\u0445\u043e\u0434\u0440\u0430\u043d\u0433"
+    ],
+    "name:slv_x_preferred":[
+        "Vangdue Phodrang"
+    ],
+    "name:spa_x_preferred":[
+        "Wangdue Phodrang"
+    ],
+    "name:swe_x_preferred":[
+        "Wangdue Phodrang"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043d\u0433\u0434\u0456-\u041f\u0445\u043e\u0434\u0440\u0430\u043d\u0433"
+    ],
     "name:und_x_variant":[
         "Wangd\u00fc Phodrang",
         "Du Phodrang",
         "Wangdiphodrang",
         "Wangdue Phodrang",
         "Wangdu Phodrang"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0646\u06af\u062f\u0648 \u067e\u06be\u0648\u062f\u0631\u0627\u0646\u06af"
+    ],
+    "name:zho_x_preferred":[
+        "\u65fa\u675c\u6ce2\u5fb7\u6717"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -57,7 +99,7 @@
         }
     ],
     "wof:id":1310263303,
-    "wof:lastmodified":1537588926,
+    "wof:lastmodified":1564153239,
     "wof:name":"Wangdue Phodrang",
     "wof:parent_id":421166613,
     "wof:placetype":"locality",
