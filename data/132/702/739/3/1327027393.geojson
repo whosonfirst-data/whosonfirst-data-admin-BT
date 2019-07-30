@@ -25,14 +25,50 @@
     "iso:country":"BT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Mebisa"
+    ],
+    "name:est_x_preferred":[
+        "Chhukha"
+    ],
+    "name:fra_x_preferred":[
+        "Mebisa"
+    ],
+    "name:ita_x_preferred":[
+        "Chhukha"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u0431\u0438\u0441\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Chukha"
+    ],
+    "name:pol_x_preferred":[
+        "Mebisa"
+    ],
+    "name:ron_x_preferred":[
+        "Chhukha"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0443\u043a\u0445\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0435\u0431\u0438\u0441\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0431\u0438\u0441\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0431\u0456\u0441\u0430"
     ],
     "name:und_x_variant":[
         "Chhukha Dzong",
         "Chukha",
         "Chhukha",
         "Tsimasham"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0628\u06cc\u0633\u0627"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -59,7 +95,7 @@
         }
     ],
     "wof:id":1327027393,
-    "wof:lastmodified":1537588929,
+    "wof:lastmodified":1564153174,
     "wof:name":"Tsimasham",
     "wof:parent_id":1108747275,
     "wof:placetype":"locality",

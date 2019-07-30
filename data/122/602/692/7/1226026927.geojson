@@ -25,6 +25,39 @@
     "iso:country":"BT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Samtse"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bc\u03c4\u03c3\u03b7"
+    ],
+    "name:est_x_preferred":[
+        "Samtse"
+    ],
+    "name:ita_x_preferred":[
+        "Samtse"
+    ],
+    "name:nld_x_preferred":[
+        "Samtse"
+    ],
+    "name:pol_x_preferred":[
+        "Samce"
+    ],
+    "name:ron_x_preferred":[
+        "Samtse"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0446\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043c\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Samtse"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043c\u0446\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1226026927,
-    "wof:lastmodified":1536752268,
+    "wof:lastmodified":1564153256,
     "wof:name":"Samtse",
     "wof:parent_id":1108748431,
     "wof:placetype":"locality",

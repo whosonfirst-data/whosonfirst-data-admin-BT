@@ -36,6 +36,12 @@
     "name:eng_x_preferred":[
         "Lingzhi"
     ],
+    "name:pol_x_preferred":[
+        "Lingzhi"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e2b\u0e47\u0e14\u0e2b\u0e25\u0e34\u0e19\u0e08\u0e37\u0e2d"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1108748335,
-    "wof:lastmodified":1553718675,
+    "wof:lastmodified":1564153211,
     "wof:name":"Lingzhi",
     "wof:parent_id":85669527,
     "wof:placetype":"county",

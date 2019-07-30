@@ -36,6 +36,15 @@
     "name:eng_x_preferred":[
         "Beteni"
     ],
+    "name:mai_x_preferred":[
+        "\u092c\u0947\u0924\u093f\u0928\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Beteni"
+    ],
+    "name:pol_x_preferred":[
+        "Beteni"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108747265,
-    "wof:lastmodified":1553718666,
+    "wof:lastmodified":1564153232,
     "wof:name":"Beteni",
     "wof:parent_id":85669541,
     "wof:placetype":"county",
