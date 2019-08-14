@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TM"
+    ],
     "lbl:latitude":27.484688,
     "lbl:longitude":89.603205,
     "mps:latitude":27.475772,
@@ -299,16 +302,13 @@
         }
     ],
     "wof:id":85669527,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "dzo"
     ],
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1563260402,
+    "wof:lastmodified":1565661454,
     "wof:name":"Thimphu",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

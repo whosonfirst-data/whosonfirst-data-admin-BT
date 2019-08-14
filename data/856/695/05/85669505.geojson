@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DA"
+    ],
     "lbl:latitude":27.017142,
     "lbl:longitude":89.920223,
     "mps:latitude":27.003197,
@@ -241,16 +244,13 @@
         }
     ],
     "wof:id":85669505,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "dzo"
     ],
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1563260401,
+    "wof:lastmodified":1565661454,
     "wof:name":"Daga",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

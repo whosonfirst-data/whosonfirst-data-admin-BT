@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HA"
+    ],
     "lbl:latitude":27.292633,
     "lbl:longitude":89.158281,
     "mps:latitude":27.339,
@@ -289,16 +292,13 @@
         }
     ],
     "wof:id":85669509,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "dzo"
     ],
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1563260406,
+    "wof:lastmodified":1565661455,
     "wof:name":"Ha",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SM"
+    ],
     "lbl:latitude":26.951125,
     "lbl:longitude":89.165417,
     "mps:latitude":27.034949,
@@ -288,16 +291,13 @@
         }
     ],
     "wof:id":85669523,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "dzo"
     ],
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1563260414,
+    "wof:lastmodified":1565661456,
     "wof:name":"Samchi",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

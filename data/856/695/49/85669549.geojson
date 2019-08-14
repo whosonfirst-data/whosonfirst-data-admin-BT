@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LH"
+    ],
     "lbl:latitude":27.795924,
     "lbl:longitude":91.155527,
     "mps:latitude":27.773951,
@@ -282,16 +285,13 @@
         }
     ],
     "wof:id":85669549,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "dzo"
     ],
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1563260416,
+    "wof:lastmodified":1565661456,
     "wof:name":"Lhuntshi",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

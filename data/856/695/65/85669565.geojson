@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WP"
+    ],
     "lbl:latitude":27.391283,
     "lbl:longitude":90.078429,
     "mps:latitude":27.385699,
@@ -147,16 +150,13 @@
         }
     ],
     "wof:id":85669565,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "dzo"
     ],
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1553550320,
+    "wof:lastmodified":1565661455,
     "wof:name":"Wangdi Phodrang",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

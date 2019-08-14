@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CR"
+    ],
     "lbl:latitude":27.043833,
     "lbl:longitude":90.158298,
     "mps:latitude":27.026129,
@@ -231,16 +234,13 @@
         }
     ],
     "wof:id":85669541,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "dzo"
     ],
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1563260412,
+    "wof:lastmodified":1565661456,
     "wof:name":"Chirang",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

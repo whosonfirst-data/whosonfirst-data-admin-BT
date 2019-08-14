@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PR"
+    ],
     "lbl:latitude":27.534514,
     "lbl:longitude":89.371062,
     "mps:latitude":27.536814,
@@ -305,16 +308,13 @@
         }
     ],
     "wof:id":85669513,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "dzo"
     ],
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1563260417,
+    "wof:lastmodified":1565661456,
     "wof:name":"Paro",
     "wof:parent_id":85632171,
     "wof:placetype":"region",
