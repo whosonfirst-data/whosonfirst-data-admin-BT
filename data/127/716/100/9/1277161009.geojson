@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Thimphu",
     "iso:country":"BT",
+    "lbl:bbox":"89.33,27.39667,89.37,27.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:urd_x_preferred":[
         "\u062f\u0627\u0645\u062a\u06be\u0627\u0646\u06af"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277161009,
-    "wof:lastmodified":1564153191,
+    "wof:lastmodified":1566629984,
     "wof:name":"Damthang",
     "wof:parent_id":421172353,
     "wof:placetype":"locality",

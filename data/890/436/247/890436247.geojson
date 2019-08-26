@@ -11,10 +11,14 @@
     "geom:longitude":89.72689,
     "gn:country":"BT",
     "gn:fcode":"PPLA",
-    "gn:pop":548,
+    "gn:population":548,
     "iso:country":"BT",
+    "lbl:bbox":"89.70689,27.88372,89.74689,27.92372",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gasa"
     ],
@@ -30,7 +34,7 @@
     "name:swe_x_preferred":[
         "Gasa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gasa Dzong"
     ],
     "qs:name":"Gasa",
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1252578,
         "gp:id":1887793,
-        "qs:id":84440
+        "qs_pg:id":84440
     },
     "wof:country":"BT",
     "wof:created":1469052104,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890436247,
-    "wof:lastmodified":1564153247,
+    "wof:lastmodified":1566630053,
     "wof:name":"Gasa",
     "wof:parent_id":1108747397,
     "wof:placetype":"locality",

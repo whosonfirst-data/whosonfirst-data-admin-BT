@@ -23,8 +23,12 @@
     "gn:population":100,
     "gn:timezone":"Asia/Thimphu",
     "iso:country":"BT",
+    "lbl:bbox":"91.16393,27.64787,91.20393,27.68787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Lingshi Dzong",
         "Lhuntsi Dzong",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226123633,
-    "wof:lastmodified":1537588928,
+    "wof:lastmodified":1566630063,
     "wof:name":"Lhuentse",
     "wof:parent_id":421177849,
     "wof:placetype":"locality",

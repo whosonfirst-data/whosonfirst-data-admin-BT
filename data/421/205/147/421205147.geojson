@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":27.558597,
     "lbl:longitude":89.608292,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Thimphu",
     "meso:dissme":"KawangThimphu",
     "meso:gadm_adm2":"Kawang",
@@ -33,6 +35,7 @@
     "mps:longitude":89.608292,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Kawang"
@@ -59,9 +62,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-31",
+    "src:population_date":"2005-05-31",
     "statoids:area_km":"307",
     "statoids:as_of_date":"2005-05-31",
     "statoids:capital":"",
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gp:id":55998231,
         "hasc:id":"BT.TM.KW",
-        "qs:id":179776
+        "qs_pg:id":179776
     },
     "wof:country":"BT",
     "wof:created":1459010214,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421205147,
-    "wof:lastmodified":1553717586,
+    "wof:lastmodified":1566630050,
     "wof:name":"Kawang",
     "wof:parent_id":85669527,
     "wof:placetype":"county",

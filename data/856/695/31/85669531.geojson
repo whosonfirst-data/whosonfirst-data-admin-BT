@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":27.648982,
     "lbl:longitude":89.854235,
+    "lbl:min_zoom":8.0,
     "mps:latitude":27.668272,
     "mps:longitude":89.834105,
     "mz:hierarchy_label":1,
@@ -163,9 +164,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u043d\u0430\u043a\u0445\u0430"
     ],
-    "name:unk_x_variant":[
-        "Punakha Dzongkhag"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0646\u0627\u062e\u0627 \u0636\u0644\u0639"
     ],
@@ -251,9 +249,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-31",
+    "src:population_date":"2005-05-31",
     "statoids:area_km":"977",
     "statoids:area_mi":"377",
     "statoids:as_of_date":"2005-05-31",
@@ -278,7 +276,7 @@
         "gp:id":2344882,
         "hasc:id":"BT.PN",
         "iso:id":"BT-23",
-        "qs:id":1285054,
+        "qs_pg:id":1285054,
         "unlc:id":"BT-23",
         "wd:id":"Q587062",
         "wk:page":"Punakha District"
@@ -299,11 +297,10 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1565661455,
+    "wof:lastmodified":1566629971,
     "wof:name":"Punakha",
     "wof:parent_id":85632171,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":17715,
     "wof:population_rank":6,

@@ -11,10 +11,14 @@
     "geom:longitude":92.1,
     "gn:country":"BT",
     "gn:fcode":"PPL",
-    "gn:pop":662,
+    "gn:population":662,
     "iso:country":"BT",
+    "lbl:bbox":"92.08,26.88,92.12,26.92",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Daifam"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1337386,
         "gp:id":29150963,
-        "qs:id":555805,
+        "qs_pg:id":555805,
         "wd:id":"Q4154100",
         "wk:page":"Daifam"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890455909,
-    "wof:lastmodified":1563260483,
+    "wof:lastmodified":1566630053,
     "wof:name":"Daifam",
     "wof:parent_id":1108747471,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":26.946749,
     "lbl:longitude":91.49189,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Samdrupjongkhar",
     "meso:dissme":"JangchhublingSamdrupjongkhar",
     "meso:gadm_adm2":"Jangchhubling",
@@ -33,8 +35,9 @@
     "mps:longitude":91.49189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632171,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1108747421,
-    "wof:lastmodified":1555091991,
+    "wof:lastmodified":1566630042,
     "wof:name":"Jangchhubling",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

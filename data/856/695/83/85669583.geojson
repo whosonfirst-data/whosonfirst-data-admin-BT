@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":27.256442,
     "lbl:longitude":91.70511,
+    "lbl:min_zoom":8.0,
     "mps:latitude":27.244167,
     "mps:longitude":91.669292,
     "mz:hierarchy_label":1,
@@ -156,9 +157,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0430\u0448\u0456\u0433\u0430\u043d\u0433"
     ],
-    "name:unk_x_variant":[
-        "Trashigang District"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u0627\u0634\u06cc\u06af\u0627\u0646\u06af \u0636\u0644\u0639"
     ],
@@ -244,9 +242,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-31",
+    "src:population_date":"2005-05-31",
     "statoids:area_km":"2,316",
     "statoids:area_mi":"894",
     "statoids:as_of_date":"2005-05-31",
@@ -270,7 +268,7 @@
         "gp:id":2344886,
         "hasc:id":"BT.TA",
         "iso:id":"BT-41",
-        "qs:id":1097030,
+        "qs_pg:id":1097030,
         "wd:id":"Q652773",
         "wk:page":"Trashigang District"
     },
@@ -290,11 +288,10 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1565661456,
+    "wof:lastmodified":1566629974,
     "wof:name":"Tashigang",
     "wof:parent_id":85632171,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":51134,
     "wof:population_rank":8,

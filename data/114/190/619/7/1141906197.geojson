@@ -10,10 +10,14 @@
     "geom:latitude":27.383301,
     "geom:longitude":89.516701,
     "iso:country":"BT",
+    "lbl:bbox":"89.4967006514,27.3633010953,89.5367006514,27.4033010953",
     "lbl:latitude":27.383301,
     "lbl:longitude":89.516701,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0648"
     ],
@@ -244,7 +248,7 @@
         }
     ],
     "wof:id":1141906197,
-    "wof:lastmodified":1563260499,
+    "wof:lastmodified":1566630064,
     "wof:name":"Paro",
     "wof:parent_id":1108747509,
     "wof:placetype":"locality",

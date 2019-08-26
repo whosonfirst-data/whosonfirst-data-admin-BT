@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":27.292633,
     "lbl:longitude":89.158281,
+    "lbl:min_zoom":8.0,
     "mps:latitude":27.339,
     "mps:longitude":89.155524,
     "mz:hierarchy_label":1,
@@ -162,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ha Dzongkhag"
     ],
     "name:urd_x_preferred":[
@@ -250,9 +251,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-31",
+    "src:population_date":"2005-05-31",
     "statoids:area_km":"1,746",
     "statoids:area_mi":"674",
     "statoids:as_of_date":"2005-05-31",
@@ -277,7 +278,7 @@
         "gp:id":2344877,
         "hasc:id":"BT.HA",
         "iso:id":"BT-13",
-        "qs:id":894848,
+        "qs_pg:id":894848,
         "unlc:id":"BT-13",
         "wd:id":"Q754448",
         "wk:page":"Haa District"
@@ -298,11 +299,10 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1565661455,
+    "wof:lastmodified":1566629971,
     "wof:name":"Ha",
     "wof:parent_id":85632171,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":11648,
     "wof:population_rank":6,

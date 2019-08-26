@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":26.967844,
     "lbl:longitude":91.62179,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Samdrupjongkhar",
     "meso:dissme":"WangphuSamdrupjongkhar",
     "meso:gadm_adm2":"Wangphu",
@@ -33,8 +35,9 @@
     "mps:longitude":91.62179,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632171,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1108747697,
-    "wof:lastmodified":1555091991,
+    "wof:lastmodified":1566630018,
     "wof:name":"Wangphu",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

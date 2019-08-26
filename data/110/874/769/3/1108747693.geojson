@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":27.468721,
     "lbl:longitude":90.917857,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Bumthang",
     "meso:dissme":"UraBumthang",
     "meso:gadm_adm2":"Ura",
@@ -33,6 +35,7 @@
     "mps:longitude":90.917857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Ur\u00e0"
     ],
@@ -67,9 +70,9 @@
         "\u0423\u0440\u0430"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-31",
+    "src:population_date":"2005-05-31",
     "statoids:area_km":"267",
     "statoids:as_of_date":"2005-05-31",
     "statoids:capital":"",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108747693,
-    "wof:lastmodified":1564153218,
+    "wof:lastmodified":1566630018,
     "wof:name":"Ura",
     "wof:parent_id":85669537,
     "wof:placetype":"county",

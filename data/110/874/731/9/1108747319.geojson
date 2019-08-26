@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":27.221788,
     "lbl:longitude":89.977216,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Wangduephodrang",
     "meso:dissme":"DagaWangduephodrang",
     "meso:gadm_adm2":"Daga",
@@ -33,6 +35,7 @@
     "mps:longitude":89.977216,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Daga"
     ],
@@ -52,9 +55,9 @@
         "Daga"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-31",
+    "src:population_date":"2005-05-31",
     "statoids:area_km":"344",
     "statoids:as_of_date":"2005-05-31",
     "statoids:capital":"",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1108747319,
-    "wof:lastmodified":1564153201,
+    "wof:lastmodified":1566629995,
     "wof:name":"Daga",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

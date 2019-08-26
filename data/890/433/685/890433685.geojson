@@ -11,10 +11,14 @@
     "geom:longitude":89.88333,
     "gn:country":"BT",
     "gn:fcode":"PPL",
-    "gn:pop":3032,
+    "gn:population":3032,
     "iso:country":"BT",
+    "lbl:bbox":"89.86333,27.51333,89.90333,27.55333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pajo"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1252495,
         "gp:id":1887883,
-        "qs:id":131053,
+        "qs_pg:id":131053,
         "wd:id":"Q2394786",
         "wk:page":"Pajo"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890433685,
-    "wof:lastmodified":1563260486,
+    "wof:lastmodified":1566630054,
     "wof:name":"Pajo",
     "wof:parent_id":1108748333,
     "wof:placetype":"locality",
