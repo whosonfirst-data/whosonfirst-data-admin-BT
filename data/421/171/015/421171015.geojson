@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":27.59365,
     "lbl:longitude":90.458365,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Trongsa",
     "meso:dissme":"NubiTrongsa",
     "meso:gadm_adm2":"Nubi",
@@ -33,6 +35,7 @@
     "mps:longitude":90.458365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Nubi"
@@ -59,9 +62,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-31",
+    "src:population_date":"2005-05-31",
     "statoids:area_km":"554",
     "statoids:as_of_date":"2005-05-31",
     "statoids:capital":"",
@@ -82,7 +85,7 @@
         "gn:id":7647633,
         "gp:id":55998238,
         "hasc:id":"BT.TO.NB",
-        "qs:id":1205646
+        "qs_pg:id":1205646
     },
     "wof:country":"BT",
     "wof:created":1459008878,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421171015,
-    "wof:lastmodified":1553717321,
+    "wof:lastmodified":1566630053,
     "wof:name":"Nubi",
     "wof:parent_id":85669563,
     "wof:placetype":"county",

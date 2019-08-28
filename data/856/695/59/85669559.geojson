@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":27.059583,
     "lbl:longitude":90.851378,
+    "lbl:min_zoom":8.0,
     "mps:latitude":27.073354,
     "mps:longitude":90.831469,
     "mz:hierarchy_label":1,
@@ -155,7 +156,7 @@
     "name:ukr_x_preferred":[
         "\u0416\u0435\u043c\u0433\u0430\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shemgang Dzongkhag"
     ],
     "name:urd_x_preferred":[
@@ -243,9 +244,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-31",
+    "src:population_date":"2005-05-31",
     "statoids:area_km":"2,126",
     "statoids:area_mi":"821",
     "statoids:as_of_date":"2005-05-31",
@@ -270,7 +271,7 @@
         "gp:id":2344885,
         "hasc:id":"BT.SG",
         "iso:id":"BT-34",
-        "qs:id":555798,
+        "qs_pg:id":555798,
         "wd:id":"Q197564",
         "wk:page":"Zhemgang District"
     },
@@ -290,11 +291,10 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1565661454,
+    "wof:lastmodified":1566629969,
     "wof:name":"Shemgang",
     "wof:parent_id":85632171,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":18636,
     "wof:population_rank":6,

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":26.953914,
     "lbl:longitude":91.747082,
+    "lbl:min_zoom":8.0,
     "mps:latitude":26.92796,
     "mps:longitude":91.674069,
     "mz:hierarchy_label":1,
@@ -170,9 +171,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043c\u0434\u0440\u0443\u043f-\u0414\u0436\u043e\u043d\u0433\u0445\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Samdrup"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0645\u062f\u0631\u0648\u067e \u062c\u0648\u0646\u06af\u062e\u0627\u0631 \u0636\u0644\u0639"
     ],
@@ -261,9 +259,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-31",
+    "src:population_date":"2005-05-31",
     "statoids:area_km":"2,312",
     "statoids:area_mi":"893",
     "statoids:as_of_date":"2005-05-31",
@@ -288,7 +286,7 @@
         "gp:id":2344884,
         "hasc:id":"BT.SJ",
         "iso:id":"BT-45",
-        "qs:id":1097029,
+        "qs_pg:id":1097029,
         "wd:id":"Q728929",
         "wk:page":"Samdrup Jongkhar District"
     },
@@ -308,11 +306,10 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1565661455,
+    "wof:lastmodified":1566629973,
     "wof:name":"Samdrup Jongkhar",
     "wof:parent_id":85632171,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":39961,
     "wof:population_rank":7,

@@ -11,10 +11,14 @@
     "geom:longitude":89.41334,
     "gn:country":"BT",
     "gn:fcode":"PPLA",
-    "gn:pop":2169,
+    "gn:population":2169,
     "iso:country":"BT",
+    "lbl:bbox":"89.39334,27.4105,89.43334,27.4505",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0648"
     ],
@@ -117,7 +121,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rimpung Dzong"
     ],
     "name:urd_x_preferred":[
@@ -145,12 +149,12 @@
     "wof:concordances":{
         "gn:id":1252490,
         "gp:id":1887785,
-        "qs:id":131052,
+        "qs_pg:id":131052,
         "wd:id":"Q862041",
         "wk:page":"Paro"
     },
     "wof:concordances_alt":{
-        "qs:id":1119081
+        "qs_pg:id":1119081
     },
     "wof:country":"BT",
     "wof:created":1469051990,
@@ -165,7 +169,7 @@
         }
     ],
     "wof:id":890433683,
-    "wof:lastmodified":1563260486,
+    "wof:lastmodified":1566630054,
     "wof:name":"Paro",
     "wof:parent_id":1108747343,
     "wof:placetype":"locality",

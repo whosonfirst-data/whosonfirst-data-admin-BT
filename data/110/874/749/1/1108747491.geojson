@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":28.003469,
     "lbl:longitude":90.058419,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Gasa",
     "meso:dissme":"LunanaGasa",
     "meso:gadm_adm2":"Lunana",
@@ -33,6 +35,7 @@
     "mps:longitude":90.058419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Lunana"
     ],
@@ -43,9 +46,9 @@
         "Lunana"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-31",
+    "src:population_date":"2005-05-31",
     "statoids:area_km":"3020",
     "statoids:as_of_date":"2005-05-31",
     "statoids:capital":"",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108747491,
-    "wof:lastmodified":1564153213,
+    "wof:lastmodified":1566630012,
     "wof:name":"Lunana",
     "wof:parent_id":85669521,
     "wof:placetype":"county",

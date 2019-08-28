@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":27.454772,
     "lbl:longitude":89.92561,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":27.454772,
     "mps:longitude":89.92561,
     "mz:hierarchy_label":1,
@@ -852,14 +854,8 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0442\u0430\u043d"
     ],
-    "name:und_x_preferred":[
-        "Butan",
-        "Druk-Yul"
-    ],
     "name:und_x_variant":[
-        "Kraljevina Butan"
-    ],
-    "name:unk_x_variant":[
+        "Druk-Yul",
         "Druk-yul"
     ],
     "name:urd_x_preferred":[
@@ -1008,7 +1004,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"975",
     "statoids:ds":"BT",
@@ -1053,7 +1049,7 @@
         "mzb:id":"bhutan",
         "ne:adm0_a3":"BTN",
         "nyt:id":"59436162888131788801",
-        "qs:id":367727,
+        "qs_pg:id":367727,
         "uncrt:id":"BT",
         "wd:id":"Q917",
         "wk:page":"Bhutan"
@@ -1074,7 +1070,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1565661456,
+    "wof:lastmodified":1566629976,
     "wof:name":"Bhutan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

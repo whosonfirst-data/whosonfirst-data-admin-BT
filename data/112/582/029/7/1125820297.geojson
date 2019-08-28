@@ -9,17 +9,20 @@
     "geom:bbox":"91.498,27.6116,91.498,27.6116",
     "geom:latitude":27.6116,
     "geom:longitude":91.498,
-    "gn:gn_country":"BT",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":3025,
+    "gn:country":"BT",
+    "gn:fcode":"PPLA",
     "gn:population":3025,
     "iso:country":"BT",
+    "lbl:bbox":"91.478,27.5916,91.518,27.6316",
     "lbl:latitude":27.6116,
     "lbl:longitude":91.498,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tashigang"
     ],
     "qs_pg:aaroncc":"BT",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":131048,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125820297,
-    "wof:lastmodified":1509394049,
+    "wof:lastmodified":1566630055,
     "wof:name":"Trashi Yangtse",
     "wof:parent_id":1108747659,
     "wof:placetype":"locality",

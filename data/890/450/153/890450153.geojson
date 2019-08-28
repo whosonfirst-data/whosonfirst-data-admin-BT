@@ -11,10 +11,14 @@
     "geom:longitude":90.50716,
     "gn:country":"BT",
     "gn:fcode":"PPLA",
-    "gn:pop":2805,
+    "gn:population":2805,
     "iso:country":"BT",
+    "lbl:bbox":"90.48716,27.4826,90.52716,27.5226",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Trongsa"
     ],
@@ -84,7 +88,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u043e\u043d\u0433\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tongsa Dzong"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":1252408,
         "gp:id":1887886,
-        "qs:id":84434,
+        "qs_pg:id":84434,
         "wd:id":"Q1019534",
         "wk:page":"Trongsa"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":890450153,
-    "wof:lastmodified":1563260488,
+    "wof:lastmodified":1566630055,
     "wof:name":"Trongsa",
     "wof:parent_id":421171015,
     "wof:placetype":"locality",

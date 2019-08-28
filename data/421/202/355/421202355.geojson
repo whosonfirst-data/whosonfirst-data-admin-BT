@@ -10,8 +10,12 @@
     "geom:latitude":27.444915,
     "geom:longitude":89.411888,
     "iso:country":"BT",
+    "lbl:bbox":"89.391888,27.424915,89.431888,27.464915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1887865,
-        "qs:id":221414
+        "qs_pg:id":221414
     },
     "wof:country":"BT",
     "wof:created":1459010115,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421202355,
-    "wof:lastmodified":1499926703,
+    "wof:lastmodified":1566630049,
     "wof:name":"Paro Dzong",
     "wof:parent_id":1108747343,
     "wof:placetype":"locality",

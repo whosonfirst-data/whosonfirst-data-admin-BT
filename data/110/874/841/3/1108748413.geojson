@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":27.357806,
     "lbl:longitude":91.709881,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Trashigang",
     "meso:dissme":"RadiTrashigang",
     "meso:gadm_adm2":"Radi",
@@ -33,6 +35,7 @@
     "mps:longitude":91.709881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Radi"
     ],
@@ -58,9 +61,9 @@
         "\u0420\u0430\u0434\u0438"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-31",
+    "src:population_date":"2005-05-31",
     "statoids:area_km":"29",
     "statoids:as_of_date":"2005-05-31",
     "statoids:capital":"",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108748413,
-    "wof:lastmodified":1564153223,
+    "wof:lastmodified":1566630025,
     "wof:name":"Radi",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":27.47903,
     "geom:longitude":90.16009,
     "iso:country":"BT",
+    "lbl:bbox":"90.14009,27.45903,90.18009,27.49903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"BT",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":8430191,
         "gp:id":1887875,
-        "qs:id":1168158
+        "qs_pg:id":1168158
     },
     "wof:country":"BT",
     "wof:created":1459009736,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421192425,
-    "wof:lastmodified":1499926740,
+    "wof:lastmodified":1566630048,
     "wof:name":"Yekho",
     "wof:parent_id":421171403,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":27.59137,
     "geom:longitude":89.87743,
     "iso:country":"BT",
+    "lbl:bbox":"89.85743,27.57137,89.89743,27.61137",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -122,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u043d\u0430\u043a\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pun\u0101kla"
     ],
     "name:zho_x_preferred":[
@@ -255,7 +258,7 @@
     "wof:concordances":{
         "gn:id":1252479,
         "gp:id":1887895,
-        "qs:id":894745,
+        "qs_pg:id":894745,
         "wd:id":"Q826112",
         "wk:page":"Punakha"
     },
@@ -272,7 +275,7 @@
         }
     ],
     "wof:id":421174679,
-    "wof:lastmodified":1563260475,
+    "wof:lastmodified":1566630050,
     "wof:name":"Punakha",
     "wof:parent_id":1108747369,
     "wof:placetype":"locality",

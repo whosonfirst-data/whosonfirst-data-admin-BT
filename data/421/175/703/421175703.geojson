@@ -10,8 +10,12 @@
     "geom:latitude":27.55,
     "geom:longitude":90.16667,
     "iso:country":"BT",
+    "lbl:bbox":"90.14667,27.53,90.18667,27.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ritang"
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1252473,
         "gp:id":1887800,
-        "qs:id":1028704,
+        "qs_pg:id":1028704,
         "wd:id":"Q7336633",
         "wk:page":"Ritang, Bhutan"
     },
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":421175703,
-    "wof:lastmodified":1561843610,
+    "wof:lastmodified":1566630050,
     "wof:name":"Ritang",
     "wof:parent_id":421183063,
     "wof:placetype":"locality",

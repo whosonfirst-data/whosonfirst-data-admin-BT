@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":27.07291,
     "lbl:longitude":91.583061,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Trashigang",
     "meso:dissme":"ThrimshingTrashigang",
     "meso:gadm_adm2":"Thrimshing",
@@ -33,6 +35,7 @@
     "mps:longitude":91.583061,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Thrimshing"
     ],
@@ -43,9 +46,9 @@
         "Thrimshing"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-31",
+    "src:population_date":"2005-05-31",
     "statoids:area_km":"55",
     "statoids:as_of_date":"2005-05-31",
     "statoids:capital":"",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108747645,
-    "wof:lastmodified":1564153196,
+    "wof:lastmodified":1566629989,
     "wof:name":"Thrimshing",
     "wof:parent_id":85669583,
     "wof:placetype":"county",
