@@ -297,6 +297,9 @@
         "wk:page":"Bumthang District"
     },
     "wof:country":"BT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c09239ebd116edc487bbb7398acc18d",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1566629972,
+    "wof:lastmodified":1582318816,
     "wof:name":"Bumthang",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

@@ -102,6 +102,9 @@
     },
     "wof:country":"BT",
     "wof:created":1459010185,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8cd3bb5dfe3a692c358c556d699edb26",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421204397,
-    "wof:lastmodified":1566630049,
+    "wof:lastmodified":1582318821,
     "wof:name":"Chhubu",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

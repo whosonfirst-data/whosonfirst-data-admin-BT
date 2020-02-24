@@ -96,6 +96,9 @@
     },
     "wof:country":"BT",
     "wof:created":1459009410,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0ea4d7a49bb991408dd35a2710eaff91",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421184419,
-    "wof:lastmodified":1566630051,
+    "wof:lastmodified":1582318821,
     "wof:name":"Saleng",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

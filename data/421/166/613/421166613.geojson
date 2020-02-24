@@ -88,6 +88,9 @@
     },
     "wof:country":"BT",
     "wof:created":1459008696,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"44e42699a6e470dea26ff8246876d8f5",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421166613,
-    "wof:lastmodified":1566630048,
+    "wof:lastmodified":1582318821,
     "wof:name":"Thedtsho",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

@@ -277,6 +277,9 @@
         "wk:page":"Trongsa District"
     },
     "wof:country":"BT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7be5be79422b54d1038b3902c93559c2",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1566629973,
+    "wof:lastmodified":1582318816,
     "wof:name":"Tongsa",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

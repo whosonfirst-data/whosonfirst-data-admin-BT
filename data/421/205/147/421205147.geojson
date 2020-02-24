@@ -88,6 +88,9 @@
     },
     "wof:country":"BT",
     "wof:created":1459010214,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"19deecc71e5403d3ae5789add1531fa6",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421205147,
-    "wof:lastmodified":1566630050,
+    "wof:lastmodified":1582318821,
     "wof:name":"Kawang",
     "wof:parent_id":85669527,
     "wof:placetype":"county",

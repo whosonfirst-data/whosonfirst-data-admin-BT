@@ -230,6 +230,9 @@
         "wk:page":"Sarpang District"
     },
     "wof:country":"BT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f62610410ee2ab1445a4557b860e2c0d",
     "wof:hierarchy":[
         {
@@ -245,7 +248,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1566629970,
+    "wof:lastmodified":1582318815,
     "wof:name":"Geylegphug",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

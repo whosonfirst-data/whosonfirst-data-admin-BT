@@ -236,6 +236,9 @@
         "wk:page":"Dagana District"
     },
     "wof:country":"BT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1c9b38895445b94cb8eb3bebf170bf73",
     "wof:hierarchy":[
         {
@@ -251,7 +254,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1566629969,
+    "wof:lastmodified":1582318815,
     "wof:name":"Daga",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

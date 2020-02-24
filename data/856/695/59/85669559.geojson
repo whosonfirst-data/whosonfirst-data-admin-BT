@@ -276,6 +276,9 @@
         "wk:page":"Zhemgang District"
     },
     "wof:country":"BT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"655e43033a04a76864740614b4edebbe",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1566629969,
+    "wof:lastmodified":1582318815,
     "wof:name":"Shemgang",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

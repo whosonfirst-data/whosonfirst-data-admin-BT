@@ -295,6 +295,9 @@
         "wk:page":"Chukha District"
     },
     "wof:country":"BT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f53fdce389e17a019f80a5bf612b44cd",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1566629972,
+    "wof:lastmodified":1582318816,
     "wof:name":"Chhukha",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

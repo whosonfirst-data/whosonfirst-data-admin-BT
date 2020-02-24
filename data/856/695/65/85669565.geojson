@@ -142,6 +142,9 @@
         "unlc:id":"BT-24"
     },
     "wof:country":"BT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"03d38e2ac40e516837102c1946e8e88e",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1566629972,
+    "wof:lastmodified":1582318816,
     "wof:name":"Wangdi Phodrang",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

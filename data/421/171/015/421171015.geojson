@@ -89,6 +89,9 @@
     },
     "wof:country":"BT",
     "wof:created":1459008878,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4672be25671e18c3d4e50a9813048f66",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421171015,
-    "wof:lastmodified":1566630053,
+    "wof:lastmodified":1582318822,
     "wof:name":"Nubi",
     "wof:parent_id":85669563,
     "wof:placetype":"county",

@@ -495,6 +495,9 @@
     },
     "wof:country":"BT",
     "wof:created":1459009651,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f91fdab18a37f9e388b357a8a864daf8",
     "wof:hierarchy":[
         {
@@ -506,7 +509,7 @@
         }
     ],
     "wof:id":421190233,
-    "wof:lastmodified":1566630051,
+    "wof:lastmodified":1582318821,
     "wof:name":"Thimphu",
     "wof:parent_id":1108747289,
     "wof:placetype":"locality",

@@ -101,6 +101,9 @@
     },
     "wof:country":"BT",
     "wof:created":1459008932,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c0afea1937b7a04ee4b2584bb40ccb04",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421172353,
-    "wof:lastmodified":1566630050,
+    "wof:lastmodified":1582318821,
     "wof:name":"Lamgong",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

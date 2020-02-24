@@ -1056,6 +1056,11 @@
     },
     "wof:country":"BT",
     "wof:country_alpha3":"BTN",
+    "wof:geom_alt":[
+        "naturalearth",
+        "meso",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"452f9b15a5e82e278eec18eeca65e44f",
     "wof:hierarchy":[
         {
@@ -1070,7 +1075,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1566629976,
+    "wof:lastmodified":1582318817,
     "wof:name":"Bhutan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

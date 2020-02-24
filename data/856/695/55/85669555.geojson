@@ -166,6 +166,9 @@
         "wd:id":"Q2566021"
     },
     "wof:country":"BT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f8fffc62ba41bfe035fbbcdfaa0c00d4",
     "wof:hierarchy":[
         {
@@ -181,7 +184,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1566629973,
+    "wof:lastmodified":1582318816,
     "wof:name":"Tashi Yangtse",
     "wof:parent_id":85632171,
     "wof:placetype":"region",
