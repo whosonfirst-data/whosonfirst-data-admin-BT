@@ -284,6 +284,9 @@
         "wk:page":"Haa District"
     },
     "wof:country":"BT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e883629655c8b3cbed902fccd161dbcd",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1566629971,
+    "wof:lastmodified":1582318815,
     "wof:name":"Ha",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

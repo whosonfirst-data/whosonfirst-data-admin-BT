@@ -96,6 +96,9 @@
     },
     "wof:country":"BT",
     "wof:created":1459008816,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5d603d79dda6b075fefa6755d88b8a5b",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421169587,
-    "wof:lastmodified":1566630049,
+    "wof:lastmodified":1582318821,
     "wof:name":"Katsho",
     "wof:parent_id":85669509,
     "wof:placetype":"county",

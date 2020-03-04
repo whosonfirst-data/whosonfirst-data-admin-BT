@@ -291,6 +291,9 @@
         "wk:page":"Thimphu District"
     },
     "wof:country":"BT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1bcccacc90cdc7a11810f2e3f61f018e",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1566629970,
+    "wof:lastmodified":1582318815,
     "wof:name":"Thimphu",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

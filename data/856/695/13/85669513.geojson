@@ -297,6 +297,9 @@
         "wk:page":"Paro District"
     },
     "wof:country":"BT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a1ea787d6a5d29de0944cc04afff2e43",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1566629975,
+    "wof:lastmodified":1582318817,
     "wof:name":"Paro",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

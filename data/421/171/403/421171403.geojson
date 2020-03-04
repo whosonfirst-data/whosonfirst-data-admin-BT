@@ -88,6 +88,9 @@
     },
     "wof:country":"BT",
     "wof:created":1459008892,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"67c2cfdd4c33b912154b53e2418c198e",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421171403,
-    "wof:lastmodified":1566630053,
+    "wof:lastmodified":1582318822,
     "wof:name":"Gangte",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

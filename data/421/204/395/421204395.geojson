@@ -88,6 +88,9 @@
     },
     "wof:country":"BT",
     "wof:created":1459010185,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ac4b634c6a02f9115a9d28db62317b6c",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421204395,
-    "wof:lastmodified":1566630049,
+    "wof:lastmodified":1582318821,
     "wof:name":"Toewang",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

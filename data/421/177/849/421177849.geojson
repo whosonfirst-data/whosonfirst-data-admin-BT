@@ -88,6 +88,9 @@
     },
     "wof:country":"BT",
     "wof:created":1459009162,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0e7bcfb43740e8ec4cc9796f82f86cb5",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421177849,
-    "wof:lastmodified":1566630052,
+    "wof:lastmodified":1582318821,
     "wof:name":"Gangzur",
     "wof:parent_id":85669549,
     "wof:placetype":"county",

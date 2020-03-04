@@ -88,6 +88,9 @@
     },
     "wof:country":"BT",
     "wof:created":1459010174,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3715636d7fac1d3530798a1f226b8e18",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421204105,
-    "wof:lastmodified":1566630049,
+    "wof:lastmodified":1582318821,
     "wof:name":"Chhoekhor",
     "wof:parent_id":85669537,
     "wof:placetype":"county",

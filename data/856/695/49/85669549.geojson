@@ -277,6 +277,9 @@
         "wk:page":"Lhuntse District"
     },
     "wof:country":"BT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8b43463d7263862a2dc2ab644378a6fd",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1566629975,
+    "wof:lastmodified":1582318817,
     "wof:name":"Lhuntshi",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

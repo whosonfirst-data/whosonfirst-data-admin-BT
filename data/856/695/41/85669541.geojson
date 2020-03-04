@@ -226,6 +226,9 @@
         "wk:page":"Tsirang District"
     },
     "wof:country":"BT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e71a089886a1c4e39b26f348ecd6f54f",
     "wof:hierarchy":[
         {
@@ -241,7 +244,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1566629973,
+    "wof:lastmodified":1582318816,
     "wof:name":"Chirang",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

@@ -223,6 +223,9 @@
     },
     "wof:country":"BT",
     "wof:created":1459008849,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eb768514445fe07e1d9c6ab66e06ce8a",
     "wof:hierarchy":[
         {
@@ -233,7 +236,7 @@
         }
     ],
     "wof:id":421170333,
-    "wof:lastmodified":1566630051,
+    "wof:lastmodified":1582318821,
     "wof:name":"Naja",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

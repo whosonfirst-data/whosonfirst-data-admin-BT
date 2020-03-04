@@ -291,6 +291,9 @@
         "wk:page":"Gasa District"
     },
     "wof:country":"BT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"41979614543089bef580f5e3a064d2fb",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1566629970,
+    "wof:lastmodified":1582318815,
     "wof:name":"Gasa",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

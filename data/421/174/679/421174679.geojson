@@ -264,6 +264,9 @@
     },
     "wof:country":"BT",
     "wof:created":1459009040,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"2525c03b18e6205eeaed83a901894563",
     "wof:hierarchy":[
         {
@@ -275,7 +278,7 @@
         }
     ],
     "wof:id":421174679,
-    "wof:lastmodified":1566630050,
+    "wof:lastmodified":1582318821,
     "wof:name":"Punakha",
     "wof:parent_id":1108747369,
     "wof:placetype":"locality",

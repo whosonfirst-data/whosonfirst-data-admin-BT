@@ -291,6 +291,9 @@
         "wk:page":"Samdrup Jongkhar District"
     },
     "wof:country":"BT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b11d994fb3de2322ca84d5e7e816e556",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1566629973,
+    "wof:lastmodified":1582318816,
     "wof:name":"Samdrup Jongkhar",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

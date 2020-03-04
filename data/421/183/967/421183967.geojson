@@ -88,6 +88,9 @@
     },
     "wof:country":"BT",
     "wof:created":1459009396,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f57a331709f769aec4ddb986cb5b461f",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421183967,
-    "wof:lastmodified":1566630052,
+    "wof:lastmodified":1582318822,
     "wof:name":"Sephu",
     "wof:parent_id":85669565,
     "wof:placetype":"county",
