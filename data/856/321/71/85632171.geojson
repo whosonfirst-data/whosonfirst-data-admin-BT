@@ -1033,9 +1033,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Bhutan",
-        "digitalenvoy:country_code":[
-            64
-        ],
+        "digitalenvoy:country_code":64,
         "fb:id":"en.bhutan",
         "fifa:id":"BHU",
         "fips:code":"BT",
@@ -1078,7 +1076,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1583529090,
+    "wof:lastmodified":1583797293,
     "wof:name":"Bhutan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
