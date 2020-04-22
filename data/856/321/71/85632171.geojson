@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.527478,
-    "geom:area_square_m":38725431920.499069,
+    "geom:area_square_m":38725432243.578903,
     "geom:bbox":"88.746474,26.702016,92.125127,28.246987",
     "geom:latitude":27.395689,
     "geom:longitude":90.432033,
@@ -61,6 +61,9 @@
     "name:arg_x_preferred":[
         "But\u00e1n"
     ],
+    "name:ary_x_preferred":[
+        "\u0628\u0648\u0637\u0627\u0646"
+    ],
     "name:arz_x_preferred":[
         "\u0628\u0648\u062a\u0627\u0646"
     ],
@@ -84,6 +87,9 @@
     ],
     "name:bam_x_preferred":[
         "Buta\u014b"
+    ],
+    "name:ban_x_preferred":[
+        "Bhutan"
     ],
     "name:bar_x_preferred":[
         "Bhutan"
@@ -183,6 +189,12 @@
     "name:dan_x_preferred":[
         "Bhutan"
     ],
+    "name:deu_at_x_preferred":[
+        "Bhutan"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Bhutan"
+    ],
     "name:deu_x_preferred":[
         "Bhutan"
     ],
@@ -209,6 +221,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03c5\u03c4\u03ac\u03bd"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Bhutan"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Bhutan"
     ],
     "name:eng_x_preferred":[
         "Bhutan"
@@ -273,6 +291,9 @@
     ],
     "name:gag_x_preferred":[
         "Butan"
+    ],
+    "name:gcr_x_preferred":[
+        "Boutan"
     ],
     "name:ger_x_colloquial":[
         "Koenigreich Bhutan",
@@ -460,6 +481,9 @@
     "name:lao_x_preferred":[
         "\u0e9e\u0eb9\u0e96\u0eb2\u0e99"
     ],
+    "name:lao_x_variant":[
+        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e9e\u0eb9\u0e96\u0eb2\u0e99"
+    ],
     "name:lat_x_preferred":[
         "Butania"
     ],
@@ -537,6 +561,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0411\u0443\u0442\u0430\u043d"
+    ],
+    "name:mri_x_preferred":[
+        "Put\u0101na"
     ],
     "name:msa_x_preferred":[
         "Bhutan"
@@ -650,6 +677,9 @@
     "name:pol_x_preferred":[
         "Bhutan"
     ],
+    "name:por_br_x_preferred":[
+        "But\u00e3o"
+    ],
     "name:por_x_colloquial":[
         "Butao"
     ],
@@ -723,6 +753,9 @@
     "name:sme_x_variant":[
         "Bhut\u00e1n"
     ],
+    "name:smo_x_preferred":[
+        "Bhutan"
+    ],
     "name:sna_x_preferred":[
         "Bhutan"
     ],
@@ -750,8 +783,17 @@
     "name:sqi_x_variant":[
         "Butan"
     ],
+    "name:srd_x_preferred":[
+        "Bhutan"
+    ],
     "name:srn_x_preferred":[
         "Butankondre"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0411\u0443\u0442\u0430\u043d"
+    ],
+    "name:srp_el_x_preferred":[
+        "Butan"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0443\u0442\u0430\u043d"
@@ -778,6 +820,9 @@
         "Bhutan"
     ],
     "name:szl_x_preferred":[
+        "Bhutan"
+    ],
+    "name:szy_x_preferred":[
         "Bhutan"
     ],
     "name:tam_x_preferred":[
@@ -1076,7 +1121,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1583797293,
+    "wof:lastmodified":1587428229,
     "wof:name":"Bhutan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
