@@ -1112,7 +1112,8 @@
     "src:geom_alt":[
         "naturalearth",
         "meso",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1172,7 +1173,8 @@
         "naturalearth",
         "meso",
         "naturalearth-display-terrestrial-zoom6",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"3e2f1a9633cfd9c05965bc529f9d1702",
     "wof:hierarchy":[
@@ -1188,7 +1190,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1617839509,
+    "wof:lastmodified":1618362161,
     "wof:name":"Bhutan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
