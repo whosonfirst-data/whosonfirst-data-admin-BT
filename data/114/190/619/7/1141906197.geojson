@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"89.5167006514,27.3833010953,89.5167006514,27.3833010953",
+    "geom:bbox":"89.516701,27.383301,89.516701,27.383301",
     "geom:latitude":27.383301,
     "geom:longitude":89.516701,
     "iso:country":"BT",
@@ -69,6 +69,9 @@
     "name:hin_x_preferred":[
         "\u092a\u093e\u0930\u094b-\u092d\u0942\u091f\u093e\u0928"
     ],
+    "name:hun_x_preferred":[
+        "Paro"
+    ],
     "name:ita_x_preferred":[
         "Paro"
     ],
@@ -125,6 +128,9 @@
     ],
     "name:urd_x_variant":[
         "\u067e\u0627\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Paro"
     ],
     "name:zho_x_preferred":[
         "\u5e15\u7f85"
@@ -237,7 +243,7 @@
     },
     "wof:country":"BT",
     "wof:created":1499130555,
-    "wof:geomhash":"332dab5132dca203c506e57962150c50",
+    "wof:geomhash":"7a3ad8e6731056fa609f0bcdf62372a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -248,7 +254,7 @@
         }
     ],
     "wof:id":1141906197,
-    "wof:lastmodified":1566630064,
+    "wof:lastmodified":1636495666,
     "wof:name":"Paro",
     "wof:parent_id":1108747509,
     "wof:placetype":"locality",
@@ -258,10 +264,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    89.51670065138632,
-    27.38330109526527,
-    89.51670065138632,
-    27.38330109526527
+    89.516701,
+    27.383301,
+    89.516701,
+    27.383301
 ],
-  "geometry": {"coordinates":[89.51670065138632,27.38330109526527],"type":"Point"}
+  "geometry": {"coordinates":[89.516701,27.383301],"type":"Point"}
 }

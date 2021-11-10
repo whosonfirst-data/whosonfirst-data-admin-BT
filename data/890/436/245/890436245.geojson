@@ -31,6 +31,9 @@
     "name:est_x_preferred":[
         "Zhemgang"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05de\u05d2\u05d0\u05e0\u05d2"
+    ],
     "name:ita_x_preferred":[
         "Zhemgang"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890436245,
-    "wof:lastmodified":1566630053,
+    "wof:lastmodified":1636495665,
     "wof:name":"Shemgang",
     "wof:parent_id":1108747661,
     "wof:placetype":"locality",

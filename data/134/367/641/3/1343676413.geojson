@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e1\u05d0\u05e7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,7 +45,7 @@
         "wk:page":"Usak%2C_Bhutan"
     },
     "wof:country":"BT",
-    "wof:geomhash":"0d7cd9e88c1cc95a630dea3b64d246cb",
+    "wof:geomhash":"b74e64d59ed76dcc5c7bfa22e928f6ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1343676413,
-    "wof:lastmodified":1566629968,
+    "wof:lastmodified":1636495659,
     "wof:name":"Usak",
     "wof:parent_id":1108748509,
     "wof:placetype":"locality",
@@ -63,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    89.76666999999998,
+    89.76667,
     27.25,
-    89.76666999999998,
+    89.76667,
     27.25
 ],
-  "geometry": {"coordinates":[89.76666999999998,27.25],"type":"Point"}
+  "geometry": {"coordinates":[89.76667,27.25],"type":"Point"}
 }

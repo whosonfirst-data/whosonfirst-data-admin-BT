@@ -35,6 +35,9 @@
     "name:est_x_preferred":[
         "Trongsa"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0646\u06af\u0633\u0627"
+    ],
     "name:fra_x_preferred":[
         "Tongsa"
     ],
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421190227,
-    "wof:lastmodified":1566630050,
+    "wof:lastmodified":1636495665,
     "wof:name":"Tongsa",
     "wof:parent_id":421171015,
     "wof:placetype":"locality",

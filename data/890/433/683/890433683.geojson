@@ -70,6 +70,9 @@
     "name:hin_x_preferred":[
         "\u092a\u093e\u0930\u094b-\u092d\u0942\u091f\u093e\u0928"
     ],
+    "name:hun_x_preferred":[
+        "Paro"
+    ],
     "name:ita_x_preferred":[
         "Paro"
     ],
@@ -130,6 +133,9 @@
     "name:urd_x_variant":[
         "\u067e\u0627\u0631\u0648"
     ],
+    "name:vie_x_preferred":[
+        "Paro"
+    ],
     "name:zho_x_preferred":[
         "\u5e15\u7f85"
     ],
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":890433683,
-    "wof:lastmodified":1566630054,
+    "wof:lastmodified":1636495666,
     "wof:name":"Paro",
     "wof:parent_id":1108747343,
     "wof:placetype":"locality",

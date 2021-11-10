@@ -68,6 +68,12 @@
     "name:hin_x_preferred":[
         "\u092a\u0941\u0928\u093e\u0916\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Punakha"
+    ],
+    "name:ind_x_preferred":[
+        "Punakha"
+    ],
     "name:ita_x_preferred":[
         "Punakha"
     ],
@@ -122,11 +128,20 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e13\u0e11\u0e25\u0e1e\u0e39\u0e19\u0e32\u0e04\u0e32"
     ],
+    "name:tur_x_preferred":[
+        "Punakha"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0443\u043d\u0430\u043a\u0445\u0430"
     ],
     "name:und_x_variant":[
         "Pun\u0101kla"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0646\u0627\u06a9\u06be\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Punakha"
     ],
     "name:zho_x_preferred":[
         "\u666e\u90a3\u5361"
@@ -278,7 +293,7 @@
         }
     ],
     "wof:id":421174679,
-    "wof:lastmodified":1582318821,
+    "wof:lastmodified":1636495665,
     "wof:name":"Punakha",
     "wof:parent_id":1108747369,
     "wof:placetype":"locality",

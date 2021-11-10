@@ -173,6 +173,9 @@
         "Thimphu"
     ],
     "name:heb_x_preferred":[
+        "\u05ea\u05d9\u05de\u05e4\u05d5"
+    ],
+    "name:heb_x_variant":[
         "\u05d8\u05d4\u05d9\u05de\u05e4\u05d4\u05d5"
     ],
     "name:hif_x_preferred":[
@@ -483,8 +486,8 @@
     "wof:belongsto":[
         102191569,
         85632171,
-        1108747289,
-        85669527
+        85669527,
+        1108747289
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -511,7 +514,7 @@
         }
     ],
     "wof:id":421190233,
-    "wof:lastmodified":1607390901,
+    "wof:lastmodified":1636495665,
     "wof:name":"Thimphu",
     "wof:parent_id":1108747289,
     "wof:placetype":"locality",

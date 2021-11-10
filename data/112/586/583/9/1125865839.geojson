@@ -37,6 +37,9 @@
     "name:est_x_preferred":[
         "Ha"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Ha"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125865839,
-    "wof:lastmodified":1566630055,
+    "wof:lastmodified":1636495666,
     "wof:name":"Ha",
     "wof:parent_id":421169587,
     "wof:placetype":"locality",
