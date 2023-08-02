@@ -38,6 +38,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09ae\u09a4\u09be\u0982 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c1\u09ae\u09a5\u09be\u0982 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:bod_x_preferred":[
         "\u0f56\u0f74\u0f58\u0f0b\u0f50\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f66\u0f0b\u0f41\u0f7c\u0f44\u0f66\u0f0d"
     ],
@@ -113,6 +116,9 @@
     "name:kor_x_preferred":[
         "\ubd90\ud0d5 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ubd90\ud0d5\ud604"
+    ],
     "name:lav_x_preferred":[
         "Bumtangas distrikts"
     ],
@@ -127,6 +133,9 @@
     ],
     "name:nan_x_preferred":[
         "Bumthang Ko\u0101n"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0941\u092e\u0925\u093e\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
     "name:new_x_preferred":[
         "\u092c\u0941\u092e\u0925\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -154,6 +163,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u043c\u0442\u0430\u043d\u0433"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd4\u0db8\u0dca\u0dad\u0dcf\u0db1\u0dca\u0d9c\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
     "name:slk_x_preferred":[
         "Bumthang"
@@ -318,7 +330,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1636495661,
+    "wof:lastmodified":1690863597,
     "wof:name":"Bumthang",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

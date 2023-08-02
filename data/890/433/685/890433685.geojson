@@ -25,11 +25,17 @@
     "name:eng_x_preferred":[
         "Pajo"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u062c\u0648"
+    ],
     "name:nld_x_preferred":[
         "Pajo"
     ],
     "name:swe_x_preferred":[
         "Pajo"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u0436\u044a\u0451"
     ],
     "qs:name":"Pajo",
     "qs:photos_9r":0,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":890433685,
-    "wof:lastmodified":1566630054,
+    "wof:lastmodified":1690863607,
     "wof:name":"Pajo",
     "wof:parent_id":1108748333,
     "wof:placetype":"locality",

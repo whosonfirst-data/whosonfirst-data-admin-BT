@@ -31,11 +31,17 @@
     "name:ell_x_preferred":[
         "\u03a7\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u03a7\u03ac\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Ha"
     ],
     "name:est_x_preferred":[
         "Ha"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05d4"
@@ -60,6 +66,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Haa"
     ],
     "name:swe_x_preferred":[
         "Ha"
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":1125865839,
-    "wof:lastmodified":1636495666,
+    "wof:lastmodified":1690863608,
     "wof:name":"Ha",
     "wof:parent_id":421169587,
     "wof:placetype":"locality",

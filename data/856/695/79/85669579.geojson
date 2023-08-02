@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09ae\u09a1\u09cd\u09b0\u09cb\u09aa \u099c\u09be\u0982\u0995\u09be\u09b0 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09ae\u09a6\u09cd\u09b0\u09c1\u09aa \u099c\u09cb\u0982\u0996\u09be\u09b0 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:bod_x_preferred":[
         "\u0f56\u0f66\u0f58\u0f0b\u0f42\u0fb2\u0f74\u0f56\u0f0b\u0f63\u0f97\u0f7c\u0f44\u0f66\u0f0b\u0f58\u0f41\u0f62\u0f0b\u0f42\u0f72\u0f0b\u0f66\u0f0b\u0f41\u0f7c\u0f44\u0f66\u0f0d"
     ],
@@ -72,6 +75,9 @@
     "name:fas_x_preferred":[
         "\u0633\u0627\u0645\u062f\u0631\u0648\u067e \u062c\u0648\u0646\u06af\u062e\u0627\u0631"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0633\u0627\u062f\u0631\u0648\u067e \u062c\u0648\u0646\u06af\u062e\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Samdrup Jongkhar"
     ],
@@ -108,6 +114,9 @@
     "name:kor_x_preferred":[
         "\uc0bc\ub4dc\ub8f9\uc885\uce74\ub974 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc0bc\ub4dc\ub8f9\uc885\uce74\ub974\ud604"
+    ],
     "name:lav_x_preferred":[
         "Samdzupdzonkh\u0101 distrikts"
     ],
@@ -120,8 +129,14 @@
     "name:msa_x_preferred":[
         "Samdrup Jongkhar District"
     ],
+    "name:mya_x_preferred":[
+        "\u1006\u1019\u103a\u1012\u103c\u1015\u103a\u1002\u103b\u102f\u1036\u1001\u102b\u101b\u103a \u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
     "name:nan_x_preferred":[
         "Samdrup Jongkhar Ko\u0101n"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u092e\u094d\u0926\u094d\u0930\u0942\u092a \u091c\u094b\u0919\u094d\u0916\u093e\u0930 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
     "name:nld_x_preferred":[
         "Samdrup Jongkhar"
@@ -165,11 +180,17 @@
     "name:swe_x_preferred":[
         "Samdrup Jongkhar"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bae\u0bcd\u0b9f\u0bb0\u0bc1\u0baa\u0bcd \u0b9c\u0bca\u0b99\u0bcd\u0b95\u0bcd\u0bb9\u0bcd\u0bb0\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c2e\u0c21\u0c4d\u0c30\u0c2a\u0c4d \u0c1c\u0c3e\u0c02\u0c17\u0c4d\u0c15\u0c3e\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e41\u0e0b\u0e21\u0e14\u0e23\u0e31\u0e1b \u0e08\u0e2d\u0e07\u0e15\u0e32\u0e2e\u0e4c"
+    ],
+    "name:tum_x_preferred":[
+        "Samdrup Jongkhar"
     ],
     "name:tur_x_preferred":[
         "Samdrup Jonkh District"
@@ -315,7 +336,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1636495662,
+    "wof:lastmodified":1690863599,
     "wof:name":"Samdrup Jongkhar",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

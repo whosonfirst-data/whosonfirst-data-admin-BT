@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ben_x_preferred":[
+        "\u09a6\u09be\u0987\u09ab\u09be\u09ae"
+    ],
     "name:ceb_x_preferred":[
         "Daifam"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0430\u0439\u0444\u0430\u043c"
     ],
     "name:eng_x_preferred":[
         "Daifam"
@@ -33,6 +39,9 @@
     ],
     "name:swe_x_preferred":[
         "Daifam"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0430\u0439\u0444\u0430\u043c"
     ],
     "qs:name":"Daifam",
     "qs:photos_9r":0,
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":890455909,
-    "wof:lastmodified":1566630053,
+    "wof:lastmodified":1690863606,
     "wof:name":"Daifam",
     "wof:parent_id":1108747471,
     "wof:placetype":"locality",

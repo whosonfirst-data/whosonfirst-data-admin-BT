@@ -23,11 +23,20 @@
     "name:ceb_x_preferred":[
         "Jakar"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u0436\u0430\u043a\u0430\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "Jakar"
+    ],
     "name:eng_x_preferred":[
         "Jakar"
     ],
     "name:epo_x_preferred":[
         "Jakaro"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u06a9\u0627\u0631"
     ],
     "name:fra_x_preferred":[
         "Jakar"
@@ -40,6 +49,9 @@
     ],
     "name:lit_x_preferred":[
         "D\u017eakaras"
+    ],
+    "name:nep_x_preferred":[
+        "\u091c\u093e\u0915\u0930"
     ],
     "name:nld_x_preferred":[
         "Jakar"
@@ -68,11 +80,17 @@
     "name:swe_x_preferred":[
         "Jakar"
     ],
+    "name:tat_x_preferred":[
+        "\u0414\u0436\u0430\u043a\u0430\u0440"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0430\u043a\u0430\u0440"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0627\u06a9\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d3e\u5361\u5c14"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -119,7 +137,7 @@
         }
     ],
     "wof:id":421193239,
-    "wof:lastmodified":1566630049,
+    "wof:lastmodified":1690863603,
     "wof:name":"Jakar",
     "wof:parent_id":421204105,
     "wof:placetype":"locality",

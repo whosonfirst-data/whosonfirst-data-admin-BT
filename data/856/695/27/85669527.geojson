@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09a5\u09bf\u09ae\u09cd\u09aa\u09cb \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09a5\u09bf\u09ae\u09cd\u09ab\u09c1 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:bod_x_preferred":[
         "\u0f50\u0f72\u0f58\u0f0b\u0f55\u0f74\u0f0b\u0f42\u0f72\u0f0b\u0f66\u0f0b\u0f41\u0f7c\u0f44\u0f66\u0f0d"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03af\u03bc\u03c6\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03b9\u03bc\u03c0\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Thimphu"
@@ -103,6 +109,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud300\ubd80 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ud300\ubd80\ud604"
     ],
     "name:lav_x_preferred":[
         "Thimphu distrikts"
@@ -312,7 +321,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1636495660,
+    "wof:lastmodified":1690863595,
     "wof:name":"Thimphu",
     "wof:parent_id":85632171,
     "wof:placetype":"region",
