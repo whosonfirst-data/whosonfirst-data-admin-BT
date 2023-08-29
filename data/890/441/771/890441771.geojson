@@ -25,6 +25,12 @@
     "name:ceb_x_preferred":[
         "Daga"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0430\u0433\u0430\u043d\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Daga"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03ac\u03b3\u03ba\u03b1"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:est_x_preferred":[
         "Dagana"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u06af\u0627"
     ],
     "name:fra_x_preferred":[
         "Taga Dzong"
@@ -58,8 +67,14 @@
     "name:rus_x_preferred":[
         "\u0414\u0430\u0433\u0430\u043d\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Dagana"
+    ],
     "name:swe_x_preferred":[
         "Daga"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0433\u0430\u043d\u0430"
     ],
     "name:tur_x_preferred":[
         "Daga"
@@ -75,6 +90,9 @@
     ],
     "name:vie_x_preferred":[
         "Daga"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10d0\u10d2\u10d0\u10dc\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u9054\u52a0"
@@ -112,7 +130,7 @@
         }
     ],
     "wof:id":890441771,
-    "wof:lastmodified":1636495665,
+    "wof:lastmodified":1690863606,
     "wof:name":"Daga",
     "wof:parent_id":1108748509,
     "wof:placetype":"locality",

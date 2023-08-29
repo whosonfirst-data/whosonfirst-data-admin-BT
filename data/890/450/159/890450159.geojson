@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Trashigang"
+    ],
     "name:ben_x_preferred":[
         "\u099f\u09cd\u09b0\u09be\u09b6\u09bf\u0997\u09be\u0982"
     ],
     "name:ceb_x_preferred":[
         "Trashigang"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u0430\u0448\u0438\u0433\u0430\u043d\u0433"
     ],
     "name:dan_x_preferred":[
         "Trashigang"
@@ -45,6 +51,9 @@
     ],
     "name:est_x_preferred":[
         "Trashigang"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0627\u0634\u06cc\u06af\u0627\u0646\u06af"
     ],
     "name:fra_x_preferred":[
         "Trashigang"
@@ -82,8 +91,14 @@
     "name:rus_x_preferred":[
         "\u0422\u0440\u0430\u0448\u0438\u0433\u0430\u043d\u0433"
     ],
+    "name:spa_x_preferred":[
+        "Trashigang"
+    ],
     "name:swe_x_preferred":[
         "Trashigang"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u0430\u0448\u0438\u0433\u0430\u043d\u0433"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0430\u0448\u0456\u0433\u0430\u043d\u0433"
@@ -93,6 +108,12 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u0627\u0634\u06cc\u06af\u0627\u0646\u06af"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e2\u10e0\u10d0\u10e8\u10d8\u10d2\u10d0\u10dc\u10d2\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u624e\u897f\u5d17"
     ],
     "name:zho_x_preferred":[
         "\u5854\u5e0c\u5188"
@@ -133,7 +154,7 @@
         }
     ],
     "wof:id":890450159,
-    "wof:lastmodified":1566630054,
+    "wof:lastmodified":1690863608,
     "wof:name":"Trashigang",
     "wof:parent_id":421183963,
     "wof:placetype":"locality",

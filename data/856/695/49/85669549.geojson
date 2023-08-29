@@ -34,6 +34,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09cb\u09a8\u09cd\u09b8\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09b9\u09c1\u09af\u09bc\u09c7\u09a8\u09cd\u09a4\u09b8\u09c7 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:bod_x_preferred":[
         "\u0f63\u0fb7\u0f74\u0f53\u0f0b\u0f62\u0fa9\u0f7a\u0f0b\u0f42\u0f72\u0f0b\u0f66\u0f0b\u0f41\u0f7c\u0f44\u0f66\u0f0d"
     ],
@@ -74,6 +77,9 @@
     "name:fas_x_preferred":[
         "\u0644\u0647\u0648\u0646\u062a\u0634\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0644\u0647\u0648\u0646\u062a\u0633\u0647"
+    ],
     "name:fin_x_preferred":[
         "Lhuntse"
     ],
@@ -107,6 +113,9 @@
     "name:kor_x_preferred":[
         "\ub8ec\uccb4 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ub8ec\uccb4\ud604"
+    ],
     "name:lav_x_preferred":[
         "Lhunci distrikts"
     ],
@@ -121,6 +130,9 @@
     ],
     "name:nan_x_preferred":[
         "Lhuntse Ko\u0101n"
+    ],
+    "name:nep_x_preferred":[
+        "\u0932\u0941\u0928\u094d\u091f\u0938\u0947 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
     "name:nld_x_preferred":[
         "Lhuntse"
@@ -151,6 +163,9 @@
     ],
     "name:swe_x_preferred":[
         "Lhuntse"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bb9\u0ba9\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c42\u0c02\u0c1f\u0c4d\u0c38\u0c46 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -301,7 +316,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1636495663,
+    "wof:lastmodified":1690863600,
     "wof:name":"Lhuntshi",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

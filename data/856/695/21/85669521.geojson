@@ -113,6 +113,9 @@
     "name:kor_x_preferred":[
         "\uac00\uc0ac \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uac00\uc0ac\ud604"
+    ],
     "name:lav_x_preferred":[
         "Gasas distrikts"
     ],
@@ -127,6 +130,9 @@
     ],
     "name:nan_x_preferred":[
         "Gasa Ko\u0101n"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u093e\u0938\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
     "name:nld_x_preferred":[
         "Gasa"
@@ -154,6 +160,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d9c\u0dc3\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:slv_x_preferred":[
+        "Okro\u017eje Gasa"
     ],
     "name:spa_x_preferred":[
         "Distrito de Gasa"
@@ -312,7 +321,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1636495661,
+    "wof:lastmodified":1690863596,
     "wof:name":"Gasa",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

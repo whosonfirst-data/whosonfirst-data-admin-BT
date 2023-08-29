@@ -17,8 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Trongsa"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f40\u0fb2\u0f7c\u0f44\u0f0b\u0f42\u0f66\u0f62\u0f0d"
+    ],
     "name:ceb_x_preferred":[
         "Trongsa"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u043e\u043d\u0433\u0441\u0430"
     ],
     "name:deu_x_preferred":[
         "Tongsa"
@@ -80,6 +89,9 @@
     "name:swe_x_preferred":[
         "Trongsa"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u043e\u043d\u0433\u0441\u0430"
+    ],
     "name:tha_x_preferred":[
         "\u0e15\u0e07\u0e0b\u0e32"
     ],
@@ -88,6 +100,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u0648\u0646\u06af\u0633\u0627"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e2\u10e0\u10dd\u10dc\u10d2\u10e1\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u901a\u8428"
@@ -140,7 +155,7 @@
         }
     ],
     "wof:id":421190227,
-    "wof:lastmodified":1636495665,
+    "wof:lastmodified":1690863604,
     "wof:name":"Tongsa",
     "wof:parent_id":421171015,
     "wof:placetype":"locality",

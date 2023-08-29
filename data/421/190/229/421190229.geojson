@@ -29,11 +29,17 @@
     "name:ceb_x_preferred":[
         "Wangdue Phodrang"
     ],
+    "name:che_x_preferred":[
+        "\u0412\u0430\u043d\u0433\u0434\u0438-\u041f\u0445\u043e\u0434\u0440\u0430\u043d\u0433"
+    ],
     "name:deu_x_preferred":[
         "Wangdue Phodrang"
     ],
     "name:eng_x_preferred":[
         "Wangdue Phodrang"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0646\u06af\u062f\u0648 \u0641\u0648\u062f\u0631\u0627\u0646\u06af"
     ],
     "name:fra_x_preferred":[
         "Wangdue Phodrang"
@@ -59,6 +65,9 @@
     "name:por_x_preferred":[
         "Wangdue Phodrang"
     ],
+    "name:ron_x_preferred":[
+        "Wangdiphodrang"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u043d\u0433\u0434\u0438-\u041f\u0445\u043e\u0434\u0440\u0430\u043d\u0433"
     ],
@@ -71,11 +80,17 @@
     "name:swe_x_preferred":[
         "Wangdue Phodrang"
     ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u043d\u0433\u0434\u0438-\u041f\u0445\u043e\u0434\u0440\u0430\u043d\u0433"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043d\u0433\u0434\u0456-\u041f\u0445\u043e\u0434\u0440\u0430\u043d\u0433"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0646\u06af\u062f\u0648 \u067e\u06be\u0648\u062f\u0631\u0627\u0646\u06af"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e3\u10d0\u10dc\u10d2\u10d3\u10d8-\u10e4\u10dd\u10d3\u10e0\u10d0\u10dc\u10d2\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u65fa\u675c\u6ce2\u5fb7\u6717"
@@ -124,7 +139,7 @@
         }
     ],
     "wof:id":421190229,
-    "wof:lastmodified":1566630050,
+    "wof:lastmodified":1690863604,
     "wof:name":"Wangdu Phodrang",
     "wof:parent_id":421166613,
     "wof:placetype":"locality",

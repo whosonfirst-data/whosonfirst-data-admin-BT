@@ -22,8 +22,14 @@
     "name:ceb_x_preferred":[
         "Wamrong"
     ],
+    "name:che_x_preferred":[
+        "\u0412\u0430\u043c\u0440\u043e\u043d\u0433"
+    ],
     "name:eng_x_preferred":[
         "Wamrong"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0631\u0648\u0646\u06af"
     ],
     "name:ita_x_preferred":[
         "Wamrong"
@@ -34,8 +40,14 @@
     "name:por_x_preferred":[
         "Wamrong"
     ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043c\u0440\u043e\u043d\u0433"
+    ],
     "name:swe_x_preferred":[
         "Wamrong"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u043c\u0440\u043e\u043d\u0433"
     ],
     "qs:name":"Wamrong",
     "qs:photos_9r":0,
@@ -70,7 +82,7 @@
         }
     ],
     "wof:id":890418067,
-    "wof:lastmodified":1566630054,
+    "wof:lastmodified":1690863606,
     "wof:name":"Wamrong",
     "wof:parent_id":1108747645,
     "wof:placetype":"locality",

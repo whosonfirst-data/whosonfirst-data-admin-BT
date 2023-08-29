@@ -19,14 +19,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ast_x_preferred":[
+        "Phuntsholing"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0445\u0443\u043d\u0447\u043e\u043b\u0456\u043d\u0433"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0445\u0443\u043d\u0447\u043e\u043b\u0456\u043d\u0433"
     ],
     "name:ben_x_preferred":[
         "\u09ab\u09c1\u09a8\u09cd\u099f\u09b8\u09b2\u09bf\u0982"
     ],
+    "name:cat_x_preferred":[
+        "Phuentsholing"
+    ],
     "name:ceb_x_preferred":[
         "Phuentsholing"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0445\u0443\u043d\u0447\u0445\u043e\u043b\u0438\u043d\u0433"
     ],
     "name:dan_x_preferred":[
         "Phuntsholing"
@@ -37,6 +49,9 @@
     "name:dzo_x_preferred":[
         "\u0f55\u0f74\u0f53\u0f0b\u0f5a\u0f7c\u0f42\u0f66\u0f0b\u0f42\u0fb3\u0f72\u0f44\u0f0b"
     ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03ac\u03bd\u03c4\u03c3\u03bf\u03bb\u03b9\u03bd\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Phuntsholing"
     ],
@@ -46,11 +61,17 @@
     "name:est_x_preferred":[
         "Phuentsholing"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0646\u062a\u200c\u0634\u0648\u0644\u06cc\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Phuntsholing"
     ],
     "name:fra_x_preferred":[
         "Phuntsholing"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05e6'\u05d5\u05dc\u05d9\u05e0\u05d2"
     ],
     "name:ind_x_preferred":[
         "Phuntsholing"
@@ -60,6 +81,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30f3\u30c4\u30a9\u30ea\u30f3\u30b0"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d7\u30f3\u30c4\u30a9\u30ea\u30f3"
     ],
     "name:kor_x_preferred":[
         "\ud47c\ucd10\ub9c1"
@@ -94,6 +118,9 @@
     "name:rus_x_variant":[
         "\u041f\u0445\u0443\u043d\u0447\u0445\u043e\u043b\u0438\u043d\u0433"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c77\u1c69\u1c71\u1c74\u1c65\u1c5a\u1c5e\u1c64\u1c5d"
+    ],
     "name:spa_x_preferred":[
         "Phuntsholing"
     ],
@@ -102,6 +129,9 @@
     ],
     "name:swe_x_preferred":[
         "Phuentsholing"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0445\u0443\u043d\u0447\u0445\u043e\u043b\u0438\u043d\u0433"
     ],
     "name:tur_x_preferred":[
         "Phuntsholing"
@@ -114,6 +144,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u06be\u0648\u0646\u062a\u0634\u0648\u0644\u0646\u06af"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e4\u10e3\u10dc\u10e9\u10dd\u10da\u10d8\u10dc\u10d2\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u5f6d\u63aa\u6797"
@@ -163,7 +196,7 @@
         }
     ],
     "wof:id":890433681,
-    "wof:lastmodified":1566630054,
+    "wof:lastmodified":1690863607,
     "wof:name":"Phuntsholing",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

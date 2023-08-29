@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09a8\u09be\u0995\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09aa\u09c1\u09a8\u09be\u0996\u09be \u099c\u09c7\u09b2\u09be"
+    ],
     "name:bod_x_preferred":[
         "\u0f66\u0fa4\u0f74\u0f0b\u0f53\u0f0b\u0f41\u0f0b\u0f42\u0f72\u0f0b\u0f66\u0f0b\u0f41\u0f7c\u0f44\u0f66\u0f0d"
     ],
@@ -68,6 +71,9 @@
     "name:est_x_preferred":[
         "Punakha ringkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u067e\u0648\u0646\u0627\u062e\u0627"
+    ],
     "name:fin_x_preferred":[
         "Punakha"
     ],
@@ -79,6 +85,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0aa8\u0abe\u0a96\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05e7\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092a\u0941\u0928\u093e\u0916\u093e \u091c\u093f\u0932\u093e"
@@ -98,6 +107,9 @@
     "name:kor_x_preferred":[
         "\ud478\ub098\uce74 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ud478\ub098\uce74\ud604"
+    ],
     "name:lav_x_preferred":[
         "Punakhas distrikts"
     ],
@@ -112,6 +124,9 @@
     ],
     "name:nan_x_preferred":[
         "Punakha Ko\u0101n"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u0941\u0928\u093e\u0916\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
     "name:nld_x_preferred":[
         "Punakha"
@@ -136,6 +151,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0443\u043d\u0430\u043a\u0445\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c69\u1c71\u1c5f\u1c60\u1c77\u1c5f \u1c66\u1c5a\u1c71\u1c5a\u1c5b"
     ],
     "name:sin_x_preferred":[
         "\u0db4\u0dd6\u0db1\u0d9a\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
@@ -303,7 +321,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1636495661,
+    "wof:lastmodified":1690863597,
     "wof:name":"Punakha",
     "wof:parent_id":85632171,
     "wof:placetype":"region",
