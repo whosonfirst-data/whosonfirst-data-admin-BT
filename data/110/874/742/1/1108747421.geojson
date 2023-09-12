@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014831,
-    "geom:area_square_m":163495275.620403,
+    "geom:area_square_m":163495327.388421,
     "geom:bbox":"91.392883,26.842271,91.579268,27.028585",
     "geom:latitude":26.937997,
     "geom:longitude":91.484122,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Jangchhubling"
+    ],
     "name:fra_x_preferred":[
         "Jangchhubling"
     ],
@@ -50,7 +53,7 @@
     "wof:concordances":{},
     "wof:country":"BT",
     "wof:created":1479326502,
-    "wof:geomhash":"019af3add82550fa362afe5d7655eeaf",
+    "wof:geomhash":"28a021ca34c3dc5e9906c53a1489d087",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108747421,
-    "wof:lastmodified":1628266660,
+    "wof:lastmodified":1694492851,
     "wof:name":"Jangchhubling",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

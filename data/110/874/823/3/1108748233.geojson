@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030862,
-    "geom:area_square_m":339609624.016203,
+    "geom:area_square_m":339609657.580415,
     "geom:bbox":"89.066901,27.027831,89.366697,27.24813",
     "geom:latitude":27.13733,
     "geom:longitude":89.233689,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Gakiling"
+    ],
     "name:fra_x_preferred":[
         "Gakiling"
     ],
@@ -50,7 +53,7 @@
     "wof:concordances":{},
     "wof:country":"BT",
     "wof:created":1479328469,
-    "wof:geomhash":"8fc3bebf4823aa346d0012736327f244",
+    "wof:geomhash":"1f26162d280040d03c2c91de76725193",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108748233,
-    "wof:lastmodified":1628266649,
+    "wof:lastmodified":1694492845,
     "wof:name":"Gakiling",
     "wof:parent_id":85669509,
     "wof:placetype":"county",

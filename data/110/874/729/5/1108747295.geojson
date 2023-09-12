@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004742,
-    "geom:area_square_m":52128301.593429,
+    "geom:area_square_m":52128308.923905,
     "geom:bbox":"91.312258,27.216185,91.410792,27.292158",
     "geom:latitude":27.25598,
     "geom:longitude":91.361536,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Chaskhar"
+    ],
     "name:fra_x_preferred":[
         "Chakhar"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"BT",
     "wof:created":1479326489,
-    "wof:geomhash":"d8c0acf7353c7c6c4bca92fbffd6b03b",
+    "wof:geomhash":"1d204b543d765a651ba3cd29d005d563",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108747295,
-    "wof:lastmodified":1628266638,
+    "wof:lastmodified":1694492837,
     "wof:name":"Chaskhar",
     "wof:parent_id":85669571,
     "wof:placetype":"county",
