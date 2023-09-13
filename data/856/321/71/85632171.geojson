@@ -1192,7 +1192,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"975",
     "statoids:ds":"BT",
     "statoids:fifa":"BHU",
@@ -1266,7 +1266,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1694492144,
+    "wof:lastmodified":1694639596,
     "wof:name":"Bhutan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
