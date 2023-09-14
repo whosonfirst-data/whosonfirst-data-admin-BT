@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017216,
-    "geom:area_square_m":189926527.903126,
+    "geom:area_square_m":189926498.30107,
     "geom:bbox":"91.408406,26.793372,91.619381,26.922121",
     "geom:latitude":26.852348,
     "geom:longitude":91.525484,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Dewathang"
+    ],
     "name:fra_x_preferred":[
         "Deothang"
     ],
@@ -50,7 +53,7 @@
     "wof:concordances":{},
     "wof:country":"BT",
     "wof:created":1479328466,
-    "wof:geomhash":"a9b6bb4a13e6453295f8813298548ea1",
+    "wof:geomhash":"d5c07b36f755abb681e352d7c695e2c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108748197,
-    "wof:lastmodified":1628266643,
+    "wof:lastmodified":1694492841,
     "wof:name":"Dewathang",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

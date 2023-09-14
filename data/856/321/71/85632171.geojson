@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.655707,
-    "geom:area_square_m":38725432243.578903,
+    "geom:area_square_m":40123347087.071022,
     "geom:bbox":"88.746474,26.702016,92.125127,28.360825",
     "geom:latitude":27.422422,
     "geom:longitude":90.420375,
@@ -14,6 +14,9 @@
     "iso:country":"BT",
     "itu:country_code":[
         "975"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "BT"
@@ -1188,7 +1191,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"975",
     "statoids:ds":"BT",
     "statoids:fifa":"BHU",
@@ -1248,7 +1252,7 @@
         "quattroshapes",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"3e2f1a9633cfd9c05965bc529f9d1702",
+    "wof:geomhash":"1e99460045d0dd2b4e1107a2584cb346",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1262,12 +1266,12 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1690863601,
+    "wof:lastmodified":1694639596,
     "wof:name":"Bhutan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":753947,
-    "wof:population_rank":11,
+    "wof:population":763092,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-bt",
     "wof:shortcode":"BT",
     "wof:superseded_by":[],
