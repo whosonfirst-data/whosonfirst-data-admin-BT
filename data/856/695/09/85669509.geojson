@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164947,
-    "geom:area_square_m":1812444220.106617,
+    "geom:area_square_m":1812443974.607701,
     "geom:bbox":"88.907513,27.027831,89.385598,27.613511",
     "geom:latitude":27.298659,
     "geom:longitude":89.153779,
@@ -289,17 +289,19 @@
         "gn:id":1337283,
         "gp:id":2344877,
         "hasc:id":"BT.HA",
+        "iso:code":"BT-13",
         "iso:id":"BT-13",
         "qs_pg:id":894848,
         "unlc:id":"BT-13",
         "wd:id":"Q754448",
         "wk:page":"Haa District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1e704c305e4616ac0555615e39d6c552",
+    "wof:geomhash":"ccea4634944a7cde491afc9b62663e88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -314,7 +316,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1690863597,
+    "wof:lastmodified":1695884805,
     "wof:name":"Ha",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

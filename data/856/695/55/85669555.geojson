@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.132003,
-    "geom:area_square_m":1445608377.804182,
+    "geom:area_square_m":1445608563.305879,
     "geom:bbox":"91.336141,27.37515,91.767733,27.980017",
     "geom:latitude":27.667103,
     "geom:longitude":91.499984,
@@ -182,15 +182,17 @@
         "gn:id":7303653,
         "gp:id":55967863,
         "hasc:id":"BT.TY",
+        "iso:code":"BT-TY",
         "iso:id":"BT-TY",
         "qs_pg:id":74603,
         "wd:id":"Q2566021"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"392ec639cbbe11a4da8f20e988565e38",
+    "wof:geomhash":"ce8ef57935e86216970f0c5144dbfe36",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -205,7 +207,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1690863598,
+    "wof:lastmodified":1695884806,
     "wof:name":"Tashi Yangtse",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

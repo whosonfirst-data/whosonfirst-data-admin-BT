@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165479,
-    "geom:area_square_m":1816320651.82268,
+    "geom:area_square_m":1816320670.512539,
     "geom:bbox":"90.263257,27.136251,90.749246,27.784298",
     "geom:latitude":27.418591,
     "geom:longitude":90.496025,
@@ -292,16 +292,18 @@
         "gn:id":1337294,
         "gp:id":2344888,
         "hasc:id":"BT.TO",
+        "iso:code":"BT-32",
         "iso:id":"BT-32",
         "qs_pg:id":219518,
         "wd:id":"Q728938",
         "wk:page":"Trongsa District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"02cfb0ac49fa2e65d55b9692fbde2409",
+    "wof:geomhash":"66b16d5d4c9990095380fe4437cd65e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -316,7 +318,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1690863598,
+    "wof:lastmodified":1695884806,
     "wof:name":"Tongsa",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

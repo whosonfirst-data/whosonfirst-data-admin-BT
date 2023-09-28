@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.200701,
-    "geom:area_square_m":2205821236.885365,
+    "geom:area_square_m":2205821066.346418,
     "geom:bbox":"91.375384,27.024999,92.125127,27.486344",
     "geom:latitude":27.273011,
     "geom:longitude":91.741952,
@@ -282,16 +282,18 @@
         "gn:id":1337292,
         "gp:id":2344886,
         "hasc:id":"BT.TA",
+        "iso:code":"BT-41",
         "iso:id":"BT-41",
         "qs_pg:id":1097030,
         "wd:id":"Q652773",
         "wk:page":"Trashigang District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"218cb395b7e40ce7e4baae90209fef1f",
+    "wof:geomhash":"44d124352210284207cdcac7423b91eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -306,7 +308,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1690863599,
+    "wof:lastmodified":1695884339,
     "wof:name":"Tashigang",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

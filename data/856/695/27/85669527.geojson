@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164058,
-    "geom:area_square_m":1797754924.107275,
+    "geom:area_square_m":1797755088.105605,
     "geom:bbox":"89.223622,27.145278,89.762991,27.996897",
     "geom:latitude":27.59943,
     "geom:longitude":89.540037,
@@ -296,17 +296,19 @@
         "gn:id":1337293,
         "gp:id":2344887,
         "hasc:id":"BT.TM",
+        "iso:code":"BT-15",
         "iso:id":"BT-15",
         "qs_pg:id":219517,
         "unlc:id":"BT-15",
         "wd:id":"Q254889",
         "wk:page":"Thimphu District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"68612cbaeb7689ef8c2a99f37ace8743",
+    "wof:geomhash":"dc4d7c16fcd1e80c4a0efa9bb15d43d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -321,7 +323,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1690863595,
+    "wof:lastmodified":1695884805,
     "wof:name":"Thimphu",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

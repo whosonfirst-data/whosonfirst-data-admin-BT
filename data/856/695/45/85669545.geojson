@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150297,
-    "geom:area_square_m":1656418778.38761,
+    "geom:area_square_m":1656418603.909503,
     "geom:bbox":"90.011657,26.729808,90.775688,27.221355",
     "geom:latitude":26.963825,
     "geom:longitude":90.41914,
@@ -248,16 +248,18 @@
         "gn:id":1337282,
         "gp:id":2344876,
         "hasc:id":"BT.GE",
+        "iso:code":"BT-31",
         "iso:id":"BT-31",
         "qs_pg:id":264449,
         "wd:id":"Q728947",
         "wk:page":"Sarpang District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cbe757e9caa15f5e34a02c0ac2781449",
+    "wof:geomhash":"8dbd7d79a02ec0e9f76705a49888880b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -272,7 +274,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1690863596,
+    "wof:lastmodified":1695884805,
     "wof:name":"Geylegphug",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

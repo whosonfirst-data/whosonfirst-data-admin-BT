@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169324,
-    "geom:area_square_m":1865983438.430164,
+    "geom:area_square_m":1865983917.704407,
     "geom:bbox":"91.392883,26.793372,92.121346,27.249153",
     "geom:latitude":26.971878,
     "geom:longitude":91.77742,
@@ -312,16 +312,18 @@
         "gn:id":1337290,
         "gp:id":2344884,
         "hasc:id":"BT.SJ",
+        "iso:code":"BT-45",
         "iso:id":"BT-45",
         "qs_pg:id":1097029,
         "wd:id":"Q728929",
         "wk:page":"Samdrup Jongkhar District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"227a3cc777426036cf7b4614e73dbff8",
+    "wof:geomhash":"1feeac86113d4a36d2cd03e4dec6fef2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -336,7 +338,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1690863599,
+    "wof:lastmodified":1695884806,
     "wof:name":"Samdrup Jongkhar",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

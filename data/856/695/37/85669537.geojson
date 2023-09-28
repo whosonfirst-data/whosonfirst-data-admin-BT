@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.248357,
-    "geom:area_square_m":2719039086.32155,
+    "geom:area_square_m":2719039173.249413,
     "geom:bbox":"90.479833,27.335471,91.012641,28.080781",
     "geom:latitude":27.698906,
     "geom:longitude":90.743241,
@@ -305,17 +305,19 @@
         "gn:id":1337278,
         "gp:id":2344872,
         "hasc:id":"BT.BU",
+        "iso:code":"BT-33",
         "iso:id":"BT-33",
         "qs_pg:id":222811,
         "unlc:id":"BT-33",
         "wd:id":"Q463242",
         "wk:page":"Bumthang District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"13a351bfabc2a41c403d5120166e59f5",
+    "wof:geomhash":"a7dc3aa582cde24029e8e792b5ffd9bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -330,7 +332,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1690863597,
+    "wof:lastmodified":1695884805,
     "wof:name":"Bumthang",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

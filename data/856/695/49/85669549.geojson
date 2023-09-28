@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.263826,
-    "geom:area_square_m":2886487226.206233,
+    "geom:area_square_m":2886487357.379466,
     "geom:bbox":"90.772701,27.390567,91.474827,28.071089",
     "geom:latitude":27.770961,
     "geom:longitude":91.131537,
@@ -292,16 +292,18 @@
         "gn:id":1337284,
         "gp:id":2344878,
         "hasc:id":"BT.LH",
+        "iso:code":"BT-44",
         "iso:id":"BT-44",
         "qs_pg:id":1083805,
         "wd:id":"Q598793",
         "wk:page":"Lhuntse District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"20b455056e47c4cf9ab137285d305f30",
+    "wof:geomhash":"746d6086e85f9edd25377d518ff3f388",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -316,7 +318,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1690863600,
+    "wof:lastmodified":1695884806,
     "wof:name":"Lhuntshi",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

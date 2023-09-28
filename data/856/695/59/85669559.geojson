@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.219824,
-    "geom:area_square_m":2420691308.31146,
+    "geom:area_square_m":2420691679.163699,
     "geom:bbox":"90.52974,26.775216,91.180865,27.388318",
     "geom:latitude":27.056096,
     "geom:longitude":90.856224,
@@ -288,16 +288,18 @@
         "gn:id":1337291,
         "gp:id":2344885,
         "hasc:id":"BT.SG",
+        "iso:code":"BT-34",
         "iso:id":"BT-34",
         "qs_pg:id":555798,
         "wd:id":"Q197564",
         "wk:page":"Zhemgang District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3dfab7e56c22f31cec2a8c6a043624f5",
+    "wof:geomhash":"1d234963222d60ac298874a67d334fa0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -312,7 +314,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1690863595,
+    "wof:lastmodified":1695884805,
     "wof:name":"Shemgang",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

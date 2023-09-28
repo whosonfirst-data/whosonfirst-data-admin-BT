@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.177061,
-    "geom:area_square_m":1946149797.679852,
+    "geom:area_square_m":1946150114.375502,
     "geom:bbox":"90.957456,26.941623,91.4974,27.600487",
     "geom:latitude":27.264525,
     "geom:longitude":91.220502,
@@ -295,16 +295,18 @@
         "gn:id":1337285,
         "gp:id":2344879,
         "hasc:id":"BT.MO",
+        "iso:code":"BT-42",
         "iso:id":"BT-42",
         "qs_pg:id":984067,
         "wd:id":"Q389734",
         "wk:page":"Mongar District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d378ca64b8e04e49b180284a13a4dadb",
+    "wof:geomhash":"ac16f45a4c69fd1dbe3b068df2deb35d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -319,7 +321,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1690863600,
+    "wof:lastmodified":1695884806,
     "wof:name":"Mongar",
     "wof:parent_id":85632171,
     "wof:placetype":"region",
