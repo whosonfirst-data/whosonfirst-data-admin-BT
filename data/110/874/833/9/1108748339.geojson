@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009626,
-    "geom:area_square_m":105929919.467308,
+    "geom:area_square_m":105929875.792041,
     "geom:bbox":"91.469267,27.063966,91.588059,27.187993",
     "geom:latitude":27.130881,
     "geom:longitude":91.529167,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TA.LM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328481,
-    "wof:geomhash":"fb1cdb5a791672b37f7deb224c5d37db",
+    "wof:geomhash":"f7c1f554666a418f1ec237ad34ddca25",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748339,
-    "wof:lastmodified":1627521900,
+    "wof:lastmodified":1695886217,
     "wof:name":"Lumang",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004677,
-    "geom:area_square_m":51495896.508082,
+    "geom:area_square_m":51495867.349273,
     "geom:bbox":"88.873883,27.003985,88.951,27.111473",
     "geom:latitude":27.065375,
     "geom:longitude":88.912754,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SM.BI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326487,
-    "wof:geomhash":"c7d06bca19d2c2c45c564843fa125779",
+    "wof:geomhash":"570a0f1fea59cb091098037d2d372d0e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108747273,
-    "wof:lastmodified":1627521893,
+    "wof:lastmodified":1695886206,
     "wof:name":"Biru",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

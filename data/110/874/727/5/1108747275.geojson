@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012838,
-    "geom:area_square_m":141345402.392058,
+    "geom:area_square_m":141345573.817187,
     "geom:bbox":"89.50627,27.00114,89.664676,27.14872",
     "geom:latitude":27.074207,
     "geom:longitude":89.582137,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.CK.BC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326487,
-    "wof:geomhash":"db15905b498429ccd7cf71c1c63f9a1b",
+    "wof:geomhash":"28b3c1f5ad013fdcdaf16b7452ea8fe4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747275,
-    "wof:lastmodified":1627521893,
+    "wof:lastmodified":1695886206,
     "wof:name":"Bjachho",
     "wof:parent_id":85669501,
     "wof:placetype":"county",

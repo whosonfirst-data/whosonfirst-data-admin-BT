@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016889,
-    "geom:area_square_m":186009027.685025,
+    "geom:area_square_m":186009023.401929,
     "geom:bbox":"91.087573,26.941623,91.2352,27.133739",
     "geom:latitude":27.04056,
     "geom:longitude":91.160251,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.MO.GD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326500,
-    "wof:geomhash":"d878cb1247812e15749308fa34b145a6",
+    "wof:geomhash":"ee1b4b1957c445fcb5e361f24350b68b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747403,
-    "wof:lastmodified":1627521897,
+    "wof:lastmodified":1695886211,
     "wof:name":"Gongdue",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

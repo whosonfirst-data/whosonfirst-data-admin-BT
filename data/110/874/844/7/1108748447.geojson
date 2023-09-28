@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007076,
-    "geom:area_square_m":78003899.185293,
+    "geom:area_square_m":78003894.553864,
     "geom:bbox":"90.509204,26.868324,90.633295,26.979277",
     "geom:latitude":26.929214,
     "geom:longitude":90.562302,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.GE.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328494,
-    "wof:geomhash":"cb7414a55e55aa756df2723599e35c4d",
+    "wof:geomhash":"17bb50cb379974d1902c221339565d2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748447,
-    "wof:lastmodified":1627521903,
+    "wof:lastmodified":1695886221,
     "wof:name":"Sherzhong",
     "wof:parent_id":85669545,
     "wof:placetype":"county",

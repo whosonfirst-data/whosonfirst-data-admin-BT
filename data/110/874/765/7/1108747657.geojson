@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003615,
-    "geom:area_square_m":39864039.463315,
+    "geom:area_square_m":39863952.955746,
     "geom:bbox":"89.964909,26.866259,90.041847,26.953112",
     "geom:latitude":26.913585,
     "geom:longitude":89.999464,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.DA.TD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326529,
-    "wof:geomhash":"16aa8203d4a11c2b7aaa39ba4488b61f",
+    "wof:geomhash":"8f1642f0f85287a5f810f253701ada73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747657,
-    "wof:lastmodified":1627521904,
+    "wof:lastmodified":1695886222,
     "wof:name":"Trashiding",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

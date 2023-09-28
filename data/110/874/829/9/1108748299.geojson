@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008925,
-    "geom:area_square_m":98211104.513896,
+    "geom:area_square_m":98211118.317797,
     "geom:bbox":"91.233705,27.068912,91.364113,27.190094",
     "geom:latitude":27.133441,
     "geom:longitude":91.30163,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"BT.MO.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328477,
-    "wof:geomhash":"7600858ec298e779948d33cfb6c3c69f",
+    "wof:geomhash":"6cc88bae777b777c22b74e066a1bcbd4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108748299,
-    "wof:lastmodified":1627521898,
+    "wof:lastmodified":1695886214,
     "wof:name":"Kengkhar",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027192,
-    "geom:area_square_m":298063405.090338,
+    "geom:area_square_m":298063323.850474,
     "geom:bbox":"89.50372,27.471566,89.710512,27.673479",
     "geom:latitude":27.564888,
     "geom:longitude":89.608291,
@@ -89,12 +89,13 @@
         "hasc:id":"BT.TM.KW",
         "qs_pg:id":179776
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1459010214,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f643492fb42eb9a6c9b82b035c3bf097",
+    "wof:geomhash":"339d8b33b7dab5b0515f2115db56138a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":421205147,
-    "wof:lastmodified":1627521898,
+    "wof:lastmodified":1695886212,
     "wof:name":"Kawang",
     "wof:parent_id":85669527,
     "wof:placetype":"county",

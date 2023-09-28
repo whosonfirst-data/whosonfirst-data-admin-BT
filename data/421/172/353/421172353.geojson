@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004497,
-    "geom:area_square_m":49352791.951171,
+    "geom:area_square_m":49352791.951242,
     "geom:bbox":"89.3051262436,27.3906639574,89.4091060649,27.48386453",
     "geom:latitude":27.438438,
     "geom:longitude":89.357839,
@@ -99,12 +99,13 @@
         "hasc:id":"BT.PR.LA",
         "qs_pg:id":1306507
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1459008932,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c0afea1937b7a04ee4b2584bb40ccb04",
+    "wof:geomhash":"1fbb64f829f061018aef09e7effe47ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":421172353,
-    "wof:lastmodified":1582318821,
+    "wof:lastmodified":1695886595,
     "wof:name":"Lamgong",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

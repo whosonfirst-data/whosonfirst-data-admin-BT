@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041541,
-    "geom:area_square_m":456091492.482471,
+    "geom:area_square_m":456091830.794829,
     "geom:bbox":"91.777171,27.274827,92.125127,27.486344",
     "geom:latitude":27.386027,
     "geom:longitude":91.931089,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TA.SK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328491,
-    "wof:geomhash":"8c0a2e1026b597f96aff17cab23a52f6",
+    "wof:geomhash":"c73f3a7c1b97a65eca6d844b5833e906",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748423,
-    "wof:lastmodified":1627521902,
+    "wof:lastmodified":1695886220,
     "wof:name":"Sakteng",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

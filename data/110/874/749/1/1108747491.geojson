@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159353,
-    "geom:area_square_m":1739748060.530761,
+    "geom:area_square_m":1739748042.663174,
     "geom:bbox":"89.727742,27.751026,90.455649,28.194563",
     "geom:latitude":28.002101,
     "geom:longitude":90.063943,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"BT.GA.LN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326512,
-    "wof:geomhash":"8bf200f75e30b6e91efa7773aaa9a27b",
+    "wof:geomhash":"802be8046c89872801af537567009e36",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108747491,
-    "wof:lastmodified":1627521900,
+    "wof:lastmodified":1695886215,
     "wof:name":"Lunana",
     "wof:parent_id":85669521,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002031,
-    "geom:area_square_m":22255246.788038,
+    "geom:area_square_m":22255247.991115,
     "geom:bbox":"89.863384,27.547219,89.905706,27.615964",
     "geom:latitude":27.581557,
     "geom:longitude":89.885511,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PN.DZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326496,
-    "wof:geomhash":"4699510e56263762f55798437dd5b068",
+    "wof:geomhash":"5478ebb1c282b127975159997d74d4ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747369,
-    "wof:lastmodified":1627521896,
+    "wof:lastmodified":1695886210,
     "wof:name":"Dzoma",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

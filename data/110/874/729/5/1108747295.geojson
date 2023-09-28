@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"BT.MO.CK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326489,
     "wof:geomhash":"1d204b543d765a651ba3cd29d005d563",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108747295,
-    "wof:lastmodified":1694492837,
+    "wof:lastmodified":1695886276,
     "wof:name":"Chaskhar",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

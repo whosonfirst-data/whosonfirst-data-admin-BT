@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026489,
-    "geom:area_square_m":291288343.125776,
+    "geom:area_square_m":291288443.091262,
     "geom:bbox":"90.352442,27.136251,90.6562,27.288509",
     "geom:latitude":27.214146,
     "geom:longitude":90.499349,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TO.KP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328479,
-    "wof:geomhash":"4aeb243db0471f92fd0566ff70f0457e",
+    "wof:geomhash":"6b65cc806661133713590fc0ab118592",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748315,
-    "wof:lastmodified":1627521894,
+    "wof:lastmodified":1695886208,
     "wof:name":"Korphu",
     "wof:parent_id":85669563,
     "wof:placetype":"county",

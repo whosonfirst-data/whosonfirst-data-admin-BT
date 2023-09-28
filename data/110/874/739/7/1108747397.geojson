@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026364,
-    "geom:area_square_m":288176174.888956,
+    "geom:area_square_m":288176148.971934,
     "geom:bbox":"89.507069,27.759419,89.74247,27.97364",
     "geom:latitude":27.873183,
     "geom:longitude":89.608519,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.GA.KT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326499,
-    "wof:geomhash":"fcb9ebad2af5095cccc795b7c5df243a",
+    "wof:geomhash":"819ae1ff4a36f672861ae88b4a7bcab4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747397,
-    "wof:lastmodified":1627521897,
+    "wof:lastmodified":1695886211,
     "wof:name":"Goenkhatoe",
     "wof:parent_id":85669521,
     "wof:placetype":"county",

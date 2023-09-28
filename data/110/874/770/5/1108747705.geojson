@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002074,
-    "geom:area_square_m":22858893.146111,
+    "geom:area_square_m":22858971.14012,
     "geom:bbox":"88.945066,26.918546,89.016172,27.009977",
     "geom:latitude":26.955195,
     "geom:longitude":88.979189,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SM.NN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326536,
-    "wof:geomhash":"244e2e1e78a2f21d22d6d74e231be717",
+    "wof:geomhash":"f1261ae738699b5147d69150101bcf3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747705,
-    "wof:lastmodified":1627521907,
+    "wof:lastmodified":1695886227,
     "wof:name":"Yoeseltse",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

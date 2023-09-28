@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007298,
-    "geom:area_square_m":80149947.366802,
+    "geom:area_square_m":80149870.207134,
     "geom:bbox":"89.394193,27.299865,89.522478,27.419987",
     "geom:latitude":27.361152,
     "geom:longitude":89.466407,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PR.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328493,
-    "wof:geomhash":"56181091ccddadc27355cfeb1c54e156",
+    "wof:geomhash":"e9eab67e0302f9545a0e5e6796dbf5db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748437,
-    "wof:lastmodified":1627521903,
+    "wof:lastmodified":1695886221,
     "wof:name":"Shapa",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

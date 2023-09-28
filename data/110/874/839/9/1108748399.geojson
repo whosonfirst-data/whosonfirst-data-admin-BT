@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002958,
-    "geom:area_square_m":32439917.867325,
+    "geom:area_square_m":32439856.548165,
     "geom:bbox":"89.910933,27.485068,89.989605,27.569379",
     "geom:latitude":27.526033,
     "geom:longitude":89.949777,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.WP.PY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328489,
-    "wof:geomhash":"0acc137ccbc94abc7a36c50aadf40755",
+    "wof:geomhash":"2d2bfa9954acea8da7886cd721b1e55a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748399,
-    "wof:lastmodified":1627521902,
+    "wof:lastmodified":1695886219,
     "wof:name":"Phangyuel",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009968,
-    "geom:area_square_m":109723395.649186,
+    "geom:area_square_m":109723289.104429,
     "geom:bbox":"89.934571,27.039519,90.076062,27.150484",
     "geom:latitude":27.097724,
     "geom:longitude":90.004431,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.DA.LJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328479,
-    "wof:geomhash":"fa14927130158dfaed1e9097e1aa8a90",
+    "wof:geomhash":"8a36c9b621f6ca2ea95e884e3a425230",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748319,
-    "wof:lastmodified":1627521899,
+    "wof:lastmodified":1695886215,
     "wof:name":"Lajab",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

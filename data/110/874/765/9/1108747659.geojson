@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025101,
-    "geom:area_square_m":275141073.987446,
+    "geom:area_square_m":275141064.341378,
     "geom:bbox":"91.336141,27.47632,91.592741,27.647949",
     "geom:latitude":27.56636,
     "geom:longitude":91.470164,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TY.YG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326530,
-    "wof:geomhash":"2e37d1b665b3fbe183425aa9a4cd01af",
+    "wof:geomhash":"0b64a4074644161dc2fd5335521f65f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108747659,
-    "wof:lastmodified":1627521905,
+    "wof:lastmodified":1695886224,
     "wof:name":"Trashiyangtse",
     "wof:parent_id":85669555,
     "wof:placetype":"county",

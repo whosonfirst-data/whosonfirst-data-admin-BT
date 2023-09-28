@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006792,
-    "geom:area_square_m":74930102.237661,
+    "geom:area_square_m":74930132.186364,
     "geom:bbox":"89.415296,26.802229,89.548141,26.897439",
     "geom:latitude":26.84215,
     "geom:longitude":89.485112,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.CK.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328492,
-    "wof:geomhash":"15a1ec5e8d8527363921ad88da6997ff",
+    "wof:geomhash":"eaccfc794c03e102ffb2cce142f5cc6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748427,
-    "wof:lastmodified":1627521903,
+    "wof:lastmodified":1695886220,
     "wof:name":"Samphelling",
     "wof:parent_id":85669501,
     "wof:placetype":"county",

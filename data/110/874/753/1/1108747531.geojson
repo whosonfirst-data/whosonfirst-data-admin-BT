@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01954,
-    "geom:area_square_m":215479409.929193,
+    "geom:area_square_m":215479530.366884,
     "geom:bbox":"90.906871,26.78279,91.069559,27.009552",
     "geom:latitude":26.893392,
     "geom:longitude":90.987391,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SG.NG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326516,
-    "wof:geomhash":"c8948d2d69af17b2439fc4bb996ba3a1",
+    "wof:geomhash":"364467fa1e61fceddad690c82dc266e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747531,
-    "wof:lastmodified":1627521901,
+    "wof:lastmodified":1695886217,
     "wof:name":"Ngangla",
     "wof:parent_id":85669559,
     "wof:placetype":"county",

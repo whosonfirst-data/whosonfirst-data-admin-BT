@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008509,
-    "geom:area_square_m":93498424.938908,
+    "geom:area_square_m":93498406.168257,
     "geom:bbox":"91.6235,27.234325,91.722258,27.363743",
     "geom:latitude":27.300022,
     "geom:longitude":91.672571,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TA.SP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328494,
-    "wof:geomhash":"d2a162ba913cb914ad119fcf826ee214",
+    "wof:geomhash":"6688173ef8d988bec4e6c4638608d5cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748453,
-    "wof:lastmodified":1627521904,
+    "wof:lastmodified":1695886222,
     "wof:name":"Shongphu",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

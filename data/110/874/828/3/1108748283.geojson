@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045542,
-    "geom:area_square_m":501444826.1233,
+    "geom:area_square_m":501444816.525773,
     "geom:bbox":"90.324517,26.948102,90.694079,27.221355",
     "geom:latitude":27.069269,
     "geom:longitude":90.504814,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.GE.JM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328475,
-    "wof:geomhash":"313d600bd142fc0401b9e1e48ec22e76",
+    "wof:geomhash":"3a68158b1374680b782f82e62ef244e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748283,
-    "wof:lastmodified":1627521898,
+    "wof:lastmodified":1695886213,
     "wof:name":"Jigmichhoeling",
     "wof:parent_id":85669545,
     "wof:placetype":"county",

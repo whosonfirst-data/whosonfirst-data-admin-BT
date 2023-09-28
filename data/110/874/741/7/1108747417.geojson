@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001065,
-    "geom:area_square_m":11694548.485389,
+    "geom:area_square_m":11694566.904992,
     "geom:bbox":"89.420247,27.399789,89.487096,27.435561",
     "geom:latitude":27.420169,
     "geom:longitude":89.457916,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PR.HR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326501,
-    "wof:geomhash":"c022fc370a682b4eeb67765aedbb6bff",
+    "wof:geomhash":"5ccfcf2e053863a100b4cc964d5f54ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747417,
-    "wof:lastmodified":1627521897,
+    "wof:lastmodified":1695886212,
     "wof:name":"Hungrel",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

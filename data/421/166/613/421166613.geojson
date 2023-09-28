@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001804,
-    "geom:area_square_m":19792628.974314,
+    "geom:area_square_m":19792647.29443,
     "geom:bbox":"89.858065,27.460552,89.918668,27.521542",
     "geom:latitude":27.491544,
     "geom:longitude":89.892642,
@@ -89,12 +89,13 @@
         "hasc:id":"BT.WP.TD",
         "qs_pg:id":1248813
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1459008696,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"28c7e58d6c840f4c1b47205068811902",
+    "wof:geomhash":"98c5b33a55558a2e6dbcdb9b362f49e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":421166613,
-    "wof:lastmodified":1627521905,
+    "wof:lastmodified":1695886223,
     "wof:name":"Thedtsho",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

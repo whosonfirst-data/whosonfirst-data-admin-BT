@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017812,
-    "geom:area_square_m":195269537.635515,
+    "geom:area_square_m":195269476.049919,
     "geom:bbox":"89.360177,27.462547,89.504449,27.652252",
     "geom:latitude":27.553806,
     "geom:longitude":89.429088,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PR.DT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328467,
-    "wof:geomhash":"236bab9dffed383d3a74e7421cd169d9",
+    "wof:geomhash":"477d808df1ad85d1f1a0bdc0293ab72a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748211,
-    "wof:lastmodified":1627521895,
+    "wof:lastmodified":1695886209,
     "wof:name":"Doteng",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

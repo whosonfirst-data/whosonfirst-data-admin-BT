@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010807,
-    "geom:area_square_m":118469210.802281,
+    "geom:area_square_m":118469241.750135,
     "geom:bbox":"89.96413,27.501112,90.183139,27.63441",
     "geom:latitude":27.554792,
     "geom:longitude":90.079688,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.WP.NS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326517,
-    "wof:geomhash":"e4871285b0ef04c8a832b807cbf1efe1",
+    "wof:geomhash":"8b3f87378aeefdd1dc8f3b67465ceb29",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747543,
-    "wof:lastmodified":1627521901,
+    "wof:lastmodified":1695886218,
     "wof:name":"Nyisho",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

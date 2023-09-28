@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007395,
-    "geom:area_square_m":81467042.345531,
+    "geom:area_square_m":81467082.849169,
     "geom:bbox":"91.517893,26.941024,91.644077,27.06029",
     "geom:latitude":27.007237,
     "geom:longitude":91.574631,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SJ.GD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326499,
-    "wof:geomhash":"802df1d3a3b7199536a9bba1d625d0b3",
+    "wof:geomhash":"d2b4508552c92fe10f5b5d2bf7196d45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747401,
-    "wof:lastmodified":1627521897,
+    "wof:lastmodified":1695886211,
     "wof:name":"Gomdar",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

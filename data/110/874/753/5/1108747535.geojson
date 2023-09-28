@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012894,
-    "geom:area_square_m":142334695.289383,
+    "geom:area_square_m":142334829.794484,
     "geom:bbox":"89.857379,26.721991,90.053591,26.867304",
     "geom:latitude":26.779186,
     "geom:longitude":89.978481,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.GE.NI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326517,
-    "wof:geomhash":"cfbf05d2ff747be486e5f94686203bb1",
+    "wof:geomhash":"184b02021d9dec2fb489be3ed45ad7a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747535,
-    "wof:lastmodified":1627521901,
+    "wof:lastmodified":1695886217,
     "wof:name":"Nichula",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

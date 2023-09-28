@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035366,
-    "geom:area_square_m":386645223.315998,
+    "geom:area_square_m":386645145.63531,
     "geom:bbox":"89.330135,27.677715,89.585265,27.996897",
     "geom:latitude":27.854128,
     "geom:longitude":89.457623,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TM.LZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328481,
-    "wof:geomhash":"5918fb91e419ae7c643a2095f16a970e",
+    "wof:geomhash":"54e47bdf6d20621374de4fc20ca4a209",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108748335,
-    "wof:lastmodified":1627521899,
+    "wof:lastmodified":1695886215,
     "wof:name":"Lingzhi",
     "wof:parent_id":85669527,
     "wof:placetype":"county",

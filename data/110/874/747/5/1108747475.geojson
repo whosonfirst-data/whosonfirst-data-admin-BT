@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SJ.LR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326511,
-    "wof:geomhash":"87c98e3b8728cc2af61f6f15283461ba",
+    "wof:geomhash":"61f266db3a863d6566be8af6d73e6f8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108747475,
-    "wof:lastmodified":1566630011,
+    "wof:lastmodified":1695886271,
     "wof:name":"Lauri",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

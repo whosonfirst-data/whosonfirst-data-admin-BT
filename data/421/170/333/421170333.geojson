@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012553,
-    "geom:area_square_m":137994570.575403,
+    "geom:area_square_m":137994570.575338,
     "geom:bbox":"89.3311700822,27.1898764257,89.5210570214,27.3194223472",
     "geom:latitude":27.248444,
     "geom:longitude":89.411623,
@@ -221,12 +221,13 @@
         "hasc:id":"BT.PR.NJ",
         "qs_pg:id":1306506
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1459008849,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eb768514445fe07e1d9c6ab66e06ce8a",
+    "wof:geomhash":"ef6b2fb17583f69780c357531b91db45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -236,7 +237,7 @@
         }
     ],
     "wof:id":421170333,
-    "wof:lastmodified":1582318821,
+    "wof:lastmodified":1695886595,
     "wof:name":"Naja",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

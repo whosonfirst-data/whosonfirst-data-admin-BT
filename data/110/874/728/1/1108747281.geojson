@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017746,
-    "geom:area_square_m":195584040.550055,
+    "geom:area_square_m":195584035.40344,
     "geom:bbox":"90.984556,26.867897,91.180865,27.059906",
     "geom:latitude":26.959036,
     "geom:longitude":91.084175,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SG.BJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326488,
-    "wof:geomhash":"0c352e01b2f92895b47365ea3432f95b",
+    "wof:geomhash":"fe06d13e9a4e68d142c715533aa50c4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747281,
-    "wof:lastmodified":1627521893,
+    "wof:lastmodified":1695886207,
     "wof:name":"Bjoka",
     "wof:parent_id":85669559,
     "wof:placetype":"county",

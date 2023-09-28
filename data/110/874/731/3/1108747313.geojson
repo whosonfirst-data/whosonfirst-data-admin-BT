@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"BT.PM.CS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326491,
     "wof:geomhash":"5b76d8274ccef727fa8fe37ceeca3b2e",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108747313,
-    "wof:lastmodified":1694492838,
+    "wof:lastmodified":1695886277,
     "wof:name":"Chokhorling",
     "wof:parent_id":85669575,
     "wof:placetype":"county",

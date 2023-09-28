@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048944,
-    "geom:area_square_m":535697096.361649,
+    "geom:area_square_m":535697077.276026,
     "geom:bbox":"90.857563,27.597893,91.245801,27.84746",
     "geom:latitude":27.728362,
     "geom:longitude":91.068153,
@@ -89,12 +89,13 @@
         "hasc:id":"BT.LH.GZ",
         "qs_pg:id":1354420
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1459009162,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fc08db0fbe5625095997a5b75a4e2844",
+    "wof:geomhash":"c55e8161c8e05117c9c720aca433f389",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":421177849,
-    "wof:lastmodified":1627521896,
+    "wof:lastmodified":1695886209,
     "wof:name":"Gangzur",
     "wof:parent_id":85669549,
     "wof:placetype":"county",

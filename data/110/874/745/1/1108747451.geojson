@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004083,
-    "geom:area_square_m":44784209.146713,
+    "geom:area_square_m":44784144.28686,
     "geom:bbox":"91.512011,27.43573,91.593624,27.542715",
     "geom:latitude":27.49399,
     "geom:longitude":91.554966,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TY.KD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326504,
-    "wof:geomhash":"b6e531f28e81ec11fa5fe0fefcdd87e4",
+    "wof:geomhash":"dfe44045f28e9ae64e9faed64e210e1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747451,
-    "wof:lastmodified":1627521899,
+    "wof:lastmodified":1695886214,
     "wof:name":"Khamdang",
     "wof:parent_id":85669555,
     "wof:placetype":"county",

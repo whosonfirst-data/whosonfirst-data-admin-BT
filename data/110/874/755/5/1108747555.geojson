@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013881,
-    "geom:area_square_m":152354787.357108,
+    "geom:area_square_m":152354656.710742,
     "geom:bbox":"90.16248,27.343029,90.304577,27.511741",
     "geom:latitude":27.421515,
     "geom:longitude":90.230674,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.WP.PJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326519,
-    "wof:geomhash":"9abe4f94430cbc990b013a972832f08b",
+    "wof:geomhash":"4511059f71ccf0413f2d751eeb67bc30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747555,
-    "wof:lastmodified":1627521902,
+    "wof:lastmodified":1695886219,
     "wof:name":"Phobji",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

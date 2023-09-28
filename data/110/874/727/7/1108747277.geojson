@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010846,
-    "geom:area_square_m":118993198.951513,
+    "geom:area_square_m":118993357.464168,
     "geom:bbox":"89.944528,27.401446,90.127215,27.524973",
     "geom:latitude":27.47018,
     "geom:longitude":90.033521,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.WP.BJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326488,
-    "wof:geomhash":"e66fe6a8b845ea6b913a80a549694768",
+    "wof:geomhash":"3376fff1f01c1aa2f9d5a68d6bbde51a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747277,
-    "wof:lastmodified":1627521898,
+    "wof:lastmodified":1695886212,
     "wof:name":"Bjena",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

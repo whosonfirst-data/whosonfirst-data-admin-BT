@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009829,
-    "geom:area_square_m":108475183.769183,
+    "geom:area_square_m":108475221.828345,
     "geom:bbox":"90.542005,26.768659,90.775688,26.850063",
     "geom:latitude":26.808079,
     "geom:longitude":90.670252,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.GE.TK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328496,
-    "wof:geomhash":"73b20c4f8f020bb301b2351579ecf52e",
+    "wof:geomhash":"1cff352b89bef5632d72855964022fd9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748469,
-    "wof:lastmodified":1627521904,
+    "wof:lastmodified":1695886223,
     "wof:name":"Taklai",
     "wof:parent_id":85669545,
     "wof:placetype":"county",

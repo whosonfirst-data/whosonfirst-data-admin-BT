@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006082,
-    "geom:area_square_m":66805029.968246,
+    "geom:area_square_m":66805134.889814,
     "geom:bbox":"89.255664,27.303968,89.385598,27.385344",
     "geom:latitude":27.343509,
     "geom:longitude":89.320992,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.HA.EU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326533,
-    "wof:geomhash":"4a293d50a1aaa44a098ff7642c5ebc5f",
+    "wof:geomhash":"7c3100d4587d5c6f3760b45271645dc1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747687,
-    "wof:lastmodified":1627521906,
+    "wof:lastmodified":1695886225,
     "wof:name":"Uesu",
     "wof:parent_id":85669509,
     "wof:placetype":"county",

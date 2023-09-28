@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053945,
-    "geom:area_square_m":593509500.963656,
+    "geom:area_square_m":593509505.784349,
     "geom:bbox":"89.634339,27.035841,89.948093,27.280829",
     "geom:latitude":27.156326,
     "geom:longitude":89.785068,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.DA.TZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328502,
-    "wof:geomhash":"8a8619f57ca12ef77f1ea0fcda3b36e9",
+    "wof:geomhash":"22586c830bc416917d7c83db0ff0a579",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748509,
-    "wof:lastmodified":1627521906,
+    "wof:lastmodified":1695886226,
     "wof:name":"Tseza",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

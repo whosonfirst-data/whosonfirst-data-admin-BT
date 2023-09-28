@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02003,
-    "geom:area_square_m":219605991.475854,
+    "geom:area_square_m":219606092.828748,
     "geom:bbox":"90.972698,27.472023,91.179468,27.62281",
     "geom:latitude":27.542962,
     "geom:longitude":91.064483,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.LH.MT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326514,
-    "wof:geomhash":"df90d2c24e4120aa9872734224ac0a33",
+    "wof:geomhash":"53382ca7eda26317a6f0d750357cbd3a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747507,
-    "wof:lastmodified":1627521900,
+    "wof:lastmodified":1695886216,
     "wof:name":"Metsho",
     "wof:parent_id":85669549,
     "wof:placetype":"county",

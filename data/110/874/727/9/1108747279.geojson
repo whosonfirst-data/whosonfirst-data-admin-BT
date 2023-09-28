@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059697,
-    "geom:area_square_m":655153592.041703,
+    "geom:area_square_m":655153331.521107,
     "geom:bbox":"88.95073,27.284258,89.293976,27.613511",
     "geom:latitude":27.434395,
     "geom:longitude":89.11812,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"BT.HA.BJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326488,
-    "wof:geomhash":"2ab4640c164304155ff83084b34e2682",
+    "wof:geomhash":"49c2bd882f79cfd5960cb427a99e3606",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108747279,
-    "wof:lastmodified":1627521893,
+    "wof:lastmodified":1695886206,
     "wof:name":"Biji",
     "wof:parent_id":85669509,
     "wof:placetype":"county",

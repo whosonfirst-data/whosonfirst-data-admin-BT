@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016266,
-    "geom:area_square_m":179471651.027668,
+    "geom:area_square_m":179471528.085661,
     "geom:bbox":"91.002238,26.781255,91.270762,26.880632",
     "geom:latitude":26.837873,
     "geom:longitude":91.131332,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SJ.NB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326517,
-    "wof:geomhash":"e14c5c492629dca4129b7a83b96d6641",
+    "wof:geomhash":"ac58f67ef72f56859b7cdee30f6173a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747537,
-    "wof:lastmodified":1627521901,
+    "wof:lastmodified":1695886218,
     "wof:name":"Norbugang",
     "wof:parent_id":85669575,
     "wof:placetype":"county",

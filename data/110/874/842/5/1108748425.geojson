@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018262,
-    "geom:area_square_m":200663585.351193,
+    "geom:area_square_m":200663585.351287,
     "geom:bbox":"89.1515770436,27.2173137589,89.3666592003,27.3807169378",
     "geom:latitude":27.300152,
     "geom:longitude":89.252069,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"BT.HA.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328491,
-    "wof:geomhash":"06627273daa7b06f77aab3793af5a4bf",
+    "wof:geomhash":"40341ec41c38dc7ac778c301656151dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108748425,
-    "wof:lastmodified":1566630000,
+    "wof:lastmodified":1695886271,
     "wof:name":"Sama",
     "wof:parent_id":85669509,
     "wof:placetype":"county",

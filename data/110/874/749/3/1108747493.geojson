@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006933,
-    "geom:area_square_m":76133077.081262,
+    "geom:area_square_m":76133099.134598,
     "geom:bbox":"89.33215,27.318187,89.454364,27.441361",
     "geom:latitude":27.372483,
     "geom:longitude":89.390308,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PR.LU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326512,
-    "wof:geomhash":"0ea547350464e0b1d14e12324ab326dc",
+    "wof:geomhash":"d7e321648769315fd26dfb9ad30746cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747493,
-    "wof:lastmodified":1627521900,
+    "wof:lastmodified":1695886215,
     "wof:name":"Lungnyi",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

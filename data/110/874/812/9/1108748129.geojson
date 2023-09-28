@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003238,
-    "geom:area_square_m":35553875.871,
+    "geom:area_square_m":35553914.177207,
     "geom:bbox":"91.552797,27.346924,91.628964,27.419165",
     "geom:latitude":27.376648,
     "geom:longitude":91.595672,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TA.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328458,
-    "wof:geomhash":"e953cc0b7f8cc64753991e6c53616706",
+    "wof:geomhash":"9370d0a1777cb7c108f5d808892de0c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748129,
-    "wof:lastmodified":1627521893,
+    "wof:lastmodified":1695886207,
     "wof:name":"Bartsham",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009541,
-    "geom:area_square_m":105350184.02204,
+    "geom:area_square_m":105350033.617824,
     "geom:bbox":"89.734862,26.702016,89.863881,26.817423",
     "geom:latitude":26.753862,
     "geom:longitude":89.795737,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.GE.LG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326511,
-    "wof:geomhash":"fd5f6af7421481591d6a21cb73eb6d5e",
+    "wof:geomhash":"e6f2ed57771d13c1a370be5145350ead",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747479,
-    "wof:lastmodified":1627521899,
+    "wof:lastmodified":1695886215,
     "wof:name":"Lhamoizingkha",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

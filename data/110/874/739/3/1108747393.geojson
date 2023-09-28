@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013731,
-    "geom:area_square_m":150211761.928617,
+    "geom:area_square_m":150211854.986554,
     "geom:bbox":"89.578255,27.723609,89.739819,27.865392",
     "geom:latitude":27.784269,
     "geom:longitude":89.672285,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.GA.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326499,
-    "wof:geomhash":"15191630de039a484e277a61b183fd05",
+    "wof:geomhash":"5cbbcd7955c11a28b40c40b5e24b43b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747393,
-    "wof:lastmodified":1627521897,
+    "wof:lastmodified":1695886211,
     "wof:name":"Goenkhame",
     "wof:parent_id":85669521,
     "wof:placetype":"county",

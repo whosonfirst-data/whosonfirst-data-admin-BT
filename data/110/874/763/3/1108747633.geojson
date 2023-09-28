@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002344,
-    "geom:area_square_m":25692470.572627,
+    "geom:area_square_m":25692506.414005,
     "geom:bbox":"89.794231,27.525723,89.857382,27.585024",
     "geom:latitude":27.559149,
     "geom:longitude":89.830516,
@@ -153,9 +153,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PN.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326527,
-    "wof:geomhash":"e63f70052625c149eb8dd921c8306ac9",
+    "wof:geomhash":"c50d8972b88e861c06163ef547b61c1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1108747633,
-    "wof:lastmodified":1636495664,
+    "wof:lastmodified":1695886660,
     "wof:name":"Talo",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

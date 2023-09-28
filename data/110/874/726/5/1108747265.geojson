@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015408,
-    "geom:area_square_m":169915498.969326,
+    "geom:area_square_m":169915639.217589,
     "geom:bbox":"90.006377,26.818505,90.21536,26.986844",
     "geom:latitude":26.897657,
     "geom:longitude":90.102908,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"BT.CR.BT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326487,
-    "wof:geomhash":"44ad3f3c9b78df3ec1d6d3a73ec628be",
+    "wof:geomhash":"5188b209a72f7e2d7e67b104df9858c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108747265,
-    "wof:lastmodified":1627521893,
+    "wof:lastmodified":1695886206,
     "wof:name":"Beteni",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

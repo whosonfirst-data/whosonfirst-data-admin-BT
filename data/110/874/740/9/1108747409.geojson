@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00906,
-    "geom:area_square_m":99842112.457355,
+    "geom:area_square_m":99841925.802397,
     "geom:bbox":"90.853445,26.902098,90.984589,27.021417",
     "geom:latitude":26.967329,
     "geom:longitude":90.916843,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SG.GS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326501,
-    "wof:geomhash":"0c79eb50ff1fe463259618ec5616aced",
+    "wof:geomhash":"a0a020e533857c2aaced049141ce9fcb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747409,
-    "wof:lastmodified":1627521897,
+    "wof:lastmodified":1695886211,
     "wof:name":"Gozhing",
     "wof:parent_id":85669559,
     "wof:placetype":"county",

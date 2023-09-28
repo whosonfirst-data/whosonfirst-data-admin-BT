@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024238,
-    "geom:area_square_m":265923362.033412,
+    "geom:area_square_m":265923362.033403,
     "geom:bbox":"90.8046377715,27.3583784487,91.0126410512,27.5535713001",
     "geom:latitude":27.465531,
     "geom:longitude":90.915889,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"BT.BU.UR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326534,
-    "wof:geomhash":"75ee39b74503661e1d68f2345a2ce848",
+    "wof:geomhash":"c6e806382bf8de1035134a2cf54591ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108747693,
-    "wof:lastmodified":1566630018,
+    "wof:lastmodified":1695886271,
     "wof:name":"Ura",
     "wof:parent_id":85669537,
     "wof:placetype":"county",

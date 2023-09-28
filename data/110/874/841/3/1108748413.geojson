@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002616,
-    "geom:area_square_m":28732806.102302,
+    "geom:area_square_m":28732806.102264,
     "geom:bbox":"91.6721885251,27.3270876651,91.7446130876,27.3877090003",
     "geom:latitude":27.357115,
     "geom:longitude":91.710579,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TA.RD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328490,
-    "wof:geomhash":"088187776af8ffb68f22c3f586163f7d",
+    "wof:geomhash":"2965283a7415b8186ee77630e42135af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108748413,
-    "wof:lastmodified":1566630025,
+    "wof:lastmodified":1695886271,
     "wof:name":"Radi",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

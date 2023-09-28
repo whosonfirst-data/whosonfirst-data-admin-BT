@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00881,
-    "geom:area_square_m":97175868.479414,
+    "geom:area_square_m":97175941.142605,
     "geom:bbox":"89.874577,26.798719,90.00318,26.961891",
     "geom:latitude":26.869584,
     "geom:longitude":89.941752,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.DA.TG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328500,
-    "wof:geomhash":"1c6f2588b7bbf63154b20dc431fb781d",
+    "wof:geomhash":"55f5111b234f96ff790ab6efad07937b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748503,
-    "wof:lastmodified":1627521906,
+    "wof:lastmodified":1695886225,
     "wof:name":"Tsendagang",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

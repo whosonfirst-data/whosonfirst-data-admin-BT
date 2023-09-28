@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001338,
-    "geom:area_square_m":14735656.420914,
+    "geom:area_square_m":14735637.736695,
     "geom:bbox":"90.136443,27.021324,90.199503,27.054141",
     "geom:latitude":27.037235,
     "geom:longitude":90.166281,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.CR.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328493,
-    "wof:geomhash":"8311480f1c9d9eb6815bdc1ac0f1dc1f",
+    "wof:geomhash":"807a6fbe2b59c41d417ba45a1b0f2b50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748441,
-    "wof:lastmodified":1627521903,
+    "wof:lastmodified":1695886221,
     "wof:name":"Shemjong",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

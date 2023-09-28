@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001905,
-    "geom:area_square_m":21017347.651871,
+    "geom:area_square_m":21017348.850869,
     "geom:bbox":"90.256816,26.849888,90.317251,26.90613",
     "geom:latitude":26.873291,
     "geom:longitude":90.287075,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.GE.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328494,
-    "wof:geomhash":"17df74bf903770c3b7e05a62fe8a6b96",
+    "wof:geomhash":"710e1d8cb4c29bb78eb62adee231e7cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748451,
-    "wof:lastmodified":1627521903,
+    "wof:lastmodified":1695886221,
     "wof:name":"Shompangkha",
     "wof:parent_id":85669545,
     "wof:placetype":"county",

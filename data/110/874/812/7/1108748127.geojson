@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01918,
-    "geom:area_square_m":211126553.771766,
+    "geom:area_square_m":211126553.771873,
     "geom:bbox":"90.8350760863,26.9816497937,91.0351417464,27.2224394463",
     "geom:latitude":27.097179,
     "geom:longitude":90.964065,
@@ -110,9 +110,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SG.BD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328458,
-    "wof:geomhash":"c3abecce6b9a83d70acc2e59706f159d",
+    "wof:geomhash":"a1e0bb1a3ddf5d51c2ef31718b410376",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108748127,
-    "wof:lastmodified":1566630029,
+    "wof:lastmodified":1695886272,
     "wof:name":"Bardo",
     "wof:parent_id":85669559,
     "wof:placetype":"county",

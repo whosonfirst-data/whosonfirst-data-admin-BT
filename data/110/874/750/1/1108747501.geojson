@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04128,
-    "geom:area_square_m":453762455.524506,
+    "geom:area_square_m":453762455.524313,
     "geom:bbox":"91.7168426623,27.1443004186,92.1227122484,27.3615141652",
     "geom:latitude":27.254663,
     "geom:longitude":91.897277,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TA.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326513,
-    "wof:geomhash":"d59e031f7327750ab812087bbb850534",
+    "wof:geomhash":"0fec4b3dac15457de4b8f97cbe474a80",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108747501,
-    "wof:lastmodified":1566630021,
+    "wof:lastmodified":1695886271,
     "wof:name":"Merak",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

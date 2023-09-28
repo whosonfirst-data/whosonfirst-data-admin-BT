@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00947,
-    "geom:area_square_m":104306351.312901,
+    "geom:area_square_m":104306491.599505,
     "geom:bbox":"89.214725,26.964312,89.327953,27.08671",
     "geom:latitude":27.028678,
     "geom:longitude":89.273914,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SM.DC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328465,
-    "wof:geomhash":"6a0316cc0ec86646bf243a6aebc1c563",
+    "wof:geomhash":"6ba0d50f3f059f6ad5a2b10e69b222d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748193,
-    "wof:lastmodified":1627521895,
+    "wof:lastmodified":1695886209,
     "wof:name":"Denchhukha",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

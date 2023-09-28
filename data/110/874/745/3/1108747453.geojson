@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010378,
-    "geom:area_square_m":114396594.558181,
+    "geom:area_square_m":114396588.802224,
     "geom:bbox":"91.329961,26.874332,91.461892,27.016296",
     "geom:latitude":26.946736,
     "geom:longitude":91.395458,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PM.KR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326505,
-    "wof:geomhash":"9152fe0f0ebb86919221f200081a1e49",
+    "wof:geomhash":"dcb68b0491a8f8245f2539301be56ef3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108747453,
-    "wof:lastmodified":1627521899,
+    "wof:lastmodified":1695886214,
     "wof:name":"Khar",
     "wof:parent_id":85669575,
     "wof:placetype":"county",

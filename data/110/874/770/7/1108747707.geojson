@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002543,
-    "geom:area_square_m":28007268.195574,
+    "geom:area_square_m":28007351.088627,
     "geom:bbox":"91.315948,27.006487,91.37567,27.077383",
     "geom:latitude":27.040466,
     "geom:longitude":91.344227,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PM.YR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326536,
-    "wof:geomhash":"099c2142341181bcdf4bd7f76a6bf7ec",
+    "wof:geomhash":"77b64f5d7cd80f3df9e4d0c4223beda4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747707,
-    "wof:lastmodified":1627521907,
+    "wof:lastmodified":1695886227,
     "wof:name":"Yurung",
     "wof:parent_id":85669575,
     "wof:placetype":"county",

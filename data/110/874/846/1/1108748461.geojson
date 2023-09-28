@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002287,
-    "geom:area_square_m":25193524.601004,
+    "geom:area_square_m":25193577.446162,
     "geom:bbox":"88.870207,26.951847,88.913829,27.055783",
     "geom:latitude":26.99939,
     "geom:longitude":88.886968,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SM.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328495,
-    "wof:geomhash":"3d3f1a6b5442f6b05e9491123262389e",
+    "wof:geomhash":"f1645d1e69328bb79adaf31b207e403f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748461,
-    "wof:lastmodified":1627521904,
+    "wof:lastmodified":1695886222,
     "wof:name":"Sipsu",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011795,
-    "geom:area_square_m":129715567.68165,
+    "geom:area_square_m":129715507.986897,
     "geom:bbox":"89.51463,27.108132,89.62885,27.315521",
     "geom:latitude":27.206542,
     "geom:longitude":89.561785,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.CK.CP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326489,
-    "wof:geomhash":"f89f1e4dac56a5929305e7b39dfe56be",
+    "wof:geomhash":"55f8e73aabc4c175b1566792d74f8f24",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747291,
-    "wof:lastmodified":1627521894,
+    "wof:lastmodified":1695886207,
     "wof:name":"Chapchha",
     "wof:parent_id":85669501,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089139,
-    "geom:area_square_m":973901398.886354,
+    "geom:area_square_m":973901461.378096,
     "geom:bbox":"90.772701,27.780164,91.281204,28.065571",
     "geom:latitude":27.922843,
     "geom:longitude":91.033812,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.LH.KT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328479,
-    "wof:geomhash":"8dab30552f291387507e1f9a298c240f",
+    "wof:geomhash":"cf5f563d5e55ce11426c3771091a4c3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748317,
-    "wof:lastmodified":1627521899,
+    "wof:lastmodified":1695886215,
     "wof:name":"Kurtoe",
     "wof:parent_id":85669549,
     "wof:placetype":"county",

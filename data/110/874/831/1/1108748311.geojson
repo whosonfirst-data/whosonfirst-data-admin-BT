@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001611,
-    "geom:area_square_m":17747739.033763,
+    "geom:area_square_m":17747746.305871,
     "geom:bbox":"90.110576,26.975916,90.160013,27.027048",
     "geom:latitude":27.002466,
     "geom:longitude":90.137955,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.CR.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328478,
-    "wof:geomhash":"0cb23a4f494bca7fb9dee00f98c0693b",
+    "wof:geomhash":"e42c08b93ef71ac91efbc5006d12be73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748311,
-    "wof:lastmodified":1627521899,
+    "wof:lastmodified":1695886215,
     "wof:name":"Kikorthang",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

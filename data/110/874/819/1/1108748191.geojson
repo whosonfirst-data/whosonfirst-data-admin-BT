@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010255,
-    "geom:area_square_m":113039061.199065,
+    "geom:area_square_m":113039004.346343,
     "geom:bbox":"90.296816,26.85829,90.41752,27.012768",
     "geom:latitude":26.940761,
     "geom:longitude":90.353496,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.GE.DK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328465,
-    "wof:geomhash":"40f3c893fcfb86533a4c64489fada516",
+    "wof:geomhash":"8d259f9a2c5801ad3b712353bb21b49b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748191,
-    "wof:lastmodified":1627521895,
+    "wof:lastmodified":1695886209,
     "wof:name":"Dekiling",
     "wof:parent_id":85669545,
     "wof:placetype":"county",

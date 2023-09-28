@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008247,
-    "geom:area_square_m":91034976.322133,
+    "geom:area_square_m":91035093.34485,
     "geom:bbox":"89.812167,26.73728,89.946143,26.842127",
     "geom:latitude":26.788843,
     "geom:longitude":89.874254,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"BT.GE.DR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328465,
-    "wof:geomhash":"eb5de4b4c5be72b31f3b8d4410aad6a2",
+    "wof:geomhash":"50d01bc55ca8044a17085eaf41e3786c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108748195,
-    "wof:lastmodified":1627521895,
+    "wof:lastmodified":1695886209,
     "wof:name":"Deorali",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001179,
-    "geom:area_square_m":12986740.247449,
+    "geom:area_square_m":12986770.148437,
     "geom:bbox":"90.070853,26.995669,90.119074,27.033725",
     "geom:latitude":27.014779,
     "geom:longitude":90.092666,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.CR.TL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326533,
-    "wof:geomhash":"e7fdc9e6491467c6d6a3400b60dd740c",
+    "wof:geomhash":"e1afbb9e1fe7b276d97a4fe6e1de4f7f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747679,
-    "wof:lastmodified":1627521906,
+    "wof:lastmodified":1695886224,
     "wof:name":"Tsholingkhor",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

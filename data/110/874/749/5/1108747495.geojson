@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026954,
-    "geom:area_square_m":296974841.325646,
+    "geom:area_square_m":296974826.396597,
     "geom:bbox":"91.608464,26.890362,91.862873,27.090824",
     "geom:latitude":26.99542,
     "geom:longitude":91.735641,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SJ.MS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326513,
-    "wof:geomhash":"384edd186e3069cfbfd5c081b881f059",
+    "wof:geomhash":"4d911970414569c759b0892fe455bd71",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747495,
-    "wof:lastmodified":1627521900,
+    "wof:lastmodified":1695886216,
     "wof:name":"Martshala",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

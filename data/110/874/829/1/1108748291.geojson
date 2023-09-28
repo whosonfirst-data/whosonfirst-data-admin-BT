@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006161,
-    "geom:area_square_m":67717988.214628,
+    "geom:area_square_m":67717988.214594,
     "geom:bbox":"91.4632263478,27.2372272033,91.6064200073,27.3217180427",
     "geom:latitude":27.272903,
     "geom:longitude":91.529907,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TA.KG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328476,
-    "wof:geomhash":"9ba21a261cb7d40838b5fa123c59534e",
+    "wof:geomhash":"67cc36837b699b228cb650baf6922eaf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1108748291,
-    "wof:lastmodified":1566629997,
+    "wof:lastmodified":1695886271,
     "wof:name":"Kanglung",
     "wof:parent_id":85669583,
     "wof:placetype":"county",
