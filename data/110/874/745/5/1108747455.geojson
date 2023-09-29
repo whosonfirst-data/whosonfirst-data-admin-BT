@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008754,
-    "geom:area_square_m":96414293.77432,
+    "geom:area_square_m":96414376.890107,
     "geom:bbox":"89.893542,26.950361,90.002732,27.124993",
     "geom:latitude":27.034381,
     "geom:longitude":89.952182,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.DA.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326505,
-    "wof:geomhash":"f18eee7437b5198668c0505f240923ea",
+    "wof:geomhash":"29b24cbaf5afaa952c7c7b1eff899088",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747455,
-    "wof:lastmodified":1627521899,
+    "wof:lastmodified":1695886214,
     "wof:name":"Khipisa",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

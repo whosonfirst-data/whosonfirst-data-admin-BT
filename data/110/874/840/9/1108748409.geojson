@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01216,
-    "geom:area_square_m":134072187.852602,
+    "geom:area_square_m":134072182.544656,
     "geom:bbox":"89.274819,26.83976,89.475069,26.996252",
     "geom:latitude":26.918596,
     "geom:longitude":89.394778,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.CK.PG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328490,
-    "wof:geomhash":"3fe14ce32ce132432bc62862f663c25c",
+    "wof:geomhash":"8c53dc716c2d41d6c60bce9572c006b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748409,
-    "wof:lastmodified":1627521902,
+    "wof:lastmodified":1695886219,
     "wof:name":"Phuentsholing",
     "wof:parent_id":85669501,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010629,
-    "geom:area_square_m":117114809.342706,
+    "geom:area_square_m":117114756.085243,
     "geom:bbox":"89.011798,26.916923,89.114771,27.067821",
     "geom:latitude":26.992877,
     "geom:longitude":89.062348,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SM.CM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326489,
-    "wof:geomhash":"39c2b694825d1d39471791900f66aa50",
+    "wof:geomhash":"ff199a80194d0215e0a499263d6e5f96",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747297,
-    "wof:lastmodified":1627521894,
+    "wof:lastmodified":1695886208,
     "wof:name":"Chengmari",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070725,
-    "geom:area_square_m":777208348.05874,
+    "geom:area_square_m":777208392.48399,
     "geom:bbox":"89.963183,27.145594,90.375753,27.425596",
     "geom:latitude":27.287136,
     "geom:longitude":90.178662,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.WP.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326485,
-    "wof:geomhash":"4e2b081adaf7795cff099f7d49628991",
+    "wof:geomhash":"4d2249ddea76e89de4b4807162f38128",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747249,
-    "wof:lastmodified":1627521893,
+    "wof:lastmodified":1695886206,
     "wof:name":"Athang",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

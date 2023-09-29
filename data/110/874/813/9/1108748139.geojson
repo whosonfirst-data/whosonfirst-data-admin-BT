@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004199,
-    "geom:area_square_m":46100699.20916,
+    "geom:area_square_m":46100700.948478,
     "geom:bbox":"91.617715,27.347997,91.694056,27.436093",
     "geom:latitude":27.390819,
     "geom:longitude":91.655526,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TA.BD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328459,
-    "wof:geomhash":"625d7ea01bca5d6f57bf59f94d160d8c",
+    "wof:geomhash":"3bfdabf7f621ea6a7bbc3c4f697b5814",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748139,
-    "wof:lastmodified":1627521893,
+    "wof:lastmodified":1695886207,
     "wof:name":"Bidung",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

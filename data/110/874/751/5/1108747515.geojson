@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006195,
-    "geom:area_square_m":67980895.252707,
+    "geom:area_square_m":67980788.78438,
     "geom:bbox":"89.753757,27.406065,89.887149,27.481838",
     "geom:latitude":27.447551,
     "geom:longitude":89.810844,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"BT.WP.NH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326515,
-    "wof:geomhash":"e17f65f19a388f2908f29cf8cf5553bb",
+    "wof:geomhash":"80433e4e72039bf18aab293a059e1534",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108747515,
-    "wof:lastmodified":1627521900,
+    "wof:lastmodified":1695886217,
     "wof:name":"Nahi",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

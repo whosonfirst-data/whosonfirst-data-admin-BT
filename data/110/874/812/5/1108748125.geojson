@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017316,
-    "geom:area_square_m":190439692.123972,
+    "geom:area_square_m":190439692.124194,
     "geom:bbox":"88.746474,27.108077,88.9599993035,27.2756610281",
     "geom:latitude":27.201718,
     "geom:longitude":88.852663,
@@ -137,9 +137,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SM.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328457,
-    "wof:geomhash":"7232a519b8394bf2f711a14048b2cb87",
+    "wof:geomhash":"27d570307dc07da657ebd6d26bef3930",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1108748125,
-    "wof:lastmodified":1566630029,
+    "wof:lastmodified":1695886272,
     "wof:name":"Bara",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

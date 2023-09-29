@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010011,
-    "geom:area_square_m":110325554.643023,
+    "geom:area_square_m":110325428.341888,
     "geom:bbox":"91.182567,26.923443,91.364215,27.036084",
     "geom:latitude":26.974461,
     "geom:longitude":91.275981,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PM.DM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328469,
-    "wof:geomhash":"64a88fee69d1ecfe7b4e4e59b791526e",
+    "wof:geomhash":"289088fdb4dcc6e4b00c1b0693e1c52e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748225,
-    "wof:lastmodified":1627521896,
+    "wof:lastmodified":1695886210,
     "wof:name":"Dungmin",
     "wof:parent_id":85669575,
     "wof:placetype":"county",

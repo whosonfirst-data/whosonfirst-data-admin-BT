@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002861,
-    "geom:area_square_m":31502285.411017,
+    "geom:area_square_m":31502326.158572,
     "geom:bbox":"90.066344,27.029273,90.14071,27.085777",
     "geom:latitude":27.060223,
     "geom:longitude":90.102191,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.CR.TR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326533,
-    "wof:geomhash":"457314d7dd0cf66fdc0cb91f7485d755",
+    "wof:geomhash":"61ba77ae7d5277298fe0a292cd218573",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747681,
-    "wof:lastmodified":1627521906,
+    "wof:lastmodified":1695886225,
     "wof:name":"Tsirangtoe",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

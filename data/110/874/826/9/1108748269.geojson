@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003399,
-    "geom:area_square_m":37256287.863402,
+    "geom:area_square_m":37256178.145115,
     "geom:bbox":"89.780598,27.525822,89.877541,27.626858",
     "geom:latitude":27.582912,
     "geom:longitude":89.833309,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PN.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328473,
-    "wof:geomhash":"759cc52cb718f2a058f6792613aaae68",
+    "wof:geomhash":"36b75bfc3810a1be927aa9faebf3cd0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748269,
-    "wof:lastmodified":1627521897,
+    "wof:lastmodified":1695886212,
     "wof:name":"Guma",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

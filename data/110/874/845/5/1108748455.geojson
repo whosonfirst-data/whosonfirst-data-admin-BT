@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008423,
-    "geom:area_square_m":92727573.445014,
+    "geom:area_square_m":92727410.439684,
     "geom:bbox":"91.339912,27.007876,91.462514,27.170402",
     "geom:latitude":27.094062,
     "geom:longitude":91.393502,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PM.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328495,
-    "wof:geomhash":"c09e02aa346744869b01059d110c909f",
+    "wof:geomhash":"be6c510af78fdbc105da61ac348918a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748455,
-    "wof:lastmodified":1627521904,
+    "wof:lastmodified":1695886222,
     "wof:name":"Shumer",
     "wof:parent_id":85669575,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008128,
-    "geom:area_square_m":88966373.184194,
+    "geom:area_square_m":88966287.679633,
     "geom:bbox":"89.699145,27.661072,89.835071,27.776589",
     "geom:latitude":27.724937,
     "geom:longitude":89.772852,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PN.GE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326499,
-    "wof:geomhash":"628cbc8b608ae4f4ebb63073d7e85959",
+    "wof:geomhash":"ba575bc4ea259a0276caca9e981f0907",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747399,
-    "wof:lastmodified":1627521897,
+    "wof:lastmodified":1695886211,
     "wof:name":"Goenshari",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

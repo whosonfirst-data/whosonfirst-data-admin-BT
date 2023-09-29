@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018382,
-    "geom:area_square_m":202348150.30263,
+    "geom:area_square_m":202348044.940267,
     "geom:bbox":"89.265706,26.93568,89.466808,27.225888",
     "geom:latitude":27.095273,
     "geom:longitude":89.368217,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.CK.DU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328469,
-    "wof:geomhash":"c7ce58f8b00fcdbb94123fbf2f8b5fbc",
+    "wof:geomhash":"dc32576c662d411b190ee520c38329e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748227,
-    "wof:lastmodified":1627521896,
+    "wof:lastmodified":1695886210,
     "wof:name":"Dungna",
     "wof:parent_id":85669501,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046277,
-    "geom:area_square_m":508347642.802583,
+    "geom:area_square_m":508347554.614625,
     "geom:bbox":"90.364892,27.218925,90.749246,27.459528",
     "geom:latitude":27.331467,
     "geom:longitude":90.598116,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TO.LT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326511,
-    "wof:geomhash":"7a351c60fea594c407bef0577b02602a",
+    "wof:geomhash":"14df8f3f4b84e50862449ee0090f7740",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747473,
-    "wof:lastmodified":1627521899,
+    "wof:lastmodified":1695886214,
     "wof:name":"Langthil",
     "wof:parent_id":85669563,
     "wof:placetype":"county",

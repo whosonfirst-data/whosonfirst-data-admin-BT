@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00817,
-    "geom:area_square_m":89530740.34868,
+    "geom:area_square_m":89530725.381603,
     "geom:bbox":"91.111639,27.531798,91.219668,27.662069",
     "geom:latitude":27.594362,
     "geom:longitude":91.170563,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.LH.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326513,
-    "wof:geomhash":"f88e8908b8bfdc92fe5e610aeb406762",
+    "wof:geomhash":"f082a4d3e25a1e9ca3b110522237bff0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747497,
-    "wof:lastmodified":1627521900,
+    "wof:lastmodified":1695886216,
     "wof:name":"Menbi",
     "wof:parent_id":85669549,
     "wof:placetype":"county",

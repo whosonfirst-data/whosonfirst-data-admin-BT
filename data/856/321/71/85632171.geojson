@@ -1230,6 +1230,7 @@
         "hasc:id":"BT",
         "icao:code":"A5",
         "ioc:id":"BHU",
+        "iso:code":"BT",
         "itu:id":"BTN",
         "loc:id":"n79149023",
         "m49:code":"064",
@@ -1243,6 +1244,7 @@
         "wd:id":"Q917",
         "wk:page":"Bhutan"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:country_alpha3":"BTN",
     "wof:geom_alt":[
@@ -1266,7 +1268,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1694639596,
+    "wof:lastmodified":1695881257,
     "wof:name":"Bhutan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060959,
-    "geom:area_square_m":666503778.911228,
+    "geom:area_square_m":666503778.911197,
     "geom:bbox":"91.179790181,27.6081794583,91.4748265907,28.0710885",
     "geom:latitude":27.843195,
     "geom:longitude":91.308574,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"BT.LH.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326505,
-    "wof:geomhash":"afbe29f06f795cac4b12f8b27b832259",
+    "wof:geomhash":"73d0af6fd0ad1b79a5001e11b4ac5a1e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108747457,
-    "wof:lastmodified":1566630042,
+    "wof:lastmodified":1695886272,
     "wof:name":"Khoma",
     "wof:parent_id":85669549,
     "wof:placetype":"county",

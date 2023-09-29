@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002841,
-    "geom:area_square_m":31303363.152087,
+    "geom:area_square_m":31303366.265937,
     "geom:bbox":"91.305062,26.960612,91.398304,27.041332",
     "geom:latitude":27.004466,
     "geom:longitude":91.358164,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PM.CS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326491,
-    "wof:geomhash":"75dfb91dd50f2385127358708f39dbd3",
+    "wof:geomhash":"9b78be1be28c34c978dce23ebc77e231",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747315,
-    "wof:lastmodified":1627521894,
+    "wof:lastmodified":1695886208,
     "wof:name":"Chongshing",
     "wof:parent_id":85669575,
     "wof:placetype":"county",

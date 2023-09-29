@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077516,
-    "geom:area_square_m":848036496.704572,
+    "geom:area_square_m":848036610.640352,
     "geom:bbox":"91.343819,27.601165,91.644836,27.980017",
     "geom:latitude":27.778719,
     "geom:longitude":91.480792,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TY.BD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326488,
-    "wof:geomhash":"27825adbd1b7ba7caf8031d7421dffca",
+    "wof:geomhash":"7b86fcb116805d705ebd3c3de8dc86b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747285,
-    "wof:lastmodified":1627521894,
+    "wof:lastmodified":1695886207,
     "wof:name":"Bumdeling",
     "wof:parent_id":85669555,
     "wof:placetype":"county",

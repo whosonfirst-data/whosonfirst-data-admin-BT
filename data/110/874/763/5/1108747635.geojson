@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047656,
-    "geom:area_square_m":521922379.068793,
+    "geom:area_square_m":521922379.068568,
     "geom:bbox":"90.7788980609,27.5109268287,91.0085756161,27.8495282798",
     "geom:latitude":27.662188,
     "geom:longitude":90.88084,
@@ -104,9 +104,10 @@
     "wof:concordances":{
         "hasc:id":"BT.BU.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326527,
-    "wof:geomhash":"34693bff01042a842b3a5fc13344d927",
+    "wof:geomhash":"fe8bafe84c9d08259c57fa2131129a57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108747635,
-    "wof:lastmodified":1566629988,
+    "wof:lastmodified":1695886271,
     "wof:name":"Tang",
     "wof:parent_id":85669537,
     "wof:placetype":"county",

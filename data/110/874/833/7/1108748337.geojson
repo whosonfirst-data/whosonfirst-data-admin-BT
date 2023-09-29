@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006529,
-    "geom:area_square_m":71952958.407092,
+    "geom:area_square_m":71953045.466957,
     "geom:bbox":"89.309168,26.911636,89.427977,27.006748",
     "geom:latitude":26.964472,
     "geom:longitude":89.371509,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.CK.LO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328481,
-    "wof:geomhash":"b5963a6dec57847fd40458f8485049be",
+    "wof:geomhash":"48d6b2d8c2ac39c3e06b50055a0cf832",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748337,
-    "wof:lastmodified":1627521900,
+    "wof:lastmodified":1695886217,
     "wof:name":"Logchina",
     "wof:parent_id":85669501,
     "wof:placetype":"county",

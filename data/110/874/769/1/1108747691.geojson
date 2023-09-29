@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011179,
-    "geom:area_square_m":123266457.60249,
+    "geom:area_square_m":123266373.637894,
     "geom:bbox":"90.515823,26.819795,90.694111,26.993591",
     "geom:latitude":26.901974,
     "geom:longitude":90.613574,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.GE.UM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326534,
-    "wof:geomhash":"b24f8b916830702d8c8a4c8ade9c60b8",
+    "wof:geomhash":"35883ded96a9f4c9df5a2897cdf7e635",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747691,
-    "wof:lastmodified":1627521906,
+    "wof:lastmodified":1695886225,
     "wof:name":"Umling",
     "wof:parent_id":85669545,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019465,
-    "geom:area_square_m":214619077.702525,
+    "geom:area_square_m":214619026.852859,
     "geom:bbox":"91.880168,26.849616,92.121346,26.989833",
     "geom:latitude":26.916709,
     "geom:longitude":92.023839,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SJ.LC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326510,
-    "wof:geomhash":"1072866398452f1eb960bbf0d96627e5",
+    "wof:geomhash":"6d4a6c038194e1aefdc1c7e58ba708f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747471,
-    "wof:lastmodified":1627521899,
+    "wof:lastmodified":1695886214,
     "wof:name":"Langchhenphu",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

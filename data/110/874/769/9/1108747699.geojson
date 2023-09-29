@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008144,
-    "geom:area_square_m":89362074.342991,
+    "geom:area_square_m":89362125.244055,
     "geom:bbox":"91.584525,27.417666,91.767733,27.505568",
     "geom:latitude":27.457254,
     "geom:longitude":91.668338,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TY.YL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326535,
-    "wof:geomhash":"ceec92261df1cfc7fdcf3f6cb79efa24",
+    "wof:geomhash":"2c757cf940068c9816ece4b113f1bc0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108747699,
-    "wof:lastmodified":1627521906,
+    "wof:lastmodified":1695886225,
     "wof:name":"Yalang",
     "wof:parent_id":85669555,
     "wof:placetype":"county",

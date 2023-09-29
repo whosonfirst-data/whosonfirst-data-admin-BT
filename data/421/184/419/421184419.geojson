@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041937,
-    "geom:area_square_m":460953441.805562,
+    "geom:area_square_m":460953327.181722,
     "geom:bbox":"90.957456,27.111297,91.238638,27.398673",
     "geom:latitude":27.262994,
     "geom:longitude":91.09787,
@@ -97,12 +97,13 @@
         "qs_pg:id":996337,
         "wd:id":"Q16693964"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1459009410,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"724b578685e92ecdf06552b7b34f0db4",
+    "wof:geomhash":"e2fcf43376cc6e0f60d484ba65274263",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421184419,
-    "wof:lastmodified":1627521902,
+    "wof:lastmodified":1695886219,
     "wof:name":"Saleng",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

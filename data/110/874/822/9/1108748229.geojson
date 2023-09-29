@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004396,
-    "geom:area_square_m":48415944.295677,
+    "geom:area_square_m":48415939.682499,
     "geom:bbox":"89.110785,27.0058,89.215059,27.08664",
     "geom:latitude":27.035535,
     "geom:longitude":89.16356,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SM.DT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328469,
-    "wof:geomhash":"fadff662cfd0f69cfb38a825ae01dfb5",
+    "wof:geomhash":"6a99a2c7b606e5df939304a7cf0fd7fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748229,
-    "wof:lastmodified":1627521896,
+    "wof:lastmodified":1695886210,
     "wof:name":"Dungtoe",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

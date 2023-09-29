@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.368532,
-    "geom:area_square_m":4040456115.732226,
+    "geom:area_square_m":4040456037.629017,
     "geom:bbox":"89.709221,27.123211,90.533665,28.050484",
     "geom:latitude":27.543244,
     "geom:longitude":90.153204,
@@ -143,15 +143,17 @@
         "gn:id":1337295,
         "gp:id":2344889,
         "hasc:id":"BT.WP",
+        "iso:code":"BT-24",
         "iso:id":"BT-24",
         "qs_pg:id":221718,
         "unlc:id":"BT-24"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bde54c8e2d6198f0ab1bebcecb134683",
+    "wof:geomhash":"9671c5df42d1b5178eab772bc9fbec44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -166,7 +168,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1636495661,
+    "wof:lastmodified":1695884805,
     "wof:name":"Wangdi Phodrang",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

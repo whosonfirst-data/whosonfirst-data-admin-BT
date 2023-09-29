@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011385,
-    "geom:area_square_m":124909470.865301,
+    "geom:area_square_m":124909466.051133,
     "geom:bbox":"91.169652,27.401178,91.295081,27.534375",
     "geom:latitude":27.471192,
     "geom:longitude":91.226834,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.LH.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328501,
-    "wof:geomhash":"73c7730fcaa8fe8997d6a136555cada2",
+    "wof:geomhash":"1457858e5c64a71c11d6a2c05d93faea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748505,
-    "wof:lastmodified":1627521906,
+    "wof:lastmodified":1695886225,
     "wof:name":"Tsenkhar",
     "wof:parent_id":85669549,
     "wof:placetype":"county",

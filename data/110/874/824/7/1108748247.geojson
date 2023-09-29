@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003473,
-    "geom:area_square_m":38295411.887538,
+    "geom:area_square_m":38295398.815182,
     "geom:bbox":"89.841072,26.885026,89.932446,26.956573",
     "geom:latitude":26.919128,
     "geom:longitude":89.892078,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.DA.GS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328471,
-    "wof:geomhash":"e43dfa26c3306f2882f137a9699fdd84",
+    "wof:geomhash":"d70de85d440f29c3acb84bce75ca93d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748247,
-    "wof:lastmodified":1627521897,
+    "wof:lastmodified":1695886212,
     "wof:name":"Gesarling",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

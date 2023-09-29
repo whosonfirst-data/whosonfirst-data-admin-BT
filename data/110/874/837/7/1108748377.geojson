@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025783,
-    "geom:area_square_m":282304538.430182,
+    "geom:area_square_m":282304538.430312,
     "geom:bbox":"89.3967082199,27.5670275965,89.6570063185,27.7902823926",
     "geom:latitude":27.687175,
     "geom:longitude":89.52695,
@@ -176,9 +176,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TM.NR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328486,
-    "wof:geomhash":"aa1802553d3f7b42abf5c77fa4fce2d6",
+    "wof:geomhash":"ff410ffbacaa31aaeb0aba09854ff9b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -188,7 +189,7 @@
         }
     ],
     "wof:id":1108748377,
-    "wof:lastmodified":1566630037,
+    "wof:lastmodified":1695886272,
     "wof:name":"Naro",
     "wof:parent_id":85669527,
     "wof:placetype":"county",

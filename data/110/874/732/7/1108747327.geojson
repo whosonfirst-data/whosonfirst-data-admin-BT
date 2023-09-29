@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01235,
-    "geom:area_square_m":136172318.025883,
+    "geom:area_square_m":136172307.7461,
     "geom:bbox":"91.15555,26.84886,91.321583,26.960974",
     "geom:latitude":26.907441,
     "geom:longitude":91.240918,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SJ.DH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326492,
-    "wof:geomhash":"992eb4d3e0a599b1414f9d149b26c106",
+    "wof:geomhash":"e274e7e5a29a8f542895a0f92af37ec7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108747327,
-    "wof:lastmodified":1627521895,
+    "wof:lastmodified":1695886208,
     "wof:name":"Dechhenling",
     "wof:parent_id":-1,
     "wof:placetype":"county",

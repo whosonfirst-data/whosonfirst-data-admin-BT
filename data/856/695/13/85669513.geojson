@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116919,
-    "geom:area_square_m":1282447170.084065,
+    "geom:area_square_m":1282447068.975638,
     "geom:bbox":"89.12804,27.189876,89.550493,27.773894",
     "geom:latitude":27.49326,
     "geom:longitude":89.367828,
@@ -308,17 +308,19 @@
         "gn:id":1337286,
         "gp:id":2344880,
         "hasc:id":"BT.PR",
+        "iso:code":"BT-11",
         "iso:id":"BT-11",
         "qs_pg:id":427257,
         "unlc:id":"BT-11",
         "wd:id":"Q652784",
         "wk:page":"Paro District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01648c471caa2567923edd1377be0365",
+    "wof:geomhash":"ff48796eb3d05d726c9ec5f47ad96e4a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1690863600,
+    "wof:lastmodified":1695884806,
     "wof:name":"Paro",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

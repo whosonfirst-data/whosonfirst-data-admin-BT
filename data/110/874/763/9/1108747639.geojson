@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011967,
-    "geom:area_square_m":131661008.552311,
+    "geom:area_square_m":131661108.610148,
     "geom:bbox":"88.853502,27.083828,88.992479,27.237382",
     "geom:latitude":27.15926,
     "geom:longitude":88.927007,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SM.TN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326528,
-    "wof:geomhash":"55d273666236d144d4f4bca7acfb62e2",
+    "wof:geomhash":"fdd1ed1b2e1d2c10b41f3ccf1533326c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108747639,
-    "wof:lastmodified":1627521905,
+    "wof:lastmodified":1695886223,
     "wof:name":"Tendu",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

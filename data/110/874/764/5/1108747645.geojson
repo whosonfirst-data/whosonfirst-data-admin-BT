@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004806,
-    "geom:area_square_m":52909160.446812,
+    "geom:area_square_m":52909064.258765,
     "geom:bbox":"91.527698,27.024999,91.664796,27.175999",
     "geom:latitude":27.090277,
     "geom:longitude":91.595501,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TA.TM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326528,
-    "wof:geomhash":"43b57cb392d7ba3ed8778a662c6565f8",
+    "wof:geomhash":"72c3d71a47ea7c2a816d75137fe43990",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108747645,
-    "wof:lastmodified":1627521905,
+    "wof:lastmodified":1695886223,
     "wof:name":"Thrimshing",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

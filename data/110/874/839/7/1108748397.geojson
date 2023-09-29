@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00681,
-    "geom:area_square_m":75104185.54097,
+    "geom:area_square_m":75104364.507694,
     "geom:bbox":"91.723819,26.831818,91.814443,26.946537",
     "geom:latitude":26.888413,
     "geom:longitude":91.767039,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SJ.PM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328489,
-    "wof:geomhash":"8db9ad071eefcada0ddf084f789a5637",
+    "wof:geomhash":"37ef3ffcb64b2bb6837cc40cfea51369",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748397,
-    "wof:lastmodified":1627521902,
+    "wof:lastmodified":1695886219,
     "wof:name":"Pemathang",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

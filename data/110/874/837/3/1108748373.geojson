@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007494,
-    "geom:area_square_m":82489638.445825,
+    "geom:area_square_m":82489600.190022,
     "geom:bbox":"91.413498,27.015458,91.548618,27.178167",
     "geom:latitude":27.103472,
     "geom:longitude":91.474042,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TA.NN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328485,
-    "wof:geomhash":"b628d5be252d98a7db9ea2aaca75d1f0",
+    "wof:geomhash":"69d69ef396425958d9e1a1e654138761",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748373,
-    "wof:lastmodified":1627521901,
+    "wof:lastmodified":1695886218,
     "wof:name":"Nanong",
     "wof:parent_id":85669575,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009682,
-    "geom:area_square_m":106390774.259459,
+    "geom:area_square_m":106390757.956371,
     "geom:bbox":"89.41895,27.226515,89.550493,27.362874",
     "geom:latitude":27.292142,
     "geom:longitude":89.495992,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PR.DG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326494,
-    "wof:geomhash":"d7d4c094558832d29064a69ae05677a4",
+    "wof:geomhash":"d5bfd6a393541b1da9ea08563949b778",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108747339,
-    "wof:lastmodified":1627521895,
+    "wof:lastmodified":1695886208,
     "wof:name":"Doga",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

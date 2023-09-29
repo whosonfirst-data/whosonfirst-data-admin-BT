@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002189,
-    "geom:area_square_m":24012417.881761,
+    "geom:area_square_m":24012413.863014,
     "geom:bbox":"89.816974,27.476642,89.890568,27.53015",
     "geom:latitude":27.501833,
     "geom:longitude":89.857776,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TM.BP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328457,
-    "wof:geomhash":"1c5d62ee5d39d6d4d2d097528cfc5cb1",
+    "wof:geomhash":"293d7e8a2030779d1ab8e877911325ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748123,
-    "wof:lastmodified":1627521893,
+    "wof:lastmodified":1695886207,
     "wof:name":"Bapisa",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

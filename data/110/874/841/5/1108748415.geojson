@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002075,
-    "geom:area_square_m":22779685.217036,
+    "geom:area_square_m":22779676.087932,
     "geom:bbox":"91.550827,27.380633,91.612069,27.439924",
     "geom:latitude":27.409561,
     "geom:longitude":91.578756,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TY.RJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328490,
-    "wof:geomhash":"dee877e1073e19592717a20046860d79",
+    "wof:geomhash":"aaac5a4da1c5a5549058d053cff94a1e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748415,
-    "wof:lastmodified":1627521902,
+    "wof:lastmodified":1695886220,
     "wof:name":"Ramjar",
     "wof:parent_id":85669555,
     "wof:placetype":"county",

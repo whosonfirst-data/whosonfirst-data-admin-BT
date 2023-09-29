@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101221,
-    "geom:area_square_m":1107329373.912746,
+    "geom:area_square_m":1107329379.204097,
     "geom:bbox":"90.19523,27.476364,90.533665,28.050484",
     "geom:latitude":27.782563,
     "geom:longitude":90.355339,
@@ -89,12 +89,13 @@
         "hasc:id":"BT.WP.SP",
         "qs_pg:id":986970
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1459009396,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a61e8bb1e0cf6806cc4d48b3c4394865",
+    "wof:geomhash":"2d3c14f5f089956627a4a3071ee98f0c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":421183967,
-    "wof:lastmodified":1627521903,
+    "wof:lastmodified":1695886220,
     "wof:name":"Sephu",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002298,
-    "geom:area_square_m":25326272.258513,
+    "geom:area_square_m":25326207.258669,
     "geom:bbox":"90.066563,26.95944,90.141625,27.005726",
     "geom:latitude":26.980903,
     "geom:longitude":90.100123,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.CR.RT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328491,
-    "wof:geomhash":"f378929e14095c40efc82ff194810465",
+    "wof:geomhash":"3093350813a0b3085cc867d615d34820",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748417,
-    "wof:lastmodified":1627521902,
+    "wof:lastmodified":1695886220,
     "wof:name":"Rangthangling",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

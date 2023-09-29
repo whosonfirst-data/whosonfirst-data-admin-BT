@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052212,
-    "geom:area_square_m":572069481.317026,
+    "geom:area_square_m":572069475.8168,
     "geom:bbox":"89.12804,27.432115,89.42303,27.773894",
     "geom:latitude":27.614896,
     "geom:longitude":89.288587,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PR.TT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328501,
-    "wof:geomhash":"a82bab59c3789a9b9f07a3e54e81cb73",
+    "wof:geomhash":"bb8f1039876c3bb9a72c18fb31ace5ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748507,
-    "wof:lastmodified":1627521906,
+    "wof:lastmodified":1695886226,
     "wof:name":"Tsento",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

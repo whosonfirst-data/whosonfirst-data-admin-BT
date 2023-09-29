@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009468,
-    "geom:area_square_m":104340312.474722,
+    "geom:area_square_m":104340315.413111,
     "geom:bbox":"89.107321,26.919031,89.27288,27.023002",
     "geom:latitude":26.969999,
     "geom:longitude":89.197003,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SM.DK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326494,
-    "wof:geomhash":"45aaf1b0223e9ddcec74a76707a48fa6",
+    "wof:geomhash":"1596f806d6026d8edd7f700f42ca648b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747345,
-    "wof:lastmodified":1627521895,
+    "wof:lastmodified":1695886209,
     "wof:name":"Dorokha",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

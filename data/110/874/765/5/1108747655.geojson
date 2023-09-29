@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005901,
-    "geom:area_square_m":64746171.834427,
+    "geom:area_square_m":64746234.322757,
     "geom:bbox":"91.434791,27.41003,91.571611,27.493537",
     "geom:latitude":27.456734,
     "geom:longitude":91.502308,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TY.TZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326529,
-    "wof:geomhash":"7646612ded95009976c65d5e85f8ca7c",
+    "wof:geomhash":"b84100ccb48e26d5a8f4236056311ba9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747655,
-    "wof:lastmodified":1627521905,
+    "wof:lastmodified":1695886224,
     "wof:name":"Tomzhangtshen",
     "wof:parent_id":85669555,
     "wof:placetype":"county",

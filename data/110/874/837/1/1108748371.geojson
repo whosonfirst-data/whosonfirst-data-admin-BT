@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044681,
-    "geom:area_square_m":491379054.975061,
+    "geom:area_square_m":491379035.257639,
     "geom:bbox":"90.695696,27.017718,90.898495,27.388318",
     "geom:latitude":27.203596,
     "geom:longitude":90.802911,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SG.NK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328485,
-    "wof:geomhash":"790b2465ecd7f3bf285e2ca470b837af",
+    "wof:geomhash":"0ff2355653079d7d286cb4dc101bf4d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748371,
-    "wof:lastmodified":1627521901,
+    "wof:lastmodified":1695886218,
     "wof:name":"Nangkor",
     "wof:parent_id":85669559,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038035,
-    "geom:area_square_m":416256478.577707,
+    "geom:area_square_m":416256397.674354,
     "geom:bbox":"89.800258,27.609995,90.067271,27.862356",
     "geom:latitude":27.740735,
     "geom:longitude":89.933042,
@@ -89,12 +89,13 @@
         "hasc:id":"BT.PN.TO",
         "qs_pg:id":1306510
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1459010185,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bc9244e209fa6f76f62bcf92bd731987",
+    "wof:geomhash":"92424a404180f531d541c1f7d89b4b1a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":421204395,
-    "wof:lastmodified":1627521905,
+    "wof:lastmodified":1695886223,
     "wof:name":"Toewang",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

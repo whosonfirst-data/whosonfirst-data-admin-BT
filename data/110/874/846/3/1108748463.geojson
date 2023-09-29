@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016328,
-    "geom:area_square_m":178623205.429839,
+    "geom:area_square_m":178623264.94943,
     "geom:bbox":"89.223622,27.717403,89.415109,27.857423",
     "geom:latitude":27.782369,
     "geom:longitude":89.318311,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TM.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328495,
-    "wof:geomhash":"10aec22b0ea302a45f5b3336f07a4005",
+    "wof:geomhash":"c6f137b03f79266e5bfd6f465bc1f016",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108748463,
-    "wof:lastmodified":1627521904,
+    "wof:lastmodified":1695886222,
     "wof:name":"Soe",
     "wof:parent_id":85669527,
     "wof:placetype":"county",

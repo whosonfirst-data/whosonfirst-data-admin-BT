@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011678,
-    "geom:area_square_m":128822220.350691,
+    "geom:area_square_m":128822169.8753,
     "geom:bbox":"91.597393,26.809059,91.759917,26.926018",
     "geom:latitude":26.859326,
     "geom:longitude":91.677987,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SJ.PS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328490,
-    "wof:geomhash":"65bd846f1a934d3859fba59ab3c02863",
+    "wof:geomhash":"543ffe00f9a9111d32f1209ca467652f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748411,
-    "wof:lastmodified":1627521902,
+    "wof:lastmodified":1695886219,
     "wof:name":"Phuntsthothang",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

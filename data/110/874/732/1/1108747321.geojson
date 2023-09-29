@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012358,
-    "geom:area_square_m":136402422.457629,
+    "geom:area_square_m":136402422.457903,
     "geom:bbox":"89.5220823306,26.717506,89.7490764282,26.9109934325",
     "geom:latitude":26.797928,
     "geom:longitude":89.629495,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"BT.CK.DG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326492,
-    "wof:geomhash":"6ca38905d2f4512fc3cf701f9b747494",
+    "wof:geomhash":"04b944d78169f9cfecad5a83a11c6932",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108747321,
-    "wof:lastmodified":1566630020,
+    "wof:lastmodified":1695886271,
     "wof:name":"Dala",
     "wof:parent_id":85669501,
     "wof:placetype":"county",

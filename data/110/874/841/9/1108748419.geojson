@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014563,
-    "geom:area_square_m":159870260.520769,
+    "geom:area_square_m":159870100.276487,
     "geom:bbox":"89.897468,27.303914,90.032559,27.493725",
     "geom:latitude":27.401413,
     "geom:longitude":89.95493,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.WP.RB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328491,
-    "wof:geomhash":"be2ff7a3c5947401ddddc5b3cae1f490",
+    "wof:geomhash":"83a10b19362d835586b25b5c23df6b63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748419,
-    "wof:lastmodified":1627521902,
+    "wof:lastmodified":1695886220,
     "wof:name":"Ruepisa",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

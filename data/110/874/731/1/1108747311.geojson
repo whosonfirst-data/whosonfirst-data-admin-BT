@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001937,
-    "geom:area_square_m":21369269.825289,
+    "geom:area_square_m":21369183.111373,
     "geom:bbox":"90.501726,26.838111,90.551138,26.9129",
     "geom:latitude":26.87356,
     "geom:longitude":90.521461,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.GE.CZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326491,
-    "wof:geomhash":"9a574c8750e5a73ac72b3622e820f0c7",
+    "wof:geomhash":"9e9833a4bcf09acc5c05663da83b43cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747311,
-    "wof:lastmodified":1627521894,
+    "wof:lastmodified":1695886208,
     "wof:name":"Chhuzagang",
     "wof:parent_id":85669545,
     "wof:placetype":"county",

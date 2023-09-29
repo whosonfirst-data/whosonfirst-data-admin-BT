@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003749,
-    "geom:area_square_m":41152876.499038,
+    "geom:area_square_m":41152751.59379,
     "geom:bbox":"89.24128,27.367166,89.33226,27.4433",
     "geom:latitude":27.398544,
     "geom:longitude":89.288608,
@@ -100,12 +100,13 @@
         "qs_pg:id":213436,
         "wd:id":"Q6378025"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1459008816,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0e4667911f0123410b4d76e6ee7a03c8",
+    "wof:geomhash":"b18dc90e0149cc1045ec782b50f20f82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":421169587,
-    "wof:lastmodified":1690863603,
+    "wof:lastmodified":1695886212,
     "wof:name":"Katsho",
     "wof:parent_id":85669509,
     "wof:placetype":"county",

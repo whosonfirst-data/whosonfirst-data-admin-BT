@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019008,
-    "geom:area_square_m":208754267.58503,
+    "geom:area_square_m":208754320.721624,
     "geom:bbox":"89.709221,27.269281,89.916367,27.420479",
     "geom:latitude":27.355755,
     "geom:longitude":89.806909,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.WP.GW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328470,
-    "wof:geomhash":"a436962bbc91082e37efdcee78bf9aac",
+    "wof:geomhash":"0189cea6cfba4aca937d9f291b86a634",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748237,
-    "wof:lastmodified":1627521896,
+    "wof:lastmodified":1695886210,
     "wof:name":"Gasetsho Om",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

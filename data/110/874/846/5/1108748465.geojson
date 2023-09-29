@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046294,
-    "geom:area_square_m":509059512.230134,
+    "geom:area_square_m":509059527.51732,
     "geom:bbox":"88.907513,27.072105,89.233163,27.337657",
     "geom:latitude":27.216608,
     "geom:longitude":89.074829,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.HA.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328496,
-    "wof:geomhash":"5b2a6fe6b7bf9123fa7f179bf0bb5188",
+    "wof:geomhash":"2f3d2d8490d05ca9f66ce97306ed30b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748465,
-    "wof:lastmodified":1627521904,
+    "wof:lastmodified":1695886222,
     "wof:name":"Sombey",
     "wof:parent_id":85669509,
     "wof:placetype":"county",

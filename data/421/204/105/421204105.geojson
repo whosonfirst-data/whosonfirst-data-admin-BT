@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139707,
-    "geom:area_square_m":1527899830.594995,
+    "geom:area_square_m":1527900160.763131,
     "geom:bbox":"90.479833,27.491521,90.84576,28.080781",
     "geom:latitude":27.814998,
     "geom:longitude":90.669805,
@@ -89,12 +89,13 @@
         "hasc:id":"BT.BU.CK",
         "qs_pg:id":238072
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1459010174,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f605c3d3ce14e3fd807c388fa6ba61c9",
+    "wof:geomhash":"84ae759724326a8c8350bc631ddb2636",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":421204105,
-    "wof:lastmodified":1627521894,
+    "wof:lastmodified":1695886207,
     "wof:name":"Chhoekhor",
     "wof:parent_id":85669537,
     "wof:placetype":"county",

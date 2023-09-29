@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002267,
-    "geom:area_square_m":24911967.679316,
+    "geom:area_square_m":24912043.818287,
     "geom:bbox":"91.191311,27.259001,91.279242,27.33028",
     "geom:latitude":27.305092,
     "geom:longitude":91.233138,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.MO.CL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326490,
-    "wof:geomhash":"ee0aff74d00ad646318bc4a43720d06c",
+    "wof:geomhash":"2ccebdf4fb94067c5569d587513e606c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747299,
-    "wof:lastmodified":1627521894,
+    "wof:lastmodified":1695886208,
     "wof:name":"Chhali",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

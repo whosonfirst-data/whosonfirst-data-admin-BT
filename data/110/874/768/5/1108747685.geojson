@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009078,
-    "geom:area_square_m":99818608.201288,
+    "geom:area_square_m":99818484.541128,
     "geom:bbox":"91.375384,27.164942,91.517806,27.288252",
     "geom:latitude":27.224074,
     "geom:longitude":91.439309,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TA.UZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326533,
-    "wof:geomhash":"97c4690d63b0f2456ea01fbe5201a166",
+    "wof:geomhash":"cfd1827cdf9f3538c97367f7485eec65",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747685,
-    "wof:lastmodified":1627521906,
+    "wof:lastmodified":1695886225,
     "wof:name":"Udzorong",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

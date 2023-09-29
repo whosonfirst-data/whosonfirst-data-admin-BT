@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01258,
-    "geom:area_square_m":137877330.934567,
+    "geom:area_square_m":137877299.457724,
     "geom:bbox":"91.191626,27.51387,91.337593,27.652176",
     "geom:latitude":27.580166,
     "geom:longitude":91.261037,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.LH.MJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326514,
-    "wof:geomhash":"8267cd9d56d047d9b9bdaeff1f930807",
+    "wof:geomhash":"e9a616bdc3eb7e4bd973548c2c021974",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747511,
-    "wof:lastmodified":1627521900,
+    "wof:lastmodified":1695886216,
     "wof:name":"Minjay",
     "wof:parent_id":85669549,
     "wof:placetype":"county",

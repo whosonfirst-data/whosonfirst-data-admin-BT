@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010545,
-    "geom:area_square_m":116266444.037655,
+    "geom:area_square_m":116266553.37112,
     "geom:bbox":"89.046764,26.853272,89.199432,26.988273",
     "geom:latitude":26.915734,
     "geom:longitude":89.126824,
@@ -98,9 +98,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SM.SG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328492,
-    "wof:geomhash":"994c98330889ab5b75d594b3b5a8b9f3",
+    "wof:geomhash":"61afd1a9fe8658ae5efae455479364d4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108748431,
-    "wof:lastmodified":1627521903,
+    "wof:lastmodified":1695886220,
     "wof:name":"Samtse",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

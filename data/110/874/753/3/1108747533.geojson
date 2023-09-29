@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006569,
-    "geom:area_square_m":72162159.74614,
+    "geom:area_square_m":72162022.371376,
     "geom:bbox":"91.260008,27.275195,91.386422,27.38065",
     "geom:latitude":27.323013,
     "geom:longitude":91.318336,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.MO.NG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326517,
-    "wof:geomhash":"52b55b461d6bb456871f4980556dc029",
+    "wof:geomhash":"ebb61f849a4d92f79b3bfcc13f427b65",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747533,
-    "wof:lastmodified":1627521901,
+    "wof:lastmodified":1695886217,
     "wof:name":"Ngatshang",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

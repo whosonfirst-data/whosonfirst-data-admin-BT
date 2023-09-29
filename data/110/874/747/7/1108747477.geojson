@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087958,
-    "geom:area_square_m":959737284.17532,
+    "geom:area_square_m":959737273.555547,
     "geom:bbox":"89.451154,27.895069,89.898225,28.246987",
     "geom:latitude":28.064004,
     "geom:longitude":89.708189,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"BT.GA.LY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326511,
-    "wof:geomhash":"823f49b849f037e4370267b38d084d64",
+    "wof:geomhash":"f1fcb55e26aec3f3430fc6e9c711995e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108747477,
-    "wof:lastmodified":1627521899,
+    "wof:lastmodified":1695886214,
     "wof:name":"Laya",
     "wof:parent_id":85669521,
     "wof:placetype":"county",

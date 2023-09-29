@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101657,
-    "geom:area_square_m":1113316564.950751,
+    "geom:area_square_m":1113316515.899325,
     "geom:bbox":"89.632702,27.467102,90.067271,27.862356",
     "geom:latitude":27.66352,
     "geom:longitude":89.85011,
@@ -296,17 +296,19 @@
         "gn:id":1337288,
         "gp:id":2344882,
         "hasc:id":"BT.PN",
+        "iso:code":"BT-23",
         "iso:id":"BT-23",
         "qs_pg:id":1285054,
         "unlc:id":"BT-23",
         "wd:id":"Q587062",
         "wk:page":"Punakha District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ccc3dc1c7ce8186109a63851b78bc43f",
+    "wof:geomhash":"735b3090356650c6ae8688247e3d3002",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -321,7 +323,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1690863597,
+    "wof:lastmodified":1695884805,
     "wof:name":"Punakha",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

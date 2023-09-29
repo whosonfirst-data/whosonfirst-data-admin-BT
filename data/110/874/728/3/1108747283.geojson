@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036169,
-    "geom:area_square_m":398751397.899077,
+    "geom:area_square_m":398751397.89914,
     "geom:bbox":"89.5020232151,26.7661177333,89.7579561057,27.0801963782",
     "geom:latitude":26.925249,
     "geom:longitude":89.629389,
@@ -113,9 +113,10 @@
     "wof:concordances":{
         "hasc:id":"BT.CK.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326488,
-    "wof:geomhash":"38e823d58a6918ff373efb826b7ffeb5",
+    "wof:geomhash":"f93c8e65f0446a34aa406b623848af82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108747283,
-    "wof:lastmodified":1566630041,
+    "wof:lastmodified":1695886272,
     "wof:name":"Bongo",
     "wof:parent_id":85669501,
     "wof:placetype":"county",

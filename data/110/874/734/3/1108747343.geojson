@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003023,
-    "geom:area_square_m":33176538.598395,
+    "geom:area_square_m":33176604.988591,
     "geom:bbox":"89.395951,27.425821,89.482877,27.478548",
     "geom:latitude":27.450208,
     "geom:longitude":89.442276,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PR.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326494,
-    "wof:geomhash":"b99c64219a4aa6818200421bbe76fc43",
+    "wof:geomhash":"fcb6c9d165b53aa962c30b3fe3ea9bc5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747343,
-    "wof:lastmodified":1627521895,
+    "wof:lastmodified":1695886209,
     "wof:name":"Dopshari",
     "wof:parent_id":85669513,
     "wof:placetype":"county",

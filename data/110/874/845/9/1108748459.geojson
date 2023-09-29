@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014594,
-    "geom:area_square_m":160619001.620128,
+    "geom:area_square_m":160619043.741622,
     "geom:bbox":"91.003653,27.037777,91.187747,27.204109",
     "geom:latitude":27.122262,
     "geom:longitude":91.074656,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.MO.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328495,
-    "wof:geomhash":"aa406adae3c8fbf14732083ac55925d6",
+    "wof:geomhash":"a5514e2a36f23d98adcc18fa4cb956e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748459,
-    "wof:lastmodified":1627521904,
+    "wof:lastmodified":1695886222,
     "wof:name":"Silambi",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

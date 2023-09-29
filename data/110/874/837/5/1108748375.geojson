@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004496,
-    "geom:area_square_m":49405912.860705,
+    "geom:area_square_m":49405958.603148,
     "geom:bbox":"91.378315,27.257673,91.484681,27.347312",
     "geom:latitude":27.301218,
     "geom:longitude":91.42764,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.MO.CK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328486,
-    "wof:geomhash":"bfdc7f5cfd5100dbf8fb483396d1b813",
+    "wof:geomhash":"0e0b76681354b59e922787fcd271b626",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748375,
-    "wof:lastmodified":1627521901,
+    "wof:lastmodified":1695886218,
     "wof:name":"Narang",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

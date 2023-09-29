@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004241,
-    "geom:area_square_m":46724944.803598,
+    "geom:area_square_m":46724929.913109,
     "geom:bbox":"90.153247,26.978437,90.247542,27.043497",
     "geom:latitude":27.009533,
     "geom:longitude":90.203119,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.CR.DG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328468,
-    "wof:geomhash":"5eacb9547a28a19ee2dcc6be9f6f90f1",
+    "wof:geomhash":"d1327e364cf6ac6eb2ceee45d2ba34dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748221,
-    "wof:lastmodified":1627521896,
+    "wof:lastmodified":1695886210,
     "wof:name":"Dunglegang",
     "wof:parent_id":85669541,
     "wof:placetype":"county",

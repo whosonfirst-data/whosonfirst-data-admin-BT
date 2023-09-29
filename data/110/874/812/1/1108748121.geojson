@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002526,
-    "geom:area_square_m":27750870.9139,
+    "geom:area_square_m":27750964.373684,
     "geom:bbox":"91.358449,27.307553,91.431198,27.388205",
     "geom:latitude":27.339568,
     "geom:longitude":91.399645,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"BT.MO.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328457,
-    "wof:geomhash":"ae9c3b473cd7c7dd39da7807a71a5dd7",
+    "wof:geomhash":"fe35a25fc5ebe81007f74943200c8012",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108748121,
-    "wof:lastmodified":1627521893,
+    "wof:lastmodified":1695886207,
     "wof:name":"Balam",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

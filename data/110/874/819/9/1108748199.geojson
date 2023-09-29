@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020182,
-    "geom:area_square_m":222247720.868954,
+    "geom:area_square_m":222247914.336961,
     "geom:bbox":"90.243098,26.961924,90.474435,27.150403",
     "geom:latitude":27.054825,
     "geom:longitude":90.343303,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.GE.DV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328466,
-    "wof:geomhash":"7c6cb6099957b1d0be58cce82b064954",
+    "wof:geomhash":"8a289285a1c1e25d157e2011612d623f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748199,
-    "wof:lastmodified":1627521895,
+    "wof:lastmodified":1695886209,
     "wof:name":"Doban",
     "wof:parent_id":85669545,
     "wof:placetype":"county",

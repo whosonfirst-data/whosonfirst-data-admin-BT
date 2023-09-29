@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.171016,
-    "geom:area_square_m":1884367942.403504,
+    "geom:area_square_m":1884368038.608677,
     "geom:bbox":"89.265706,26.717506,89.824569,27.315521",
     "geom:latitude":26.987266,
     "geom:longitude":89.544814,
@@ -300,17 +300,19 @@
         "gn:id":1337279,
         "gp:id":2344873,
         "hasc:id":"BT.CK",
+        "iso:code":"BT-12",
         "iso:id":"BT-12",
         "qs_pg:id":1168619,
         "unlc:id":"BT-12",
         "wd:id":"Q652754",
         "wk:page":"Chukha District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1734baeed8602c2a8c41596c215c5061",
+    "wof:geomhash":"b58923e7647ef53553339cd73aa5fbdb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -325,7 +327,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1690863598,
+    "wof:lastmodified":1695884338,
     "wof:name":"Chhukha",
     "wof:parent_id":85632171,
     "wof:placetype":"region",

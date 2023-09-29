@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001704,
-    "geom:area_square_m":18783352.511859,
+    "geom:area_square_m":18783354.640382,
     "geom:bbox":"88.984422,26.919713,89.025532,26.995299",
     "geom:latitude":26.956704,
     "geom:longitude":89.00524,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SM.GH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326534,
-    "wof:geomhash":"06da5149b83289a7879bbe6727f0d641",
+    "wof:geomhash":"ac43ec6727b073de8da311b6827a06fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747689,
-    "wof:lastmodified":1627521896,
+    "wof:lastmodified":1695886210,
     "wof:name":"Ugentse",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

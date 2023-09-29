@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001978,
-    "geom:area_square_m":21803508.634486,
+    "geom:area_square_m":21803566.58831,
     "geom:bbox":"89.904166,26.90545,89.956885,26.967847",
     "geom:latitude":26.939067,
     "geom:longitude":89.935438,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.DA.GZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326500,
-    "wof:geomhash":"dd719ecd52d079c5073d11f7cd77502a",
+    "wof:geomhash":"8eff4c24a78b23fa74873752cc5b1902",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747407,
-    "wof:lastmodified":1627521897,
+    "wof:lastmodified":1695886211,
     "wof:name":"Gozhi",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

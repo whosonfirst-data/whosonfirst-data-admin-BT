@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014279,
-    "geom:area_square_m":156688532.766737,
+    "geom:area_square_m":156688532.766749,
     "geom:bbox":"89.5677082203,27.359807481,89.7618445056,27.52480362",
     "geom:latitude":27.446886,
     "geom:longitude":89.676154,
@@ -104,9 +104,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TM.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326489,
-    "wof:geomhash":"f91fdab18a37f9e388b357a8a864daf8",
+    "wof:geomhash":"89424566211689e32d64d9c5f591279b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108747289,
-    "wof:lastmodified":1566630041,
+    "wof:lastmodified":1695886272,
     "wof:name":"Chang",
     "wof:parent_id":85669527,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004722,
-    "geom:area_square_m":51922685.516255,
+    "geom:area_square_m":51922665.189199,
     "geom:bbox":"91.198528,27.171602,91.304396,27.241177",
     "geom:latitude":27.210969,
     "geom:longitude":91.254678,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.MO.DP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326495,
-    "wof:geomhash":"436cd96ddff361715dfc79c0b7e43e54",
+    "wof:geomhash":"3572d126cd277cc4c10e2b0436379a4b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747355,
-    "wof:lastmodified":1627521896,
+    "wof:lastmodified":1695886209,
     "wof:name":"Drepung",
     "wof:parent_id":85669571,
     "wof:placetype":"county",

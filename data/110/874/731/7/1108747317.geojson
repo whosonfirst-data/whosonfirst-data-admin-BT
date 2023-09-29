@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018573,
-    "geom:area_square_m":204104659.039884,
+    "geom:area_square_m":204104805.549867,
     "geom:bbox":"89.576517,27.145278,89.762991,27.430064",
     "geom:latitude":27.284561,
     "geom:longitude":89.667635,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TM.DG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326492,
-    "wof:geomhash":"fb7264a6c737a6bc89e8df6253edbdf5",
+    "wof:geomhash":"ccfe1622ef37b3bc21d3cdaafb77c3df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747317,
-    "wof:lastmodified":1627521894,
+    "wof:lastmodified":1695886208,
     "wof:name":"Dagala",
     "wof:parent_id":85669527,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011557,
-    "geom:area_square_m":127251148.45354,
+    "geom:area_square_m":127250958.539198,
     "geom:bbox":"88.898899,26.986871,89.067883,27.142617",
     "geom:latitude":27.068028,
     "geom:longitude":88.984334,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SM.LH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326515,
-    "wof:geomhash":"e4622b3f7bbe92ddec6999fc16e0d8cb",
+    "wof:geomhash":"b38575bcf55240f13ae1e25767fda7b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747519,
-    "wof:lastmodified":1627521901,
+    "wof:lastmodified":1695886217,
     "wof:name":"Namgyel Chhoeling",
     "wof:parent_id":85669523,
     "wof:placetype":"county",

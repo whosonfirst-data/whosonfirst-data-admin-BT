@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013004,
-    "geom:area_square_m":143345880.669007,
+    "geom:area_square_m":143345798.169589,
     "geom:bbox":"90.195682,26.854325,90.325189,27.010298",
     "geom:latitude":26.939988,
     "geom:longitude":90.258474,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.GE.HL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326501,
-    "wof:geomhash":"72915cc173a70ee10e45b5cf8fef3f98",
+    "wof:geomhash":"e65fc42c1e5f1c12057ac60474a4420f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747415,
-    "wof:lastmodified":1627521897,
+    "wof:lastmodified":1695886211,
     "wof:name":"Hiley",
     "wof:parent_id":85669545,
     "wof:placetype":"county",

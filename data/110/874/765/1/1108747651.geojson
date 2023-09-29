@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004506,
-    "geom:area_square_m":49416848.605519,
+    "geom:area_square_m":49416959.058501,
     "geom:bbox":"91.559206,27.46455,91.651475,27.546055",
     "geom:latitude":27.502322,
     "geom:longitude":91.602152,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TY.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326529,
-    "wof:geomhash":"db5675379a8794b02bdfee5a74f41fea",
+    "wof:geomhash":"dd0b40d7637d9bb2b73c9192a34c3f1b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747651,
-    "wof:lastmodified":1627521905,
+    "wof:lastmodified":1695886223,
     "wof:name":"Toetsho",
     "wof:parent_id":85669555,
     "wof:placetype":"county",

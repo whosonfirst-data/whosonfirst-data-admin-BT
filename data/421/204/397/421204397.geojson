@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00837,
-    "geom:area_square_m":91660045.163333,
+    "geom:area_square_m":91660210.187963,
     "geom:bbox":"89.772863,27.588283,89.897564,27.741613",
     "geom:latitude":27.665916,
     "geom:longitude":89.836626,
@@ -112,12 +112,13 @@
         "qs_pg:id":1306511,
         "wd:id":"Q969481"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1459010185,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e581efe39691adb01975c85ce0f19faf",
+    "wof:geomhash":"116358be9b5e108c2e4319717e6de25f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":421204397,
-    "wof:lastmodified":1690863603,
+    "wof:lastmodified":1695886595,
     "wof:name":"Chhubu",
     "wof:parent_id":85669531,
     "wof:placetype":"county",

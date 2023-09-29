@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020137,
-    "geom:area_square_m":221826268.773789,
+    "geom:area_square_m":221826267.990772,
     "geom:bbox":"89.410654,26.857447,89.53977,27.193093",
     "geom:latitude":27.018402,
     "geom:longitude":89.489742,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.CK.GL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328470,
-    "wof:geomhash":"af7dc309cb104043a721e3ff7f0e1234",
+    "wof:geomhash":"adc0e68d436f2d515bf84a2116467f74",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748243,
-    "wof:lastmodified":1627521896,
+    "wof:lastmodified":1695886211,
     "wof:name":"Geling",
     "wof:parent_id":85669501,
     "wof:placetype":"county",

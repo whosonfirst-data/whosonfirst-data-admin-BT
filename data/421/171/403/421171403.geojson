@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009149,
-    "geom:area_square_m":100374744.858802,
+    "geom:area_square_m":100374700.314514,
     "geom:bbox":"90.055974,27.412188,90.203679,27.524929",
     "geom:latitude":27.465349,
     "geom:longitude":90.135575,
@@ -89,12 +89,13 @@
         "hasc:id":"BT.WP.GT",
         "qs_pg:id":1248814
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1459008892,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd7ab869e9cf75cc412e6579523b4529",
+    "wof:geomhash":"a847d70542b5c71ffd40ae29b73205da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":421171403,
-    "wof:lastmodified":1627521896,
+    "wof:lastmodified":1695886209,
     "wof:name":"Gangte",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

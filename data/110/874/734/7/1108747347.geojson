@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00978,
-    "geom:area_square_m":107873711.839733,
+    "geom:area_square_m":107873589.87181,
     "geom:bbox":"89.772398,26.806728,89.911313,26.942189",
     "geom:latitude":26.869833,
     "geom:longitude":89.837027,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.DA.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326494,
-    "wof:geomhash":"da367913b7b25225f067c668fa102b78",
+    "wof:geomhash":"d6ad1725cf8b658b6ec6fdb691974cb8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747347,
-    "wof:lastmodified":1627521895,
+    "wof:lastmodified":1695886209,
     "wof:name":"Dorona",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

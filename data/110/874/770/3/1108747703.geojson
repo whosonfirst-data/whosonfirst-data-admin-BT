@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006793,
-    "geom:area_square_m":74598714.577915,
+    "geom:area_square_m":74598698.142176,
     "geom:bbox":"91.418525,27.311697,91.55835,27.41921",
     "geom:latitude":27.367064,
     "geom:longitude":91.493083,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.TA.YN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326536,
-    "wof:geomhash":"bdb483fbca025de8008fb313c3cf4c82",
+    "wof:geomhash":"0f7f7723418e98cfb64c1e8a7b0616e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747703,
-    "wof:lastmodified":1627521907,
+    "wof:lastmodified":1695886227,
     "wof:name":"Yangnyer",
     "wof:parent_id":85669583,
     "wof:placetype":"county",

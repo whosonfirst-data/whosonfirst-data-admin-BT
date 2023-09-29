@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004788,
-    "geom:area_square_m":52795539.778535,
+    "geom:area_square_m":52795586.718183,
     "geom:bbox":"91.789637,26.858803,91.882702,26.956323",
     "geom:latitude":26.91611,
     "geom:longitude":91.829091,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.SJ.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328492,
-    "wof:geomhash":"5ea786b4cd0d724dbe23b9363439f9a3",
+    "wof:geomhash":"d6f14dd54f50d71cf820fdb5aa20ce57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748429,
-    "wof:lastmodified":1627521903,
+    "wof:lastmodified":1695886220,
     "wof:name":"Samrang",
     "wof:parent_id":85669579,
     "wof:placetype":"county",

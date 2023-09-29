@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00523,
-    "geom:area_square_m":57626937.703079,
+    "geom:area_square_m":57626876.869176,
     "geom:bbox":"89.988122,26.930391,90.070726,27.042439",
     "geom:latitude":26.981897,
     "geom:longitude":90.027852,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.DA.DJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326496,
-    "wof:geomhash":"e76993427f01232b216f46c71f5e40f2",
+    "wof:geomhash":"34f4e196aa1aaeb9122b1cbc94e7e86e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108747357,
-    "wof:lastmodified":1627521896,
+    "wof:lastmodified":1695886210,
     "wof:name":"Drugyelgang",
     "wof:parent_id":85669505,
     "wof:placetype":"county",

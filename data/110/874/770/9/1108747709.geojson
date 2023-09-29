@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006066,
-    "geom:area_square_m":66799307.931527,
+    "geom:area_square_m":66799307.93155,
     "geom:bbox":"91.3821836704,27.0150045056,91.511821946,27.1134604173",
     "geom:latitude":27.060527,
     "geom:longitude":91.448772,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"BT.PM.ZB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479326536,
-    "wof:geomhash":"412b413c1752347ca4ee973dfd05ce8d",
+    "wof:geomhash":"651dd4d7421e21f11474bd411f0f280c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108747709,
-    "wof:lastmodified":1566630013,
+    "wof:lastmodified":1695886271,
     "wof:name":"Zobel",
     "wof:parent_id":85669575,
     "wof:placetype":"county",

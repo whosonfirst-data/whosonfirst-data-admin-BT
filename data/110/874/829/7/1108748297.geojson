@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057431,
-    "geom:area_square_m":628435719.481409,
+    "geom:area_square_m":628435669.32384,
     "geom:bbox":"89.958507,27.538925,90.244168,27.983959",
     "geom:latitude":27.755364,
     "geom:longitude":90.120643,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"BT.WP.KZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1479328477,
-    "wof:geomhash":"948756cef373289151097c391bb6686c",
+    "wof:geomhash":"2957cc314dd0deda686594f01a10866e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108748297,
-    "wof:lastmodified":1627521898,
+    "wof:lastmodified":1695886214,
     "wof:name":"Kazhi",
     "wof:parent_id":85669565,
     "wof:placetype":"county",

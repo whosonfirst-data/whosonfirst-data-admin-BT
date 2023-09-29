@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050988,
-    "geom:area_square_m":558712942.133499,
+    "geom:area_square_m":558712578.165829,
     "geom:bbox":"90.316471,27.466743,90.593192,27.784298",
     "geom:latitude":27.604412,
     "geom:longitude":90.467799,
@@ -90,12 +90,13 @@
         "hasc:id":"BT.TO.NB",
         "qs_pg:id":1205646
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BT",
     "wof:created":1459008878,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"649b6da37e694350c41364d251ecd936",
+    "wof:geomhash":"439f5c488881b4099a8b3ccbccc70896",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":421171015,
-    "wof:lastmodified":1627521901,
+    "wof:lastmodified":1695886217,
     "wof:name":"Nubi",
     "wof:parent_id":85669563,
     "wof:placetype":"county",

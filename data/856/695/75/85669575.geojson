@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092735,
-    "geom:area_square_m":1022121456.481254,
+    "geom:area_square_m":1022121052.970061,
     "geom:bbox":"91.002238,26.781255,91.548618,27.178167",
     "geom:latitude":26.954577,
     "geom:longitude":91.30993,
@@ -286,16 +286,18 @@
         "gn:id":1337287,
         "gp:id":2344881,
         "hasc:id":"BT.PM",
+        "iso:code":"BT-43",
         "iso:id":"BT-43",
         "qs_pg:id":1097028,
         "wd:id":"Q167279",
         "wk:page":"Pemagatshel District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3fc0cfa9ce32459a6fca8fe9de1c7d99",
+    "wof:geomhash":"e1d6e4319f42997520e466d0e0c55bc8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -310,7 +312,7 @@
     "wof:lang_x_spoken":[
         "dzo"
     ],
-    "wof:lastmodified":1690863596,
+    "wof:lastmodified":1695884338,
     "wof:name":"Pemagatshel",
     "wof:parent_id":85632171,
     "wof:placetype":"region",
